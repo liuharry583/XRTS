@@ -1,0 +1,68 @@
+{
+  "exp_0.txt": {
+    "rows": 1205,
+    "x_min": -57.3333333333,
+    "x_max": 39.8666666667,
+    "y_min": -0.190854870775,
+    "y_max": 2.46918489066,
+    "peak_x": 1.46666666667,
+    "strictly_ascending_x": false,
+    "finite": true,
+    "y_min_change": 0.0,
+    "y_max_change": 0.0,
+    "raw_exact_y_unchanged": true,
+    "raw_x_exact_negation": true
+  },
+  "sif_0.txt": {
+    "rows": 643,
+    "x_min": -47.4666666667,
+    "x_max": 37.8666666667,
+    "y_min": 0.00198807157058,
+    "y_max": 2.36381709742,
+    "peak_x": 0.133333333333,
+    "strictly_ascending_x": false,
+    "finite": true,
+    "y_min_change": 0.0,
+    "y_max_change": 0.0,
+    "raw_exact_y_unchanged": true,
+    "raw_x_exact_negation": true
+  },
+  "exp_data.txt": {
+    "rows": 731,
+    "x_min": -57.3333333333,
+    "x_max": 39.8666666667,
+    "y_min": -0.146015691945,
+    "y_max": 2.26783902539,
+    "peak_x": 1.3333333187,
+    "strictly_ascending_x": true,
+    "finite": true,
+    "y_min_change": -7.500000620552782e-11,
+    "y_max_change": -1.210000100115849e-09,
+    "mirror_y_max_abs_difference_on_current_grid": 0.01441512409292,
+    "broad_feature_window_eV": [
+      -35,
+      -15
+    ],
+    "broad_feature_local_max_x": -19.7333333427,
+    "broad_feature_local_max_y": 1.332044422,
+    "y_at_minus25": 0.998875100991836
+  },
+  "sif_data.txt": {
+    "rows": 642,
+    "x_min": -47.4666666667,
+    "x_max": 37.8666666667,
+    "y_min": 0.00198807157058,
+    "y_max": 2.34550247747,
+    "peak_x": 0.1333333214,
+    "strictly_ascending_x": true,
+    "finite": true,
+    "y_min_change": 0.0,
+    "y_max_change": -1.3000001075624823e-10,
+    "mirror_y_max_abs_difference_on_current_grid": 1.5059360425340174e-09
+  },
+  "verification": {
+    "only_change": "MANUAL_CALIB x_val second value 40.0 -> -40.0",
+    "all_other_scripts_hash_unchanged": true,
+    "previous_data_backup": "before_mirror_data.npz"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "checks": [
+    "Default Maxwell and integral spectra bitwise unchanged",
+    "Explicit config equals correctly synchronized legacy engine, both methods",
+    "Explicit per-case configs do not mutate module inputs",
+    "Direct base assignments repair stale/corrupted derived globals at compute",
+    "k_of_theta and configure refresh geometry and thermodynamics",
+    "Invalid configuration rejected before mutation",
+    "Explicit fixed collision-frequency override stays fixed",
+    "BMA smoke test finite for both ion modes",
+    "All original physics formula function ASTs preserved",
+    "Existing db_v2 representative case reproduced from metadata within 1e-12 relative tolerance"
+  ],
+  "passed": true
+}

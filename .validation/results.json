@@ -1,0 +1,192 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "numpy": "2.3.5",
+  "reference_sha256": "f0c38ec9a2b3dfc0ecdf9abf04f73b3b6da78beeb94ce618bd43b2f9e4ea0a4b",
+  "AST_checks": "unchanged existing physics functions; exact reference function ASTs",
+  "regressions": [
+    {
+      "args": [
+        120.0,
+        -250.0,
+        100.0
+      ],
+      "kwargs": {},
+      "max_relative_difference": 0.0
+    },
+    {
+      "args": [
+        5.0,
+        -45.0,
+        45.0
+      ],
+      "kwargs": {
+        "nw": 400,
+        "method": "integral"
+      },
+      "max_relative_difference": 0.0
+    },
+    {
+      "args": [
+        120.0,
+        -250.0,
+        100.0
+      ],
+      "kwargs": {
+        "method": "maxwell"
+      },
+      "max_relative_difference": 0.0
+    },
+    {
+      "args": [
+        160.0,
+        -400.0,
+        400.0
+      ],
+      "max_relative_difference": 0.0
+    },
+    {
+      "external_nu_fraction": 0.03,
+      "max_relative_difference": 0.0
+    }
+  ],
+  "conditions": {
+    "Te_eV": 10.0,
+    "T_K": 116045.18121550081,
+    "ne_m3": 2.4e+30,
+    "ZA": 4.0,
+    "Zf": 2.0,
+    "E0_keV": 4.75,
+    "theta_deg": 160,
+    "k_m_inv": 47412034773.81509,
+    "k_over_kap": 0.7194525255672019,
+    "width_eV": 18,
+    "w_rep_rad_s": 0.0
+  },
+  "sii_dh": 0.20559639435748608,
+  "sii_arkhipov": 0.8153160855165525,
+  "sii_scan": [
+    [
+      10000000.0,
+      0.642640288609043
+    ],
+    [
+      100000000.0,
+      0.642641585779714
+    ],
+    [
+      1000000000.0,
+      0.6427712685305713
+    ],
+    [
+      10000000000.0,
+      0.6554059894901945
+    ],
+    [
+      100000000000.0,
+      0.9356164390965501
+    ],
+    [
+      1000000000000.0,
+      0.999296175936915
+    ],
+    [
+      10000000000000.0,
+      0.9999988891237676
+    ],
+    [
+      100000000000000.0,
+      0.9999999998696745
+    ]
+  ],
+  "nu_bma_rad_s": -4816228245504897.0,
+  "wp_rad_s": 8.739712609461605e+16,
+  "nu_bma_over_wp": -0.055107398386199255,
+  "bma_positive": false,
+  "const_NU_FRAC": 0.0,
+  "const_nu_rad_s": 0.0,
+  "smoke": [
+    {
+      "nu_mode": "const",
+      "sii_mode": "dh",
+      "n": 600,
+      "S_tot_peak": 1.4319505893067626e-17,
+      "elastic_component_peak": 1.3773889503916691e-17,
+      "Compton_component_peak": 5.478509312505816e-18,
+      "elastic_to_Compton_component_peak_ratio": 2.5141673981414936,
+      "Compton_energy_eV": -138.23038397328884,
+      "S_tot_near_zero_to_at_Compton_ratio": 2.607326158735654,
+      "S_tot_min": 4.0871641842703937e-38,
+      "finite": true,
+      "module_nu_unchanged": true,
+      "Compton_peak_valid": true,
+      "ratio_note": "max(S_ion)/max(Zf*S); BMA negative nu makes this an arithmetic diagnostic, not a physical Compton peak ratio"
+    },
+    {
+      "nu_mode": "const",
+      "sii_mode": "arkhipov",
+      "n": 600,
+      "S_tot_peak": 5.5167555201678467e-17,
+      "elastic_component_peak": 5.4621938812527534e-17,
+      "Compton_component_peak": 5.478509312505816e-18,
+      "elastic_to_Compton_component_peak_ratio": 9.970219214165029,
+      "Compton_energy_eV": -138.23038397328884,
+      "S_tot_near_zero_to_at_Compton_ratio": 10.063377974744522,
+      "S_tot_min": 4.0871641842703937e-38,
+      "finite": true,
+      "module_nu_unchanged": true,
+      "Compton_peak_valid": true,
+      "ratio_note": "max(S_ion)/max(Zf*S); BMA negative nu makes this an arithmetic diagnostic, not a physical Compton peak ratio"
+    },
+    {
+      "nu_mode": "bma",
+      "sii_mode": "dh",
+      "n": 600,
+      "S_tot_peak": 1.4276314217294508e-17,
+      "elastic_component_peak": 1.3773889503916691e-17,
+      "Compton_component_peak": 5.024247133778175e-19,
+      "elastic_to_Compton_component_peak_ratio": 27.414832784228288,
+      "Compton_energy_eV": -0.6677796327211922,
+      "S_tot_near_zero_to_at_Compton_ratio": 0.9977266405747695,
+      "S_tot_min": -1.8162940701292953e-17,
+      "finite": true,
+      "module_nu_unchanged": true,
+      "Compton_peak_valid": false,
+      "ratio_note": "max(S_ion)/max(Zf*S); BMA negative nu makes this an arithmetic diagnostic, not a physical Compton peak ratio"
+    },
+    {
+      "nu_mode": "bma",
+      "sii_mode": "arkhipov",
+      "n": 600,
+      "S_tot_peak": 5.512436352590535e-17,
+      "elastic_component_peak": 5.4621938812527534e-17,
+      "Compton_component_peak": 5.024247133778175e-19,
+      "elastic_to_Compton_component_peak_ratio": 108.71666412526264,
+      "Compton_energy_eV": -0.6677796327211922,
+      "S_tot_near_zero_to_at_Compton_ratio": 0.999411236857761,
+      "S_tot_min": -1.8162940701292953e-17,
+      "finite": true,
+      "module_nu_unchanged": true,
+      "Compton_peak_valid": false,
+      "ratio_note": "max(S_ion)/max(Zf*S); BMA negative nu makes this an arithmetic diagnostic, not a physical Compton peak ratio"
+    }
+  ],
+  "reference_nu_bma_rad_s": -4816228245504897.0,
+  "bma_frequency_scan": [
+    {
+      "w_over_wp": 0.0,
+      "nu_over_wp": -0.055107398386199255
+    },
+    {
+      "w_over_wp": 0.1,
+      "nu_over_wp": -0.05432024664772335
+    },
+    {
+      "w_over_wp": 1.0,
+      "nu_over_wp": -0.04894940243729811
+    },
+    {
+      "w_over_wp": 2.0,
+      "nu_over_wp": -0.03617694564660007
+    }
+  ]
+}

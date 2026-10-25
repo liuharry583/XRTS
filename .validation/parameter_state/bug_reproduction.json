@@ -1,0 +1,32 @@
+{
+  "core": {
+    "E0_label_keV": 2.96,
+    "actual_k": 16466026875.908241,
+    "expected_k": 10260934642.67124,
+    "k_ratio": 1.6047297297297298,
+    "lambda_stored": 2.6101936496259526e-10,
+    "inferred_E0_keV": 4.750000000000001
+  },
+  "draft": {
+    "E0_label_keV": 2.96,
+    "actual_k": 16466026875.908241,
+    "expected_k": 10260934642.67124,
+    "k_ratio": 1.6047297297297298,
+    "lambda_stored": 2.6101936496259526e-10,
+    "inferred_E0_keV": 4.750000000000001
+  },
+  "database_k_audit": {
+    "db_v1": {
+      "files": 1887,
+      "min_k_over_expected": 1.0,
+      "max_k_over_expected": 1.0,
+      "all_match": true
+    },
+    "db_v2": {
+      "files": 1887,
+      "min_k_over_expected": 1.0,
+      "max_k_over_expected": 1.0,
+      "all_match": true
+    }
+  }
+}

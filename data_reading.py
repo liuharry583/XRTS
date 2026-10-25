@@ -22,7 +22,7 @@ import os
 
 import numpy as np
 
-DB_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "db_v1")
+DB_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "database", "db_v1")
 
 
 def case_filename(rho, te, th):

@@ -1,0 +1,60 @@
+{
+  "exp_0.txt": {
+    "path": "C:\\Users\\HP\\Documents\\Harry\\XRTS\\RTS_calculating\\exp_0.txt",
+    "rows": 1205,
+    "columns": 2,
+    "x_min": -39.8666666667,
+    "x_max": 57.3333333333,
+    "y_min": -0.190854870775,
+    "y_max": 2.46918489066,
+    "peak_x": -1.46666666667,
+    "all_finite": true,
+    "x_strictly_increasing": false
+  },
+  "sif_0.txt": {
+    "path": "C:\\Users\\HP\\Documents\\Harry\\XRTS\\RTS_calculating\\sif_0.txt",
+    "rows": 643,
+    "columns": 2,
+    "x_min": -37.8666666667,
+    "x_max": 47.4666666667,
+    "y_min": 0.00198807157058,
+    "y_max": 2.36381709742,
+    "peak_x": -0.133333333333,
+    "all_finite": true,
+    "x_strictly_increasing": false
+  },
+  "exp_data.txt": {
+    "path": "C:\\Users\\HP\\Documents\\Harry\\XRTS\\RTS_calculating\\exp_data.txt",
+    "rows": 731,
+    "columns": 2,
+    "x_min": -39.8666666667,
+    "x_max": 57.3333333333,
+    "y_min": -0.14601569187,
+    "y_max": 2.2678390266,
+    "peak_x": -1.333333343,
+    "all_finite": true,
+    "x_strictly_increasing": true
+  },
+  "sif_data.txt": {
+    "path": "C:\\Users\\HP\\Documents\\Harry\\XRTS\\RTS_calculating\\sif_data.txt",
+    "rows": 642,
+    "columns": 2,
+    "x_min": -37.8666666667,
+    "x_max": 47.4666666667,
+    "y_min": 0.00198807157058,
+    "y_max": 2.3455024776,
+    "peak_x": -0.1333333428,
+    "all_finite": true,
+    "x_strictly_increasing": true
+  },
+  "verification": {
+    "only_allowed_configuration_changed": true,
+    "sha256": {
+      "figure.png": "a3f9b9959d28b83b95e709ec38e3a6b75337806812318d148e555ae557e00b87",
+      "flatness_data.py": "79534498255cbb051cf9a9b5eea10b46ec2ac6d94c31910f479268bbde97bf56",
+      "physics_core.py": "f0c38ec9a2b3dfc0ecdf9abf04f73b3b6da78beeb94ce618bd43b2f9e4ea0a4b",
+      "run_rms_Dornheim.py": "674afd90d1ff65017b39207817237d7b99bcad1e367e6c9907d562102db71299",
+      "run_rms.py": "67cb6a582ee1ffa6aac3bc2a2928db2e99c529184f0db817bcd2a1fd7fb0e7b8"
+    }
+  }
+}

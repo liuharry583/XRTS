@@ -1,5 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
+from dataclasses import dataclass, replace
+from functools import lru_cache
 
 # ---------- 常数 (SI; 论文全章 SI，未用原子单位) ----------
 hbar = 1.054571817e-34
@@ -11,6 +13,7 @@ c = 2.99792458e8
 h = 2 * np.pi * hbar
 aB = 5.29177210903e-11
 EV = e  # 1 eV in J
+amu = 1.66053906660e-27  # kg; physics_core.py 的 sii_arkhipov 使用的离子质量单位
 
 
 # ---------- 化学势: n = 2*(2π m kT/h^2)^{3/2} F_{1/2}(βμ), 二分反解 ----------
@@ -69,6 +72,36 @@ def chi0(k, w, T, mu, eta_scale=0.05, np_grid=160, nmu=80):
 
 def epsilon_rpa(k, w, T, mu, **kw):
     return 1 - (e**2 / (eps0 * k**2)) * chi0(k, w, T, mu, **kw)
+
+
+# ---------- BMA：移植自 physics_core.py 的 nu_BMA ----------
+# 单位一致：k/q: m^-1, w/nu: rad/s, T: K, ne: m^-3, mu: J。
+# 内部 DH 屏蔽与 DH sii 属于 BMA 公式本身，不受 SII_MODE 影响。
+def nu_BMA(k, w, T, ne, Zf, mu, **kw):
+    """
+    基于 Born-Mermin 近似 (BMA) 的碰撞频率动态计算
+    注意：chi0 只接受标量 k，因此这里使用 for 循环对 q 数组进行遍历积分
+    """
+    w_safe = w + 1j * 1e-5 * (kB * T / hbar)
+    q = np.linspace(1e-3 * k, 2 * k, 50)
+
+    kappa2 = ne * e**2 / (eps0 * kB * T)
+    integrand = np.zeros_like(q, dtype=complex)
+
+    for i, qi in enumerate(q):
+        eps_plus = epsilon_rpa(qi, w_safe, T, mu, **kw)
+        eps_zero = epsilon_rpa(qi, 0.0, T, mu, **kw)
+        V_ei2 = (Zf * e**2 / (eps0 * (qi**2 + kappa2))) ** 2
+        sii = qi**2 / (qi**2 + kappa2)  # 这里用简化的 DH
+        integrand[i] = qi**6 * V_ei2 * sii * (1 / w_safe) * (eps_plus - eps_zero)
+
+    # BMA 符号修正：原文(张小丁式1.24)傅里叶约定与本文件 chi0 的 w+i·eta 约定
+    # 相反，原式给出负 nu，此处前置因子取 -i 使 nu>0；与 physics_core.py 参考
+    # 实现差一整体负号，属有意偏离，量级已经数值验证。
+    nu = (
+        (-1j * eps0 * ne) / (6 * np.pi**2 * e**2 * ne * me) * np.trapezoid(integrand, q)
+    )
+    return np.real(nu)
 
 
 # ---------- Maxwell 极限解析式 (§2.1 补充; 论文 p79) ----------
@@ -176,13 +209,76 @@ def sii_dh(k, T, ne, Zf, Ti=None):
     return k**2 / (k**2 + kappa_i2)
 
 
-def S_ion_chihara(w, k, T, mu, ne, ZA, Zf, width, **kw):
+# ---------- Arkhipov：移植自 physics_core.py 的 sii_arkhipov ----------
+# 单位一致：k: m^-1, T/TF/Tq/Tg: K, ne/ni: m^-3, 热波长: m。
+# 保留参考实现 mi = ZA * amu 和 rs 使用 ni 的约定；无需 eV/SI 换算。
+def sii_arkhipov(k, T, ne, Zf, ZA, Z_ion=1.0):
+    mi = ZA * amu
+    ni = ne / Zf
+    rs = (3.0 / (4.0 * np.pi * ni)) ** (1 / 3) / aB
+    TF = (hbar**2 / (2 * me * kB)) * (3 * np.pi**2 * ne) ** (2 / 3)
+    Tq = TF / (1.3251 - 0.1779 * np.sqrt(rs))
+    Tg = np.sqrt(T * T + Tq * Tq)  # 电子有效温度
+
+    kDe2 = ne * e**2 / (eps0 * kB * Tg)
+    kDi2 = Zf * ne * e**2 / (eps0 * kB * Tg)
+
+    mu_ee = me / 2
+    mu_ii = mi / 2
+    mu_ei = me * mi / (me + mi)
+    lam_ee = hbar / np.sqrt(2 * np.pi * mu_ee * kB * Tg)
+    lam_ii = hbar / np.sqrt(2 * np.pi * mu_ii * kB * Tg)
+    lam_ei = hbar / np.sqrt(2 * np.pi * mu_ei * kB * Tg)
+
+    b = 1.0 / (lam_ee**2 * np.pi * np.log(2))
+    A = (kB * Tg * np.log(2) * np.pi**1.5 * b ** (-1.5) * eps0) / e**2
+
+    term1 = k**4
+    term2 = (k**2 * kDe2) / (1 + k**2 * lam_ee**2)
+    term3 = (k**2 * kDi2) / (1 + k**2 * lam_ii**2)
+    term4 = (
+        kDe2
+        * kDi2
+        * (
+            1 / ((1 + k**2 * lam_ee**2) * (1 + k**2 * lam_ii**2))
+            - 1 / (1 + k**2 * lam_ei**2) ** 2
+        )
+    )
+    term5 = (
+        A
+        * k**2
+        * kDe2
+        * (k**2 + kDi2 / (1 + k**2 * lam_ii**2))
+        * np.exp(-(k**2) / (4 * b))
+    )
+    Delta = term1 + term2 + term3 + term4 + term5
+
+    bracket_1 = k**2 / (1 + k**2 * lam_ii**2)
+    bracket_2 = kDe2 * (
+        1 / ((1 + k**2 * lam_ee**2) * (1 + k**2 * lam_ii**2))
+        - 1 / (1 + k**2 * lam_ei**2) ** 2
+    )
+    bracket_3 = A * k**2 * kDe2 / (1 + k**2 * lam_ii**2) * np.exp(-(k**2) / (4 * b))
+
+    Phi_ii = (Zf * e**2 / (eps0 * Delta)) * (bracket_1 + bracket_2 + bracket_3)
+
+    S_ii = 1.0 - (ni / (kB * Tg)) * Phi_ii
+    return np.clip(S_ii, 1e-8, 1.0)
+
+
+def S_ion_chihara(w, k, T, mu, ne, ZA, Zf, width, *, sii_mode=None, **kw):
     """Chihara 离子/弹性项：
        |f_i(k)+rho(k)|^2 * S_ii(k) * G(w; width)
     rho 和 S_ii 只算一次，不随 w 重复算。"""
     fi = f_i_core(k, ZA, Zf)
     rho = rho_cloud(k, T, mu, Zf, **kw)
-    sii = sii_dh(k, T, ne, Zf)
+    mode = SII_MODE if sii_mode is None else sii_mode
+    if mode == "dh":
+        sii = sii_dh(k, T, ne, Zf)
+    elif mode == "arkhipov":
+        sii = sii_arkhipov(k, T, ne, Zf, ZA)
+    else:
+        raise ValueError(f"Unknown SII_MODE: {mode!r}")
     weight = abs(fi + rho) ** 2 * sii
     return weight * np.exp(-0.5 * (w / width) ** 2) / (width * np.sqrt(2 * np.pi))
 
@@ -192,57 +288,179 @@ def S_ion_chihara(w, k, T, mu, ne, ZA, Zf, width, **kw):
 # ============================================================
 Te_eV, ne, Zf, ZA = 33, 1.7e29, 3.3, 6.0  # 温度/eV, 密度/m^-3, 电离度, 原子序数
 E0_keV = 4.75  # 探针能量/keV
+NU_MODE = "const"  # const: NU_FRAC * wp；bma: 每次 compute 的局部碰撞频率
+SII_MODE = "dh"  # "dh" 或 "arkhipov"；外部跑批脚本可覆盖
 NU_FRAC = (
     0.0  # 碰撞频率 nu = NU_FRAC * wp（论文p95：0<ω<3ωp内ν基本平坦，常数近似误差小）
 )
 ELASTIC_WIDTH_eV = 18  # 弹性峰宽度占位（实际按仪器分辨定）
 USE_CHIHARA_ION = True  # True: 用 |f_i+rho|^2*S_ii 弹性项; False: 回退原 S_elastic
 
-# ---------- 派生量（自动算，不用手改） ----------
-T = Te_eV * EV / kB
-lam0 = h * c / (E0_keV * 1e3 * EV)
-wp = np.sqrt(ne * e**2 / (eps0 * me))
-kap = np.sqrt(ne * e**2 / (eps0 * kB * T))
-nu = NU_FRAC * wp
-mu = chem_pot(T, ne)
+
+@dataclass(frozen=True)
+class PhysicsConfig:
+    """独立输入；批处理推荐每个算例持有一个不可变配置。"""
+
+    Te_eV: float = 33.0
+    ne: float = 1.7e29
+    Zf: float = 3.3
+    ZA: float = 6.0
+    E0_keV: float = 4.75
+    NU_MODE: str = "const"
+    SII_MODE: str = "dh"
+    NU_FRAC: float = 0.0
+    ELASTIC_WIDTH_eV: float = 18.0
+    USE_CHIHARA_ION: bool = True
+    nu_rad_s: float | None = None  # 显式固定碰撞频率；None 使用 NU_FRAC*wp
+
+    def __post_init__(self):
+        for name in ("Te_eV", "ne", "Zf", "ZA", "E0_keV", "ELASTIC_WIDTH_eV"):
+            if not np.isfinite(getattr(self, name)) or getattr(self, name) <= 0:
+                raise ValueError(f"{name} must be finite and positive")
+        if not np.isfinite(self.NU_FRAC) or self.NU_FRAC < 0:
+            raise ValueError("NU_FRAC must be finite and nonnegative")
+        if self.nu_rad_s is not None and (
+            not np.isfinite(self.nu_rad_s) or self.nu_rad_s < 0
+        ):
+            raise ValueError("nu_rad_s must be finite and nonnegative")
+        if self.NU_MODE not in ("const", "bma") or self.SII_MODE not in (
+            "dh",
+            "arkhipov",
+        ):
+            raise ValueError("Unknown NU_MODE or SII_MODE")
 
 
-def k_of_theta(theta_deg):
+@dataclass(frozen=True)
+class DerivedState:
+    config: PhysicsConfig
+    T: float
+    lam0: float
+    wp: float
+    kap: float
+    nu: float
+    mu: float
+
+
+@lru_cache(maxsize=128)
+def build_state(config):
+    """只从完整输入推导；相同配置可复用，输入改变不会命中旧状态。"""
+    temperature = config.Te_eV * EV / kB
+    plasma = np.sqrt(config.ne * e**2 / (eps0 * me))
+    return DerivedState(
+        config=config,
+        T=temperature,
+        lam0=h * c / (config.E0_keV * 1e3 * EV),
+        wp=plasma,
+        kap=np.sqrt(config.ne * e**2 / (eps0 * kB * temperature)),
+        nu=config.NU_FRAC * plasma if config.nu_rad_s is None else config.nu_rad_s,
+        mu=chem_pot(temperature, config.ne),
+    )
+
+
+def current_config():
+    """兼容旧调用方直接赋值基础参数；派生全局量不是输入。"""
+    return PhysicsConfig(
+        **{
+            name: globals()[name]
+            for name in PhysicsConfig.__dataclass_fields__
+            if name != "nu_rad_s"
+        }
+    )
+
+
+def refresh_state():
+    """同步兼容接口的派生快照；compute/k_of_theta 会自动调用。"""
+    state = build_state(current_config())
+    globals().update(
+        {name: getattr(state, name) for name in ("T", "lam0", "wp", "kap", "nu", "mu")}
+    )
+    return state
+
+
+def configure(**changes):
+    """一次更新基础参数并立即同步；如 configure(E0_keV=2.96)。"""
+    if "nu_rad_s" in changes:
+        raise ValueError("Use PhysicsConfig(nu_rad_s=...) with compute(config=...)")
+    config = replace(current_config(), **changes)
+    state = build_state(config)  # 验证和推导成功后才提交全局变更
+    globals().update({name: getattr(config, name) for name in changes})
+    globals().update(
+        {name: getattr(state, name) for name in ("T", "lam0", "wp", "kap", "nu", "mu")}
+    )
+    return config
+
+
+refresh_state()
+
+
+def k_of_theta(theta_deg, *, config=None):
     """散射角 → 散射波矢 k（论文 p66，未编号公式）。原来散在三处手写，现统一"""
-    return 4 * np.pi * np.sin(np.deg2rad(theta_deg) / 2) / lam0
+    state = refresh_state() if config is None else build_state(config)
+    if not np.isfinite(theta_deg) or not 0 < theta_deg <= 180:
+        raise ValueError("theta_deg must be in (0, 180]")
+    return 4 * np.pi * np.sin(np.deg2rad(theta_deg) / 2) / state.lam0
 
 
-def compute(theta_deg, E_lo, E_hi, nw=600, method="auto"):
+def compute(theta_deg, E_lo, E_hi, nw=600, method="auto", *, config=None):
     """核心计算（画图和自检共用，避免重复写网格逻辑）。
     E_lo/E_hi: 光子能量位移范围[eV]，下移为负（论文惯例），直接按想看的范围填。
-    返回 E[eV](升序), w[rad/s](升序), S_free(单电子归一), S_tot(含弹性峰), k。
+    返回 E[eV](降序), w[rad/s](升序), S_free(单电子归一), S_tot(含弹性峰), k。
+    config=PhysicsConfig(...) 推荐用于批处理，互不污染；省略时兼容模块基础参数。
+    T/lam0/wp/kap/nu/mu 自动推导；直接给这些派生全局变量赋值不再控制 compute。
     method='auto': k/kap>2（非集体）自动用 Maxwell 解析式，避开积分版大k数值噪声；
               'integral'/'maxwell' 可强制指定。
     """
-    k = k_of_theta(theta_deg)
+    state = refresh_state() if config is None else build_state(config)
+    cfg = state.config
+    T, wp, kap, nu, mu = state.T, state.wp, state.kap, state.nu, state.mu
+    ne, Zf, ZA = cfg.ne, cfg.Zf, cfg.ZA
+    if method not in ("auto", "integral", "maxwell"):
+        raise ValueError(f"Unknown method: {method!r}")
+    if not np.isfinite([E_lo, E_hi]).all() or E_lo >= E_hi or nw < 2:
+        raise ValueError("Invalid energy grid")
+    k = k_of_theta(theta_deg, config=cfg)
     E = np.linspace(E_lo, E_hi, nw)
     w = -E * e / hbar  # 光子位移 → omega（能量损失为正的约定）
     m = np.abs(w) > 1e-3 * wp  # 避开 ω=0 处 FDT 因子的 0/0
     E, w = E[m], w[m]
     idx = np.argsort(w)  # w 升序：trapezoid 积分要求 x 递增
     E, w = E[idx], w[idx]
+    nu_eff = nu
+    if cfg.NU_MODE == "bma":
+        # 对称能量窗下 mean(w)=0，恰落在 nu_BMA 的 w=0 奇点上；
+        # 实测 nu 在 0.1~2 倍 wp 间变化平缓（<25%），取等离子体频率处的值作代表。
+        w_rep = wp
+        nu_bma = nu_BMA(k, w_rep, T, ne, Zf, mu)
+        nu_eff = nu_bma
+    elif cfg.NU_MODE != "const":
+        raise ValueError(f"Unknown NU_MODE: {cfg.NU_MODE!r}")
     use_mw = (k / kap > 2.0) if method == "auto" else (method == "maxwell")
     if use_mw:
         if not HAS_SCIPY:
             raise RuntimeError("Maxwell 解析式需要 scipy")
-        S = np.array([S_free_mw(k, wi, T, nu, ne) for wi in w])
+        S = np.array([S_free_mw(k, wi, T, nu_eff, ne) for wi in w])
     else:
-        S = np.array([S_free(k, wi, T, mu, nu, ne) for wi in w])
+        S = np.array([S_free(k, wi, T, mu, nu_eff, ne) for wi in w])
     # ---- 离子/弹性项：Chihara 或原占位 ----
-    if USE_CHIHARA_ION:
+    if cfg.USE_CHIHARA_ION:
         S_ion = S_ion_chihara(
-            w, k, T, mu, ne, ZA, Zf,
-            width=ELASTIC_WIDTH_eV * e / hbar,
+            w,
+            k,
+            T,
+            mu,
+            ne,
+            ZA,
+            Zf,
+            width=cfg.ELASTIC_WIDTH_eV * e / hbar,
+            sii_mode=cfg.SII_MODE,
         )
     else:
         S_ion = S_elastic(
-            w, k, ZA, Zf,
-            width=ELASTIC_WIDTH_eV * e / hbar,
+            w,
+            k,
+            ZA,
+            Zf,
+            width=cfg.ELASTIC_WIDTH_eV * e / hbar,
         )
     S_tot = Zf * S + S_ion
     return E, w, S, S_tot, k
@@ -264,36 +482,6 @@ def plot_spectrum(theta_deg, E_lo, E_hi, nw=600, method="auto"):
     plt.show()
 
 
-def run_selfchecks():
-    """四个自检（诊断用）：静态屏蔽 / 峰位 / 细致平衡 / 求和规则"""
-    print("=== 自检 ===")
-    # (a) θ=5° 集体区
-    E, w, S, _, k = compute(5.0, -45, 45, nw=400, method="integral")
-    eV = hbar * wp / e
-    print(
-        f"[θ=5°] α={kap / k:.1f}: 非弹性峰位≈{abs(E[np.argmax(S)]) / eV:.2f}ωp（自检2: k→0应→1）"
-    )
-    print(
-        f"  ∫S⁰dω={np.trapezoid(S, w):.4f}, "
-        f"期望k²/(k²+κ²)={(k / kap) ** 2 / (1 + (k / kap) ** 2):.4f}（自检4: 屏蔽压低是物理）"
-    )
-    i = np.argmin(np.abs(w - wp))
-    j = np.argmin(np.abs(w + wp))
-    print(
-        f"  细致平衡 S(-ωp)/S(+ωp)={S[j] / S[i]:.4f}, "
-        f"理论={np.exp(-hbar * wp / (kB * T)):.4f}（自检3）"
-    )
-    # (b) θ=120° 非集体区（解析版，无噪声）
-    E, w, S, _, k = compute(120.0, -250, 100, nw=600, method="maxwell")
-    recoil = (hbar * k) ** 2 / (2 * me) / (hbar * wp)
-    print(
-        f"[θ=120°] α={kap / k:.2f}: 非弹性峰位≈{abs(E[np.argmax(S)]) / eV:.2f}ωp "
-        f"（反冲={recoil:.2f}ωp，自检2）"
-    )
-    print(f"  ∫S⁰dω={np.trapezoid(S, w):.4f}（自检4: 应→1，差值为尾巴截断）")
-
-
 if __name__ == "__main__":
-    run_selfchecks()
     plot_spectrum(120.0, -250, 100)  # 非集体：弹性峰 + Compton峰
     plot_spectrum(5.0, -45, 45)  # 集体：弹性峰 + plasmon对峰

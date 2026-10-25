@@ -1,0 +1,2179 @@
+rho_gcc,Te_eV,theta_deg,filename,status,detail,created_at
+0,0,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:32:47Z
+0,0,10,case_r00_T00_th010.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:47Z
+0,0,20,case_r00_T00_th020.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:47Z
+0,0,30,case_r00_T00_th030.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:47Z
+0,0,40,case_r00_T00_th040.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:47Z
+0,0,50,case_r00_T00_th050.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:47Z
+0,0,60,case_r00_T00_th060.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:47Z
+0,0,70,case_r00_T00_th070.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,0,80,case_r00_T00_th080.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,0,90,case_r00_T00_th090.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,0,100,case_r00_T00_th100.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,0,110,case_r00_T00_th110.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,0,120,case_r00_T00_th120.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,0,130,case_r00_T00_th130.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,0,140,case_r00_T00_th140.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,0,150,case_r00_T00_th150.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,0,160,case_r00_T00_th160.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,0,170,case_r00_T00_th170.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,5,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:32:48Z
+0,5,10,case_r00_T05_th010.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,5,20,case_r00_T05_th020.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,5,30,case_r00_T05_th030.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,5,40,case_r00_T05_th040.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,5,50,case_r00_T05_th050.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,5,60,case_r00_T05_th060.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,5,70,case_r00_T05_th070.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,5,80,case_r00_T05_th080.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,5,90,case_r00_T05_th090.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,5,100,case_r00_T05_th100.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,5,110,case_r00_T05_th110.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,5,120,case_r00_T05_th120.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,5,130,case_r00_T05_th130.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,5,140,case_r00_T05_th140.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,5,150,case_r00_T05_th150.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,5,160,case_r00_T05_th160.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,5,170,case_r00_T05_th170.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,10,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:32:48Z
+0,10,10,case_r00_T10_th010.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,10,20,case_r00_T10_th020.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,10,30,case_r00_T10_th030.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,10,40,case_r00_T10_th040.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,10,50,case_r00_T10_th050.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,10,60,case_r00_T10_th060.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,10,70,case_r00_T10_th070.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,10,80,case_r00_T10_th080.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,10,90,case_r00_T10_th090.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,10,100,case_r00_T10_th100.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,10,110,case_r00_T10_th110.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,10,120,case_r00_T10_th120.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,10,130,case_r00_T10_th130.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,10,140,case_r00_T10_th140.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,10,150,case_r00_T10_th150.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,10,160,case_r00_T10_th160.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,10,170,case_r00_T10_th170.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,15,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:32:48Z
+0,15,10,case_r00_T15_th010.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,15,20,case_r00_T15_th020.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,15,30,case_r00_T15_th030.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,15,40,case_r00_T15_th040.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,15,50,case_r00_T15_th050.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,15,60,case_r00_T15_th060.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,15,70,case_r00_T15_th070.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,15,80,case_r00_T15_th080.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,15,90,case_r00_T15_th090.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,15,100,case_r00_T15_th100.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,15,110,case_r00_T15_th110.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,15,120,case_r00_T15_th120.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,15,130,case_r00_T15_th130.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,15,140,case_r00_T15_th140.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,15,150,case_r00_T15_th150.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,15,160,case_r00_T15_th160.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,15,170,case_r00_T15_th170.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,20,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:32:48Z
+0,20,10,case_r00_T20_th010.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,20,20,case_r00_T20_th020.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,20,30,case_r00_T20_th030.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,20,40,case_r00_T20_th040.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,20,50,case_r00_T20_th050.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,20,60,case_r00_T20_th060.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,20,70,case_r00_T20_th070.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,20,80,case_r00_T20_th080.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,20,90,case_r00_T20_th090.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,20,100,case_r00_T20_th100.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,20,110,case_r00_T20_th110.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,20,120,case_r00_T20_th120.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,20,130,case_r00_T20_th130.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,20,140,case_r00_T20_th140.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,20,150,case_r00_T20_th150.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,20,160,case_r00_T20_th160.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,20,170,case_r00_T20_th170.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,25,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:32:48Z
+0,25,10,case_r00_T25_th010.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,25,20,case_r00_T25_th020.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,25,30,case_r00_T25_th030.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,25,40,case_r00_T25_th040.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,25,50,case_r00_T25_th050.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,25,60,case_r00_T25_th060.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,25,70,case_r00_T25_th070.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,25,80,case_r00_T25_th080.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,25,90,case_r00_T25_th090.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,25,100,case_r00_T25_th100.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,25,110,case_r00_T25_th110.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,25,120,case_r00_T25_th120.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,25,130,case_r00_T25_th130.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,25,140,case_r00_T25_th140.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,25,150,case_r00_T25_th150.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,25,160,case_r00_T25_th160.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,25,170,case_r00_T25_th170.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,30,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:32:48Z
+0,30,10,case_r00_T30_th010.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,30,20,case_r00_T30_th020.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,30,30,case_r00_T30_th030.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,30,40,case_r00_T30_th040.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,30,50,case_r00_T30_th050.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,30,60,case_r00_T30_th060.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,30,70,case_r00_T30_th070.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,30,80,case_r00_T30_th080.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,30,90,case_r00_T30_th090.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,30,100,case_r00_T30_th100.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,30,110,case_r00_T30_th110.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,30,120,case_r00_T30_th120.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,30,130,case_r00_T30_th130.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,30,140,case_r00_T30_th140.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,30,150,case_r00_T30_th150.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,30,160,case_r00_T30_th160.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,30,170,case_r00_T30_th170.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,35,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:32:48Z
+0,35,10,case_r00_T35_th010.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,35,20,case_r00_T35_th020.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,35,30,case_r00_T35_th030.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,35,40,case_r00_T35_th040.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,35,50,case_r00_T35_th050.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,35,60,case_r00_T35_th060.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,35,70,case_r00_T35_th070.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,35,80,case_r00_T35_th080.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,35,90,case_r00_T35_th090.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,35,100,case_r00_T35_th100.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,35,110,case_r00_T35_th110.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,35,120,case_r00_T35_th120.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,35,130,case_r00_T35_th130.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,35,140,case_r00_T35_th140.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,35,150,case_r00_T35_th150.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,35,160,case_r00_T35_th160.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,35,170,case_r00_T35_th170.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,40,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:32:48Z
+0,40,10,case_r00_T40_th010.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,40,20,case_r00_T40_th020.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,40,30,case_r00_T40_th030.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,40,40,case_r00_T40_th040.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,40,50,case_r00_T40_th050.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,40,60,case_r00_T40_th060.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,40,70,case_r00_T40_th070.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,40,80,case_r00_T40_th080.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,40,90,case_r00_T40_th090.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,40,100,case_r00_T40_th100.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,40,110,case_r00_T40_th110.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,40,120,case_r00_T40_th120.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,40,130,case_r00_T40_th130.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,40,140,case_r00_T40_th140.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,40,150,case_r00_T40_th150.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,40,160,case_r00_T40_th160.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,40,170,case_r00_T40_th170.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,45,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:32:48Z
+0,45,10,case_r00_T45_th010.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,45,20,case_r00_T45_th020.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,45,30,case_r00_T45_th030.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,45,40,case_r00_T45_th040.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,45,50,case_r00_T45_th050.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,45,60,case_r00_T45_th060.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,45,70,case_r00_T45_th070.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,45,80,case_r00_T45_th080.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,45,90,case_r00_T45_th090.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,45,100,case_r00_T45_th100.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,45,110,case_r00_T45_th110.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,45,120,case_r00_T45_th120.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,45,130,case_r00_T45_th130.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,45,140,case_r00_T45_th140.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,45,150,case_r00_T45_th150.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,45,160,case_r00_T45_th160.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,45,170,case_r00_T45_th170.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,50,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:32:48Z
+0,50,10,case_r00_T50_th010.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,50,20,case_r00_T50_th020.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,50,30,case_r00_T50_th030.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,50,40,case_r00_T50_th040.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,50,50,case_r00_T50_th050.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,50,60,case_r00_T50_th060.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,50,70,case_r00_T50_th070.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,50,80,case_r00_T50_th080.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,50,90,case_r00_T50_th090.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,50,100,case_r00_T50_th100.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,50,110,case_r00_T50_th110.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,50,120,case_r00_T50_th120.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,50,130,case_r00_T50_th130.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,50,140,case_r00_T50_th140.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,50,150,case_r00_T50_th150.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,50,160,case_r00_T50_th160.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+0,50,170,case_r00_T50_th170.npz,zero_fill,vacuum point (ne=0); zero-filled per spec,2026-10-25T14:32:48Z
+5,0,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:32:48Z
+5,0,10,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:32:48Z
+5,0,20,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:32:48Z
+5,0,30,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:32:48Z
+5,0,40,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:32:48Z
+5,0,50,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:32:48Z
+5,0,60,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:32:48Z
+5,0,70,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:32:48Z
+5,0,80,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:32:48Z
+5,0,90,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:32:48Z
+5,0,100,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:32:48Z
+5,0,110,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:32:48Z
+5,0,120,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:32:48Z
+5,0,130,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:32:48Z
+5,0,140,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:32:48Z
+5,0,150,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:32:48Z
+5,0,160,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:32:48Z
+5,0,170,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:32:48Z
+5,5,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:32:48Z
+5,5,10,case_r05_T05_th010.npz,done,0.8s,2026-10-25T14:32:49Z
+5,5,20,case_r05_T05_th020.npz,done,0.8s,2026-10-25T14:32:49Z
+5,5,30,case_r05_T05_th030.npz,done,0.6s,2026-10-25T14:32:50Z
+5,5,40,case_r05_T05_th040.npz,done,0.6s,2026-10-25T14:32:51Z
+5,5,50,case_r05_T05_th050.npz,done,0.6s,2026-10-25T14:32:51Z
+5,5,60,case_r05_T05_th060.npz,done,0.6s,2026-10-25T14:32:52Z
+5,5,70,case_r05_T05_th070.npz,done,0.7s,2026-10-25T14:32:53Z
+5,5,80,case_r05_T05_th080.npz,done,0.7s,2026-10-25T14:32:53Z
+5,5,90,case_r05_T05_th090.npz,done,0.7s,2026-10-25T14:32:54Z
+5,5,100,case_r05_T05_th100.npz,done,0.6s,2026-10-25T14:32:55Z
+5,5,110,case_r05_T05_th110.npz,done,0.6s,2026-10-25T14:32:55Z
+5,5,120,case_r05_T05_th120.npz,done,0.6s,2026-10-25T14:32:56Z
+5,5,130,case_r05_T05_th130.npz,done,0.6s,2026-10-25T14:32:56Z
+5,5,140,case_r05_T05_th140.npz,done,0.6s,2026-10-25T14:32:57Z
+5,5,150,case_r05_T05_th150.npz,done,0.6s,2026-10-25T14:32:58Z
+5,5,160,case_r05_T05_th160.npz,done,0.6s,2026-10-25T14:32:58Z
+5,5,170,case_r05_T05_th170.npz,done,0.6s,2026-10-25T14:32:59Z
+5,10,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:32:59Z
+5,10,10,case_r05_T10_th010.npz,done,0.6s,2026-10-25T14:33:00Z
+5,10,20,case_r05_T10_th020.npz,done,0.6s,2026-10-25T14:33:00Z
+5,10,30,case_r05_T10_th030.npz,done,0.6s,2026-10-25T14:33:01Z
+5,10,40,case_r05_T10_th040.npz,done,0.6s,2026-10-25T14:33:01Z
+5,10,50,case_r05_T10_th050.npz,done,0.6s,2026-10-25T14:33:02Z
+5,10,60,case_r05_T10_th060.npz,done,0.6s,2026-10-25T14:33:03Z
+5,10,70,case_r05_T10_th070.npz,done,0.6s,2026-10-25T14:33:03Z
+5,10,80,case_r05_T10_th080.npz,done,0.6s,2026-10-25T14:33:04Z
+5,10,90,case_r05_T10_th090.npz,done,0.6s,2026-10-25T14:33:04Z
+5,10,100,case_r05_T10_th100.npz,done,0.6s,2026-10-25T14:33:05Z
+5,10,110,case_r05_T10_th110.npz,done,0.6s,2026-10-25T14:33:06Z
+5,10,120,case_r05_T10_th120.npz,done,0.6s,2026-10-25T14:33:06Z
+5,10,130,case_r05_T10_th130.npz,done,0.6s,2026-10-25T14:33:07Z
+5,10,140,case_r05_T10_th140.npz,done,0.6s,2026-10-25T14:33:08Z
+5,10,150,case_r05_T10_th150.npz,done,0.6s,2026-10-25T14:33:08Z
+5,10,160,case_r05_T10_th160.npz,done,0.7s,2026-10-25T14:33:09Z
+5,10,170,case_r05_T10_th170.npz,done,0.6s,2026-10-25T14:33:09Z
+5,15,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:33:09Z
+5,15,10,case_r05_T15_th010.npz,done,0.6s,2026-10-25T14:33:10Z
+5,15,20,case_r05_T15_th020.npz,done,0.6s,2026-10-25T14:33:11Z
+5,15,30,case_r05_T15_th030.npz,done,0.6s,2026-10-25T14:33:11Z
+5,15,40,case_r05_T15_th040.npz,done,0.6s,2026-10-25T14:33:12Z
+5,15,50,case_r05_T15_th050.npz,done,0.6s,2026-10-25T14:33:12Z
+5,15,60,case_r05_T15_th060.npz,done,0.6s,2026-10-25T14:33:13Z
+5,15,70,case_r05_T15_th070.npz,done,0.6s,2026-10-25T14:33:14Z
+5,15,80,case_r05_T15_th080.npz,done,0.6s,2026-10-25T14:33:14Z
+5,15,90,case_r05_T15_th090.npz,done,0.6s,2026-10-25T14:33:15Z
+5,15,100,case_r05_T15_th100.npz,done,0.6s,2026-10-25T14:33:15Z
+5,15,110,case_r05_T15_th110.npz,done,0.6s,2026-10-25T14:33:16Z
+5,15,120,case_r05_T15_th120.npz,done,0.6s,2026-10-25T14:33:17Z
+5,15,130,case_r05_T15_th130.npz,done,0.6s,2026-10-25T14:33:17Z
+5,15,140,case_r05_T15_th140.npz,done,0.6s,2026-10-25T14:33:18Z
+5,15,150,case_r05_T15_th150.npz,done,0.6s,2026-10-25T14:33:18Z
+5,15,160,case_r05_T15_th160.npz,done,0.6s,2026-10-25T14:33:19Z
+5,15,170,case_r05_T15_th170.npz,done,0.6s,2026-10-25T14:33:20Z
+5,20,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:33:20Z
+5,20,10,case_r05_T20_th010.npz,done,0.6s,2026-10-25T14:33:20Z
+5,20,20,case_r05_T20_th020.npz,done,0.6s,2026-10-25T14:33:21Z
+5,20,30,case_r05_T20_th030.npz,done,0.6s,2026-10-25T14:33:21Z
+5,20,40,case_r05_T20_th040.npz,done,0.6s,2026-10-25T14:33:22Z
+5,20,50,case_r05_T20_th050.npz,done,0.6s,2026-10-25T14:33:23Z
+5,20,60,case_r05_T20_th060.npz,done,0.6s,2026-10-25T14:33:23Z
+5,20,70,case_r05_T20_th070.npz,done,0.7s,2026-10-25T14:33:24Z
+5,20,80,case_r05_T20_th080.npz,done,0.6s,2026-10-25T14:33:25Z
+5,20,90,case_r05_T20_th090.npz,done,0.6s,2026-10-25T14:33:25Z
+5,20,100,case_r05_T20_th100.npz,done,0.6s,2026-10-25T14:33:26Z
+5,20,110,case_r05_T20_th110.npz,done,0.6s,2026-10-25T14:33:26Z
+5,20,120,case_r05_T20_th120.npz,done,0.6s,2026-10-25T14:33:27Z
+5,20,130,case_r05_T20_th130.npz,done,0.6s,2026-10-25T14:33:28Z
+5,20,140,case_r05_T20_th140.npz,done,0.6s,2026-10-25T14:33:28Z
+5,20,150,case_r05_T20_th150.npz,done,0.6s,2026-10-25T14:33:29Z
+5,20,160,case_r05_T20_th160.npz,done,0.0s,2026-10-25T14:33:29Z
+5,20,170,case_r05_T20_th170.npz,done,0.0s,2026-10-25T14:33:29Z
+5,25,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:33:29Z
+5,25,10,case_r05_T25_th010.npz,done,0.6s,2026-10-25T14:33:30Z
+5,25,20,case_r05_T25_th020.npz,done,0.6s,2026-10-25T14:33:30Z
+5,25,30,case_r05_T25_th030.npz,done,0.6s,2026-10-25T14:33:31Z
+5,25,40,case_r05_T25_th040.npz,done,0.6s,2026-10-25T14:33:31Z
+5,25,50,case_r05_T25_th050.npz,done,0.6s,2026-10-25T14:33:32Z
+5,25,60,case_r05_T25_th060.npz,done,0.6s,2026-10-25T14:33:33Z
+5,25,70,case_r05_T25_th070.npz,done,0.6s,2026-10-25T14:33:33Z
+5,25,80,case_r05_T25_th080.npz,done,0.6s,2026-10-25T14:33:34Z
+5,25,90,case_r05_T25_th090.npz,done,0.6s,2026-10-25T14:33:34Z
+5,25,100,case_r05_T25_th100.npz,done,0.6s,2026-10-25T14:33:35Z
+5,25,110,case_r05_T25_th110.npz,done,0.6s,2026-10-25T14:33:36Z
+5,25,120,case_r05_T25_th120.npz,done,0.6s,2026-10-25T14:33:36Z
+5,25,130,case_r05_T25_th130.npz,done,0.0s,2026-10-25T14:33:36Z
+5,25,140,case_r05_T25_th140.npz,done,0.0s,2026-10-25T14:33:36Z
+5,25,150,case_r05_T25_th150.npz,done,0.0s,2026-10-25T14:33:36Z
+5,25,160,case_r05_T25_th160.npz,done,0.0s,2026-10-25T14:33:36Z
+5,25,170,case_r05_T25_th170.npz,done,0.0s,2026-10-25T14:33:36Z
+5,30,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:33:36Z
+5,30,10,case_r05_T30_th010.npz,done,0.6s,2026-10-25T14:33:37Z
+5,30,20,case_r05_T30_th020.npz,done,0.6s,2026-10-25T14:33:38Z
+5,30,30,case_r05_T30_th030.npz,done,0.6s,2026-10-25T14:33:38Z
+5,30,40,case_r05_T30_th040.npz,done,0.6s,2026-10-25T14:33:39Z
+5,30,50,case_r05_T30_th050.npz,done,0.6s,2026-10-25T14:33:39Z
+5,30,60,case_r05_T30_th060.npz,done,0.6s,2026-10-25T14:33:40Z
+5,30,70,case_r05_T30_th070.npz,done,0.6s,2026-10-25T14:33:41Z
+5,30,80,case_r05_T30_th080.npz,done,0.6s,2026-10-25T14:33:41Z
+5,30,90,case_r05_T30_th090.npz,done,0.6s,2026-10-25T14:33:42Z
+5,30,100,case_r05_T30_th100.npz,done,0.6s,2026-10-25T14:33:42Z
+5,30,110,case_r05_T30_th110.npz,done,0.0s,2026-10-25T14:33:43Z
+5,30,120,case_r05_T30_th120.npz,done,0.0s,2026-10-25T14:33:43Z
+5,30,130,case_r05_T30_th130.npz,done,0.0s,2026-10-25T14:33:43Z
+5,30,140,case_r05_T30_th140.npz,done,0.0s,2026-10-25T14:33:43Z
+5,30,150,case_r05_T30_th150.npz,done,0.0s,2026-10-25T14:33:43Z
+5,30,160,case_r05_T30_th160.npz,done,0.0s,2026-10-25T14:33:43Z
+5,30,170,case_r05_T30_th170.npz,done,0.0s,2026-10-25T14:33:43Z
+5,35,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:33:43Z
+5,35,10,case_r05_T35_th010.npz,done,0.6s,2026-10-25T14:33:43Z
+5,35,20,case_r05_T35_th020.npz,done,0.6s,2026-10-25T14:33:44Z
+5,35,30,case_r05_T35_th030.npz,done,0.6s,2026-10-25T14:33:45Z
+5,35,40,case_r05_T35_th040.npz,done,0.6s,2026-10-25T14:33:45Z
+5,35,50,case_r05_T35_th050.npz,done,0.6s,2026-10-25T14:33:46Z
+5,35,60,case_r05_T35_th060.npz,done,0.6s,2026-10-25T14:33:46Z
+5,35,70,case_r05_T35_th070.npz,done,0.6s,2026-10-25T14:33:47Z
+5,35,80,case_r05_T35_th080.npz,done,0.6s,2026-10-25T14:33:48Z
+5,35,90,case_r05_T35_th090.npz,done,0.6s,2026-10-25T14:33:48Z
+5,35,100,case_r05_T35_th100.npz,done,0.0s,2026-10-25T14:33:48Z
+5,35,110,case_r05_T35_th110.npz,done,0.0s,2026-10-25T14:33:48Z
+5,35,120,case_r05_T35_th120.npz,done,0.0s,2026-10-25T14:33:48Z
+5,35,130,case_r05_T35_th130.npz,done,0.0s,2026-10-25T14:33:48Z
+5,35,140,case_r05_T35_th140.npz,done,0.0s,2026-10-25T14:33:48Z
+5,35,150,case_r05_T35_th150.npz,done,0.0s,2026-10-25T14:33:48Z
+5,35,160,case_r05_T35_th160.npz,done,0.0s,2026-10-25T14:33:48Z
+5,35,170,case_r05_T35_th170.npz,done,0.0s,2026-10-25T14:33:48Z
+5,40,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:33:48Z
+5,40,10,case_r05_T40_th010.npz,done,0.6s,2026-10-25T14:33:49Z
+5,40,20,case_r05_T40_th020.npz,done,0.6s,2026-10-25T14:33:50Z
+5,40,30,case_r05_T40_th030.npz,done,0.6s,2026-10-25T14:33:50Z
+5,40,40,case_r05_T40_th040.npz,done,0.6s,2026-10-25T14:33:51Z
+5,40,50,case_r05_T40_th050.npz,done,0.6s,2026-10-25T14:33:51Z
+5,40,60,case_r05_T40_th060.npz,done,0.6s,2026-10-25T14:33:52Z
+5,40,70,case_r05_T40_th070.npz,done,0.6s,2026-10-25T14:33:53Z
+5,40,80,case_r05_T40_th080.npz,done,0.6s,2026-10-25T14:33:53Z
+5,40,90,case_r05_T40_th090.npz,done,0.0s,2026-10-25T14:33:53Z
+5,40,100,case_r05_T40_th100.npz,done,0.0s,2026-10-25T14:33:53Z
+5,40,110,case_r05_T40_th110.npz,done,0.0s,2026-10-25T14:33:53Z
+5,40,120,case_r05_T40_th120.npz,done,0.0s,2026-10-25T14:33:53Z
+5,40,130,case_r05_T40_th130.npz,done,0.0s,2026-10-25T14:33:53Z
+5,40,140,case_r05_T40_th140.npz,done,0.0s,2026-10-25T14:33:53Z
+5,40,150,case_r05_T40_th150.npz,done,0.0s,2026-10-25T14:33:54Z
+5,40,160,case_r05_T40_th160.npz,done,0.0s,2026-10-25T14:33:54Z
+5,40,170,case_r05_T40_th170.npz,done,0.0s,2026-10-25T14:33:54Z
+5,45,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:33:54Z
+5,45,10,case_r05_T45_th010.npz,done,0.6s,2026-10-25T14:33:54Z
+5,45,20,case_r05_T45_th020.npz,done,0.6s,2026-10-25T14:33:55Z
+5,45,30,case_r05_T45_th030.npz,done,0.6s,2026-10-25T14:33:55Z
+5,45,40,case_r05_T45_th040.npz,done,0.6s,2026-10-25T14:33:56Z
+5,45,50,case_r05_T45_th050.npz,done,0.6s,2026-10-25T14:33:57Z
+5,45,60,case_r05_T45_th060.npz,done,0.6s,2026-10-25T14:33:57Z
+5,45,70,case_r05_T45_th070.npz,done,0.6s,2026-10-25T14:33:58Z
+5,45,80,case_r05_T45_th080.npz,done,0.6s,2026-10-25T14:33:59Z
+5,45,90,case_r05_T45_th090.npz,done,0.0s,2026-10-25T14:33:59Z
+5,45,100,case_r05_T45_th100.npz,done,0.0s,2026-10-25T14:33:59Z
+5,45,110,case_r05_T45_th110.npz,done,0.0s,2026-10-25T14:33:59Z
+5,45,120,case_r05_T45_th120.npz,done,0.0s,2026-10-25T14:33:59Z
+5,45,130,case_r05_T45_th130.npz,done,0.0s,2026-10-25T14:33:59Z
+5,45,140,case_r05_T45_th140.npz,done,0.0s,2026-10-25T14:33:59Z
+5,45,150,case_r05_T45_th150.npz,done,0.0s,2026-10-25T14:33:59Z
+5,45,160,case_r05_T45_th160.npz,done,0.0s,2026-10-25T14:33:59Z
+5,45,170,case_r05_T45_th170.npz,done,0.0s,2026-10-25T14:33:59Z
+5,50,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:33:59Z
+5,50,10,case_r05_T50_th010.npz,done,0.6s,2026-10-25T14:33:59Z
+5,50,20,case_r05_T50_th020.npz,done,0.6s,2026-10-25T14:34:00Z
+5,50,30,case_r05_T50_th030.npz,done,0.6s,2026-10-25T14:34:01Z
+5,50,40,case_r05_T50_th040.npz,done,0.6s,2026-10-25T14:34:01Z
+5,50,50,case_r05_T50_th050.npz,done,0.6s,2026-10-25T14:34:02Z
+5,50,60,case_r05_T50_th060.npz,done,0.6s,2026-10-25T14:34:03Z
+5,50,70,case_r05_T50_th070.npz,done,0.6s,2026-10-25T14:34:03Z
+5,50,80,case_r05_T50_th080.npz,done,0.0s,2026-10-25T14:34:03Z
+5,50,90,case_r05_T50_th090.npz,done,0.0s,2026-10-25T14:34:03Z
+5,50,100,case_r05_T50_th100.npz,done,0.0s,2026-10-25T14:34:03Z
+5,50,110,case_r05_T50_th110.npz,done,0.0s,2026-10-25T14:34:03Z
+5,50,120,case_r05_T50_th120.npz,done,0.0s,2026-10-25T14:34:03Z
+5,50,130,case_r05_T50_th130.npz,done,0.0s,2026-10-25T14:34:03Z
+5,50,140,case_r05_T50_th140.npz,done,0.0s,2026-10-25T14:34:03Z
+5,50,150,case_r05_T50_th150.npz,done,0.0s,2026-10-25T14:34:03Z
+5,50,160,case_r05_T50_th160.npz,done,0.0s,2026-10-25T14:34:03Z
+5,50,170,case_r05_T50_th170.npz,done,0.0s,2026-10-25T14:34:03Z
+10,0,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:34:03Z
+10,0,10,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:34:03Z
+10,0,20,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:34:03Z
+10,0,30,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:34:03Z
+10,0,40,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:34:03Z
+10,0,50,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:34:03Z
+10,0,60,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:34:03Z
+10,0,70,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:34:03Z
+10,0,80,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:34:03Z
+10,0,90,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:34:03Z
+10,0,100,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:34:03Z
+10,0,110,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:34:03Z
+10,0,120,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:34:03Z
+10,0,130,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:34:03Z
+10,0,140,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:34:03Z
+10,0,150,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:34:03Z
+10,0,160,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:34:03Z
+10,0,170,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:34:03Z
+10,5,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:34:03Z
+10,5,10,case_r10_T05_th010.npz,done,0.6s,2026-10-25T14:34:04Z
+10,5,20,case_r10_T05_th020.npz,done,0.6s,2026-10-25T14:34:05Z
+10,5,30,case_r10_T05_th030.npz,done,0.6s,2026-10-25T14:34:05Z
+10,5,40,case_r10_T05_th040.npz,done,0.6s,2026-10-25T14:34:06Z
+10,5,50,case_r10_T05_th050.npz,done,0.6s,2026-10-25T14:34:07Z
+10,5,60,case_r10_T05_th060.npz,done,0.6s,2026-10-25T14:34:07Z
+10,5,70,case_r10_T05_th070.npz,done,0.6s,2026-10-25T14:34:08Z
+10,5,80,case_r10_T05_th080.npz,done,0.6s,2026-10-25T14:34:08Z
+10,5,90,case_r10_T05_th090.npz,done,0.6s,2026-10-25T14:34:09Z
+10,5,100,case_r10_T05_th100.npz,done,0.6s,2026-10-25T14:34:10Z
+10,5,110,case_r10_T05_th110.npz,done,0.6s,2026-10-25T14:34:10Z
+10,5,120,case_r10_T05_th120.npz,done,0.6s,2026-10-25T14:34:11Z
+10,5,130,case_r10_T05_th130.npz,done,0.6s,2026-10-25T14:34:11Z
+10,5,140,case_r10_T05_th140.npz,done,0.6s,2026-10-25T14:34:12Z
+10,5,150,case_r10_T05_th150.npz,done,0.6s,2026-10-25T14:34:13Z
+10,5,160,case_r10_T05_th160.npz,done,0.6s,2026-10-25T14:34:13Z
+10,5,170,case_r10_T05_th170.npz,done,0.6s,2026-10-25T14:34:14Z
+10,10,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:34:14Z
+10,10,10,case_r10_T10_th010.npz,done,0.6s,2026-10-25T14:34:15Z
+10,10,20,case_r10_T10_th020.npz,done,0.6s,2026-10-25T14:34:15Z
+10,10,30,case_r10_T10_th030.npz,done,0.6s,2026-10-25T14:34:16Z
+10,10,40,case_r10_T10_th040.npz,done,0.6s,2026-10-25T14:34:16Z
+10,10,50,case_r10_T10_th050.npz,done,0.6s,2026-10-25T14:34:17Z
+10,10,60,case_r10_T10_th060.npz,done,0.6s,2026-10-25T14:34:18Z
+10,10,70,case_r10_T10_th070.npz,done,0.6s,2026-10-25T14:34:18Z
+10,10,80,case_r10_T10_th080.npz,done,0.6s,2026-10-25T14:34:19Z
+10,10,90,case_r10_T10_th090.npz,done,0.6s,2026-10-25T14:34:19Z
+10,10,100,case_r10_T10_th100.npz,done,0.6s,2026-10-25T14:34:20Z
+10,10,110,case_r10_T10_th110.npz,done,0.6s,2026-10-25T14:34:21Z
+10,10,120,case_r10_T10_th120.npz,done,0.6s,2026-10-25T14:34:21Z
+10,10,130,case_r10_T10_th130.npz,done,0.6s,2026-10-25T14:34:22Z
+10,10,140,case_r10_T10_th140.npz,done,0.6s,2026-10-25T14:34:23Z
+10,10,150,case_r10_T10_th150.npz,done,0.6s,2026-10-25T14:34:23Z
+10,10,160,case_r10_T10_th160.npz,done,0.6s,2026-10-25T14:34:24Z
+10,10,170,case_r10_T10_th170.npz,done,0.6s,2026-10-25T14:34:24Z
+10,15,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:34:24Z
+10,15,10,case_r10_T15_th010.npz,done,0.6s,2026-10-25T14:34:25Z
+10,15,20,case_r10_T15_th020.npz,done,0.6s,2026-10-25T14:34:26Z
+10,15,30,case_r10_T15_th030.npz,done,0.6s,2026-10-25T14:34:26Z
+10,15,40,case_r10_T15_th040.npz,done,0.7s,2026-10-25T14:34:27Z
+10,15,50,case_r10_T15_th050.npz,done,0.6s,2026-10-25T14:34:28Z
+10,15,60,case_r10_T15_th060.npz,done,0.6s,2026-10-25T14:34:28Z
+10,15,70,case_r10_T15_th070.npz,done,0.6s,2026-10-25T14:34:29Z
+10,15,80,case_r10_T15_th080.npz,done,0.6s,2026-10-25T14:34:29Z
+10,15,90,case_r10_T15_th090.npz,done,0.6s,2026-10-25T14:34:30Z
+10,15,100,case_r10_T15_th100.npz,done,0.6s,2026-10-25T14:34:31Z
+10,15,110,case_r10_T15_th110.npz,done,0.8s,2026-10-25T14:34:31Z
+10,15,120,case_r10_T15_th120.npz,done,0.6s,2026-10-25T14:34:32Z
+10,15,130,case_r10_T15_th130.npz,done,0.6s,2026-10-25T14:34:33Z
+10,15,140,case_r10_T15_th140.npz,done,0.6s,2026-10-25T14:34:33Z
+10,15,150,case_r10_T15_th150.npz,done,0.6s,2026-10-25T14:34:34Z
+10,15,160,case_r10_T15_th160.npz,done,0.6s,2026-10-25T14:34:35Z
+10,15,170,case_r10_T15_th170.npz,done,0.6s,2026-10-25T14:34:35Z
+10,20,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:34:35Z
+10,20,10,case_r10_T20_th010.npz,done,0.6s,2026-10-25T14:34:36Z
+10,20,20,case_r10_T20_th020.npz,done,0.6s,2026-10-25T14:34:36Z
+10,20,30,case_r10_T20_th030.npz,done,0.6s,2026-10-25T14:34:37Z
+10,20,40,case_r10_T20_th040.npz,done,0.6s,2026-10-25T14:34:38Z
+10,20,50,case_r10_T20_th050.npz,done,0.6s,2026-10-25T14:34:38Z
+10,20,60,case_r10_T20_th060.npz,done,0.6s,2026-10-25T14:34:39Z
+10,20,70,case_r10_T20_th070.npz,done,0.6s,2026-10-25T14:34:39Z
+10,20,80,case_r10_T20_th080.npz,done,0.6s,2026-10-25T14:34:40Z
+10,20,90,case_r10_T20_th090.npz,done,0.6s,2026-10-25T14:34:41Z
+10,20,100,case_r10_T20_th100.npz,done,0.6s,2026-10-25T14:34:41Z
+10,20,110,case_r10_T20_th110.npz,done,0.6s,2026-10-25T14:34:42Z
+10,20,120,case_r10_T20_th120.npz,done,0.6s,2026-10-25T14:34:43Z
+10,20,130,case_r10_T20_th130.npz,done,0.6s,2026-10-25T14:34:43Z
+10,20,140,case_r10_T20_th140.npz,done,0.6s,2026-10-25T14:34:44Z
+10,20,150,case_r10_T20_th150.npz,done,0.6s,2026-10-25T14:34:44Z
+10,20,160,case_r10_T20_th160.npz,done,0.6s,2026-10-25T14:34:45Z
+10,20,170,case_r10_T20_th170.npz,done,0.6s,2026-10-25T14:34:46Z
+10,25,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:34:46Z
+10,25,10,case_r10_T25_th010.npz,done,0.6s,2026-10-25T14:34:46Z
+10,25,20,case_r10_T25_th020.npz,done,0.6s,2026-10-25T14:34:47Z
+10,25,30,case_r10_T25_th030.npz,done,0.6s,2026-10-25T14:34:47Z
+10,25,40,case_r10_T25_th040.npz,done,0.6s,2026-10-25T14:34:48Z
+10,25,50,case_r10_T25_th050.npz,done,0.6s,2026-10-25T14:34:49Z
+10,25,60,case_r10_T25_th060.npz,done,0.6s,2026-10-25T14:34:49Z
+10,25,70,case_r10_T25_th070.npz,done,0.6s,2026-10-25T14:34:50Z
+10,25,80,case_r10_T25_th080.npz,done,0.6s,2026-10-25T14:34:50Z
+10,25,90,case_r10_T25_th090.npz,done,0.6s,2026-10-25T14:34:51Z
+10,25,100,case_r10_T25_th100.npz,done,0.6s,2026-10-25T14:34:52Z
+10,25,110,case_r10_T25_th110.npz,done,0.6s,2026-10-25T14:34:52Z
+10,25,120,case_r10_T25_th120.npz,done,0.7s,2026-10-25T14:34:53Z
+10,25,130,case_r10_T25_th130.npz,done,0.7s,2026-10-25T14:34:54Z
+10,25,140,case_r10_T25_th140.npz,done,0.6s,2026-10-25T14:34:54Z
+10,25,150,case_r10_T25_th150.npz,done,0.6s,2026-10-25T14:34:55Z
+10,25,160,case_r10_T25_th160.npz,done,0.6s,2026-10-25T14:34:56Z
+10,25,170,case_r10_T25_th170.npz,done,0.6s,2026-10-25T14:34:56Z
+10,30,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:34:56Z
+10,30,10,case_r10_T30_th010.npz,done,0.6s,2026-10-25T14:34:57Z
+10,30,20,case_r10_T30_th020.npz,done,0.6s,2026-10-25T14:34:57Z
+10,30,30,case_r10_T30_th030.npz,done,0.6s,2026-10-25T14:34:58Z
+10,30,40,case_r10_T30_th040.npz,done,0.6s,2026-10-25T14:34:59Z
+10,30,50,case_r10_T30_th050.npz,done,0.6s,2026-10-25T14:34:59Z
+10,30,60,case_r10_T30_th060.npz,done,0.6s,2026-10-25T14:35:00Z
+10,30,70,case_r10_T30_th070.npz,done,0.7s,2026-10-25T14:35:01Z
+10,30,80,case_r10_T30_th080.npz,done,0.6s,2026-10-25T14:35:01Z
+10,30,90,case_r10_T30_th090.npz,done,0.6s,2026-10-25T14:35:02Z
+10,30,100,case_r10_T30_th100.npz,done,0.6s,2026-10-25T14:35:02Z
+10,30,110,case_r10_T30_th110.npz,done,0.6s,2026-10-25T14:35:03Z
+10,30,120,case_r10_T30_th120.npz,done,0.7s,2026-10-25T14:35:04Z
+10,30,130,case_r10_T30_th130.npz,done,0.6s,2026-10-25T14:35:04Z
+10,30,140,case_r10_T30_th140.npz,done,0.6s,2026-10-25T14:35:05Z
+10,30,150,case_r10_T30_th150.npz,done,0.7s,2026-10-25T14:35:06Z
+10,30,160,case_r10_T30_th160.npz,done,0.6s,2026-10-25T14:35:06Z
+10,30,170,case_r10_T30_th170.npz,done,0.6s,2026-10-25T14:35:07Z
+10,35,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:35:07Z
+10,35,10,case_r10_T35_th010.npz,done,0.6s,2026-10-25T14:35:07Z
+10,35,20,case_r10_T35_th020.npz,done,0.6s,2026-10-25T14:35:08Z
+10,35,30,case_r10_T35_th030.npz,done,0.6s,2026-10-25T14:35:09Z
+10,35,40,case_r10_T35_th040.npz,done,0.6s,2026-10-25T14:35:09Z
+10,35,50,case_r10_T35_th050.npz,done,0.6s,2026-10-25T14:35:10Z
+10,35,60,case_r10_T35_th060.npz,done,0.6s,2026-10-25T14:35:11Z
+10,35,70,case_r10_T35_th070.npz,done,0.6s,2026-10-25T14:35:11Z
+10,35,80,case_r10_T35_th080.npz,done,0.6s,2026-10-25T14:35:12Z
+10,35,90,case_r10_T35_th090.npz,done,0.6s,2026-10-25T14:35:13Z
+10,35,100,case_r10_T35_th100.npz,done,0.6s,2026-10-25T14:35:13Z
+10,35,110,case_r10_T35_th110.npz,done,0.6s,2026-10-25T14:35:14Z
+10,35,120,case_r10_T35_th120.npz,done,0.6s,2026-10-25T14:35:14Z
+10,35,130,case_r10_T35_th130.npz,done,0.6s,2026-10-25T14:35:15Z
+10,35,140,case_r10_T35_th140.npz,done,0.6s,2026-10-25T14:35:16Z
+10,35,150,case_r10_T35_th150.npz,done,0.6s,2026-10-25T14:35:16Z
+10,35,160,case_r10_T35_th160.npz,done,0.6s,2026-10-25T14:35:17Z
+10,35,170,case_r10_T35_th170.npz,done,0.6s,2026-10-25T14:35:17Z
+10,40,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:35:17Z
+10,40,10,case_r10_T40_th010.npz,done,0.6s,2026-10-25T14:35:18Z
+10,40,20,case_r10_T40_th020.npz,done,0.6s,2026-10-25T14:35:19Z
+10,40,30,case_r10_T40_th030.npz,done,0.6s,2026-10-25T14:35:19Z
+10,40,40,case_r10_T40_th040.npz,done,0.6s,2026-10-25T14:35:20Z
+10,40,50,case_r10_T40_th050.npz,done,0.6s,2026-10-25T14:35:20Z
+10,40,60,case_r10_T40_th060.npz,done,0.6s,2026-10-25T14:35:21Z
+10,40,70,case_r10_T40_th070.npz,done,0.6s,2026-10-25T14:35:22Z
+10,40,80,case_r10_T40_th080.npz,done,0.6s,2026-10-25T14:35:22Z
+10,40,90,case_r10_T40_th090.npz,done,0.6s,2026-10-25T14:35:23Z
+10,40,100,case_r10_T40_th100.npz,done,0.7s,2026-10-25T14:35:24Z
+10,40,110,case_r10_T40_th110.npz,done,0.6s,2026-10-25T14:35:24Z
+10,40,120,case_r10_T40_th120.npz,done,0.7s,2026-10-25T14:35:25Z
+10,40,130,case_r10_T40_th130.npz,done,0.6s,2026-10-25T14:35:25Z
+10,40,140,case_r10_T40_th140.npz,done,0.6s,2026-10-25T14:35:26Z
+10,40,150,case_r10_T40_th150.npz,done,0.6s,2026-10-25T14:35:27Z
+10,40,160,case_r10_T40_th160.npz,done,0.0s,2026-10-25T14:35:27Z
+10,40,170,case_r10_T40_th170.npz,done,0.0s,2026-10-25T14:35:27Z
+10,45,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:35:27Z
+10,45,10,case_r10_T45_th010.npz,done,0.7s,2026-10-25T14:35:27Z
+10,45,20,case_r10_T45_th020.npz,done,0.6s,2026-10-25T14:35:28Z
+10,45,30,case_r10_T45_th030.npz,done,0.6s,2026-10-25T14:35:29Z
+10,45,40,case_r10_T45_th040.npz,done,0.6s,2026-10-25T14:35:29Z
+10,45,50,case_r10_T45_th050.npz,done,0.6s,2026-10-25T14:35:30Z
+10,45,60,case_r10_T45_th060.npz,done,0.6s,2026-10-25T14:35:31Z
+10,45,70,case_r10_T45_th070.npz,done,0.6s,2026-10-25T14:35:31Z
+10,45,80,case_r10_T45_th080.npz,done,0.6s,2026-10-25T14:35:32Z
+10,45,90,case_r10_T45_th090.npz,done,0.6s,2026-10-25T14:35:32Z
+10,45,100,case_r10_T45_th100.npz,done,0.6s,2026-10-25T14:35:33Z
+10,45,110,case_r10_T45_th110.npz,done,0.6s,2026-10-25T14:35:34Z
+10,45,120,case_r10_T45_th120.npz,done,0.6s,2026-10-25T14:35:34Z
+10,45,130,case_r10_T45_th130.npz,done,0.6s,2026-10-25T14:35:35Z
+10,45,140,case_r10_T45_th140.npz,done,0.0s,2026-10-25T14:35:35Z
+10,45,150,case_r10_T45_th150.npz,done,0.0s,2026-10-25T14:35:35Z
+10,45,160,case_r10_T45_th160.npz,done,0.0s,2026-10-25T14:35:35Z
+10,45,170,case_r10_T45_th170.npz,done,0.0s,2026-10-25T14:35:35Z
+10,50,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:35:35Z
+10,50,10,case_r10_T50_th010.npz,done,0.6s,2026-10-25T14:35:36Z
+10,50,20,case_r10_T50_th020.npz,done,0.6s,2026-10-25T14:35:36Z
+10,50,30,case_r10_T50_th030.npz,done,0.6s,2026-10-25T14:35:37Z
+10,50,40,case_r10_T50_th040.npz,done,0.6s,2026-10-25T14:35:37Z
+10,50,50,case_r10_T50_th050.npz,done,0.6s,2026-10-25T14:35:38Z
+10,50,60,case_r10_T50_th060.npz,done,0.6s,2026-10-25T14:35:39Z
+10,50,70,case_r10_T50_th070.npz,done,0.6s,2026-10-25T14:35:39Z
+10,50,80,case_r10_T50_th080.npz,done,0.6s,2026-10-25T14:35:40Z
+10,50,90,case_r10_T50_th090.npz,done,0.6s,2026-10-25T14:35:40Z
+10,50,100,case_r10_T50_th100.npz,done,0.6s,2026-10-25T14:35:41Z
+10,50,110,case_r10_T50_th110.npz,done,0.6s,2026-10-25T14:35:42Z
+10,50,120,case_r10_T50_th120.npz,done,0.6s,2026-10-25T14:35:42Z
+10,50,130,case_r10_T50_th130.npz,done,0.0s,2026-10-25T14:35:42Z
+10,50,140,case_r10_T50_th140.npz,done,0.0s,2026-10-25T14:35:42Z
+10,50,150,case_r10_T50_th150.npz,done,0.0s,2026-10-25T14:35:42Z
+10,50,160,case_r10_T50_th160.npz,done,0.0s,2026-10-25T14:35:42Z
+10,50,170,case_r10_T50_th170.npz,done,0.0s,2026-10-25T14:35:42Z
+15,0,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:35:42Z
+15,0,10,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:35:42Z
+15,0,20,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:35:42Z
+15,0,30,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:35:42Z
+15,0,40,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:35:42Z
+15,0,50,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:35:42Z
+15,0,60,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:35:42Z
+15,0,70,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:35:42Z
+15,0,80,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:35:42Z
+15,0,90,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:35:42Z
+15,0,100,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:35:42Z
+15,0,110,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:35:42Z
+15,0,120,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:35:42Z
+15,0,130,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:35:42Z
+15,0,140,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:35:42Z
+15,0,150,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:35:42Z
+15,0,160,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:35:42Z
+15,0,170,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:35:42Z
+15,5,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:35:42Z
+15,5,10,case_r15_T05_th010.npz,done,0.6s,2026-10-25T14:35:43Z
+15,5,20,case_r15_T05_th020.npz,done,0.6s,2026-10-25T14:35:44Z
+15,5,30,case_r15_T05_th030.npz,done,0.6s,2026-10-25T14:35:44Z
+15,5,40,case_r15_T05_th040.npz,done,0.6s,2026-10-25T14:35:45Z
+15,5,50,case_r15_T05_th050.npz,done,0.6s,2026-10-25T14:35:45Z
+15,5,60,case_r15_T05_th060.npz,done,0.6s,2026-10-25T14:35:46Z
+15,5,70,case_r15_T05_th070.npz,done,0.6s,2026-10-25T14:35:47Z
+15,5,80,case_r15_T05_th080.npz,done,0.6s,2026-10-25T14:35:47Z
+15,5,90,case_r15_T05_th090.npz,done,0.6s,2026-10-25T14:35:48Z
+15,5,100,case_r15_T05_th100.npz,done,0.6s,2026-10-25T14:35:49Z
+15,5,110,case_r15_T05_th110.npz,done,0.6s,2026-10-25T14:35:49Z
+15,5,120,case_r15_T05_th120.npz,done,0.6s,2026-10-25T14:35:50Z
+15,5,130,case_r15_T05_th130.npz,done,0.6s,2026-10-25T14:35:50Z
+15,5,140,case_r15_T05_th140.npz,done,0.6s,2026-10-25T14:35:51Z
+15,5,150,case_r15_T05_th150.npz,done,0.6s,2026-10-25T14:35:52Z
+15,5,160,case_r15_T05_th160.npz,done,0.6s,2026-10-25T14:35:52Z
+15,5,170,case_r15_T05_th170.npz,done,0.6s,2026-10-25T14:35:53Z
+15,10,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:35:53Z
+15,10,10,case_r15_T10_th010.npz,done,0.6s,2026-10-25T14:35:54Z
+15,10,20,case_r15_T10_th020.npz,done,0.6s,2026-10-25T14:35:54Z
+15,10,30,case_r15_T10_th030.npz,done,0.6s,2026-10-25T14:35:55Z
+15,10,40,case_r15_T10_th040.npz,done,0.6s,2026-10-25T14:35:55Z
+15,10,50,case_r15_T10_th050.npz,done,0.6s,2026-10-25T14:35:56Z
+15,10,60,case_r15_T10_th060.npz,done,0.6s,2026-10-25T14:35:57Z
+15,10,70,case_r15_T10_th070.npz,done,0.6s,2026-10-25T14:35:57Z
+15,10,80,case_r15_T10_th080.npz,done,0.6s,2026-10-25T14:35:58Z
+15,10,90,case_r15_T10_th090.npz,done,0.6s,2026-10-25T14:35:59Z
+15,10,100,case_r15_T10_th100.npz,done,0.6s,2026-10-25T14:35:59Z
+15,10,110,case_r15_T10_th110.npz,done,0.6s,2026-10-25T14:36:00Z
+15,10,120,case_r15_T10_th120.npz,done,0.6s,2026-10-25T14:36:00Z
+15,10,130,case_r15_T10_th130.npz,done,0.6s,2026-10-25T14:36:01Z
+15,10,140,case_r15_T10_th140.npz,done,0.6s,2026-10-25T14:36:02Z
+15,10,150,case_r15_T10_th150.npz,done,0.6s,2026-10-25T14:36:02Z
+15,10,160,case_r15_T10_th160.npz,done,0.6s,2026-10-25T14:36:03Z
+15,10,170,case_r15_T10_th170.npz,done,0.6s,2026-10-25T14:36:03Z
+15,15,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:36:03Z
+15,15,10,case_r15_T15_th010.npz,done,0.6s,2026-10-25T14:36:04Z
+15,15,20,case_r15_T15_th020.npz,done,0.6s,2026-10-25T14:36:05Z
+15,15,30,case_r15_T15_th030.npz,done,0.6s,2026-10-25T14:36:05Z
+15,15,40,case_r15_T15_th040.npz,done,0.6s,2026-10-25T14:36:06Z
+15,15,50,case_r15_T15_th050.npz,done,0.6s,2026-10-25T14:36:07Z
+15,15,60,case_r15_T15_th060.npz,done,0.6s,2026-10-25T14:36:07Z
+15,15,70,case_r15_T15_th070.npz,done,0.6s,2026-10-25T14:36:08Z
+15,15,80,case_r15_T15_th080.npz,done,0.6s,2026-10-25T14:36:08Z
+15,15,90,case_r15_T15_th090.npz,done,0.6s,2026-10-25T14:36:09Z
+15,15,100,case_r15_T15_th100.npz,done,0.6s,2026-10-25T14:36:10Z
+15,15,110,case_r15_T15_th110.npz,done,0.6s,2026-10-25T14:36:10Z
+15,15,120,case_r15_T15_th120.npz,done,0.6s,2026-10-25T14:36:11Z
+15,15,130,case_r15_T15_th130.npz,done,0.6s,2026-10-25T14:36:11Z
+15,15,140,case_r15_T15_th140.npz,done,0.6s,2026-10-25T14:36:12Z
+15,15,150,case_r15_T15_th150.npz,done,0.6s,2026-10-25T14:36:13Z
+15,15,160,case_r15_T15_th160.npz,done,0.6s,2026-10-25T14:36:13Z
+15,15,170,case_r15_T15_th170.npz,done,0.7s,2026-10-25T14:36:14Z
+15,20,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:36:14Z
+15,20,10,case_r15_T20_th010.npz,done,0.6s,2026-10-25T14:36:15Z
+15,20,20,case_r15_T20_th020.npz,done,0.6s,2026-10-25T14:36:15Z
+15,20,30,case_r15_T20_th030.npz,done,0.6s,2026-10-25T14:36:16Z
+15,20,40,case_r15_T20_th040.npz,done,0.6s,2026-10-25T14:36:16Z
+15,20,50,case_r15_T20_th050.npz,done,0.6s,2026-10-25T14:36:17Z
+15,20,60,case_r15_T20_th060.npz,done,0.6s,2026-10-25T14:36:18Z
+15,20,70,case_r15_T20_th070.npz,done,0.6s,2026-10-25T14:36:18Z
+15,20,80,case_r15_T20_th080.npz,done,0.6s,2026-10-25T14:36:19Z
+15,20,90,case_r15_T20_th090.npz,done,0.6s,2026-10-25T14:36:20Z
+15,20,100,case_r15_T20_th100.npz,done,0.6s,2026-10-25T14:36:20Z
+15,20,110,case_r15_T20_th110.npz,done,0.6s,2026-10-25T14:36:21Z
+15,20,120,case_r15_T20_th120.npz,done,0.6s,2026-10-25T14:36:22Z
+15,20,130,case_r15_T20_th130.npz,done,0.6s,2026-10-25T14:36:22Z
+15,20,140,case_r15_T20_th140.npz,done,0.6s,2026-10-25T14:36:23Z
+15,20,150,case_r15_T20_th150.npz,done,0.6s,2026-10-25T14:36:23Z
+15,20,160,case_r15_T20_th160.npz,done,0.6s,2026-10-25T14:36:24Z
+15,20,170,case_r15_T20_th170.npz,done,0.6s,2026-10-25T14:36:25Z
+15,25,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:36:25Z
+15,25,10,case_r15_T25_th010.npz,done,0.6s,2026-10-25T14:36:25Z
+15,25,20,case_r15_T25_th020.npz,done,0.6s,2026-10-25T14:36:26Z
+15,25,30,case_r15_T25_th030.npz,done,0.6s,2026-10-25T14:36:27Z
+15,25,40,case_r15_T25_th040.npz,done,0.6s,2026-10-25T14:36:27Z
+15,25,50,case_r15_T25_th050.npz,done,0.7s,2026-10-25T14:36:28Z
+15,25,60,case_r15_T25_th060.npz,done,0.6s,2026-10-25T14:36:28Z
+15,25,70,case_r15_T25_th070.npz,done,0.6s,2026-10-25T14:36:29Z
+15,25,80,case_r15_T25_th080.npz,done,0.6s,2026-10-25T14:36:30Z
+15,25,90,case_r15_T25_th090.npz,done,0.6s,2026-10-25T14:36:30Z
+15,25,100,case_r15_T25_th100.npz,done,0.6s,2026-10-25T14:36:31Z
+15,25,110,case_r15_T25_th110.npz,done,0.6s,2026-10-25T14:36:32Z
+15,25,120,case_r15_T25_th120.npz,done,0.6s,2026-10-25T14:36:32Z
+15,25,130,case_r15_T25_th130.npz,done,0.6s,2026-10-25T14:36:33Z
+15,25,140,case_r15_T25_th140.npz,done,0.6s,2026-10-25T14:36:33Z
+15,25,150,case_r15_T25_th150.npz,done,0.6s,2026-10-25T14:36:34Z
+15,25,160,case_r15_T25_th160.npz,done,0.6s,2026-10-25T14:36:35Z
+15,25,170,case_r15_T25_th170.npz,done,0.6s,2026-10-25T14:36:35Z
+15,30,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:36:35Z
+15,30,10,case_r15_T30_th010.npz,done,0.6s,2026-10-25T14:36:36Z
+15,30,20,case_r15_T30_th020.npz,done,0.6s,2026-10-25T14:36:36Z
+15,30,30,case_r15_T30_th030.npz,done,0.6s,2026-10-25T14:36:37Z
+15,30,40,case_r15_T30_th040.npz,done,0.6s,2026-10-25T14:36:38Z
+15,30,50,case_r15_T30_th050.npz,done,0.6s,2026-10-25T14:36:38Z
+15,30,60,case_r15_T30_th060.npz,done,0.6s,2026-10-25T14:36:39Z
+15,30,70,case_r15_T30_th070.npz,done,0.6s,2026-10-25T14:36:39Z
+15,30,80,case_r15_T30_th080.npz,done,0.6s,2026-10-25T14:36:40Z
+15,30,90,case_r15_T30_th090.npz,done,0.6s,2026-10-25T14:36:41Z
+15,30,100,case_r15_T30_th100.npz,done,0.6s,2026-10-25T14:36:41Z
+15,30,110,case_r15_T30_th110.npz,done,0.6s,2026-10-25T14:36:42Z
+15,30,120,case_r15_T30_th120.npz,done,0.6s,2026-10-25T14:36:42Z
+15,30,130,case_r15_T30_th130.npz,done,0.6s,2026-10-25T14:36:43Z
+15,30,140,case_r15_T30_th140.npz,done,0.6s,2026-10-25T14:36:44Z
+15,30,150,case_r15_T30_th150.npz,done,0.6s,2026-10-25T14:36:44Z
+15,30,160,case_r15_T30_th160.npz,done,0.6s,2026-10-25T14:36:45Z
+15,30,170,case_r15_T30_th170.npz,done,0.6s,2026-10-25T14:36:45Z
+15,35,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:36:45Z
+15,35,10,case_r15_T35_th010.npz,done,0.6s,2026-10-25T14:36:46Z
+15,35,20,case_r15_T35_th020.npz,done,0.6s,2026-10-25T14:36:47Z
+15,35,30,case_r15_T35_th030.npz,done,0.6s,2026-10-25T14:36:47Z
+15,35,40,case_r15_T35_th040.npz,done,0.6s,2026-10-25T14:36:48Z
+15,35,50,case_r15_T35_th050.npz,done,0.6s,2026-10-25T14:36:49Z
+15,35,60,case_r15_T35_th060.npz,done,0.6s,2026-10-25T14:36:49Z
+15,35,70,case_r15_T35_th070.npz,done,0.6s,2026-10-25T14:36:50Z
+15,35,80,case_r15_T35_th080.npz,done,0.6s,2026-10-25T14:36:50Z
+15,35,90,case_r15_T35_th090.npz,done,0.6s,2026-10-25T14:36:51Z
+15,35,100,case_r15_T35_th100.npz,done,0.6s,2026-10-25T14:36:52Z
+15,35,110,case_r15_T35_th110.npz,done,0.6s,2026-10-25T14:36:52Z
+15,35,120,case_r15_T35_th120.npz,done,0.6s,2026-10-25T14:36:53Z
+15,35,130,case_r15_T35_th130.npz,done,0.6s,2026-10-25T14:36:54Z
+15,35,140,case_r15_T35_th140.npz,done,0.6s,2026-10-25T14:36:54Z
+15,35,150,case_r15_T35_th150.npz,done,0.6s,2026-10-25T14:36:55Z
+15,35,160,case_r15_T35_th160.npz,done,0.6s,2026-10-25T14:36:55Z
+15,35,170,case_r15_T35_th170.npz,done,0.6s,2026-10-25T14:36:56Z
+15,40,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:36:56Z
+15,40,10,case_r15_T40_th010.npz,done,0.7s,2026-10-25T14:36:57Z
+15,40,20,case_r15_T40_th020.npz,done,0.6s,2026-10-25T14:36:57Z
+15,40,30,case_r15_T40_th030.npz,done,0.6s,2026-10-25T14:36:58Z
+15,40,40,case_r15_T40_th040.npz,done,0.7s,2026-10-25T14:36:59Z
+15,40,50,case_r15_T40_th050.npz,done,0.6s,2026-10-25T14:36:59Z
+15,40,60,case_r15_T40_th060.npz,done,0.6s,2026-10-25T14:37:00Z
+15,40,70,case_r15_T40_th070.npz,done,0.6s,2026-10-25T14:37:00Z
+15,40,80,case_r15_T40_th080.npz,done,0.6s,2026-10-25T14:37:01Z
+15,40,90,case_r15_T40_th090.npz,done,0.7s,2026-10-25T14:37:02Z
+15,40,100,case_r15_T40_th100.npz,done,0.6s,2026-10-25T14:37:02Z
+15,40,110,case_r15_T40_th110.npz,done,0.6s,2026-10-25T14:37:03Z
+15,40,120,case_r15_T40_th120.npz,done,0.6s,2026-10-25T14:37:04Z
+15,40,130,case_r15_T40_th130.npz,done,0.6s,2026-10-25T14:37:04Z
+15,40,140,case_r15_T40_th140.npz,done,0.6s,2026-10-25T14:37:05Z
+15,40,150,case_r15_T40_th150.npz,done,0.6s,2026-10-25T14:37:05Z
+15,40,160,case_r15_T40_th160.npz,done,0.6s,2026-10-25T14:37:06Z
+15,40,170,case_r15_T40_th170.npz,done,0.6s,2026-10-25T14:37:07Z
+15,45,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:37:07Z
+15,45,10,case_r15_T45_th010.npz,done,0.6s,2026-10-25T14:37:07Z
+15,45,20,case_r15_T45_th020.npz,done,0.6s,2026-10-25T14:37:08Z
+15,45,30,case_r15_T45_th030.npz,done,0.6s,2026-10-25T14:37:09Z
+15,45,40,case_r15_T45_th040.npz,done,0.6s,2026-10-25T14:37:09Z
+15,45,50,case_r15_T45_th050.npz,done,0.6s,2026-10-25T14:37:10Z
+15,45,60,case_r15_T45_th060.npz,done,0.6s,2026-10-25T14:37:10Z
+15,45,70,case_r15_T45_th070.npz,done,0.6s,2026-10-25T14:37:11Z
+15,45,80,case_r15_T45_th080.npz,done,0.6s,2026-10-25T14:37:12Z
+15,45,90,case_r15_T45_th090.npz,done,0.6s,2026-10-25T14:37:12Z
+15,45,100,case_r15_T45_th100.npz,done,0.6s,2026-10-25T14:37:13Z
+15,45,110,case_r15_T45_th110.npz,done,0.6s,2026-10-25T14:37:13Z
+15,45,120,case_r15_T45_th120.npz,done,0.6s,2026-10-25T14:37:14Z
+15,45,130,case_r15_T45_th130.npz,done,0.6s,2026-10-25T14:37:15Z
+15,45,140,case_r15_T45_th140.npz,done,0.6s,2026-10-25T14:37:15Z
+15,45,150,case_r15_T45_th150.npz,done,0.6s,2026-10-25T14:37:16Z
+15,45,160,case_r15_T45_th160.npz,done,0.6s,2026-10-25T14:37:16Z
+15,45,170,case_r15_T45_th170.npz,done,0.6s,2026-10-25T14:37:17Z
+15,50,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:37:17Z
+15,50,10,case_r15_T50_th010.npz,done,0.6s,2026-10-25T14:37:18Z
+15,50,20,case_r15_T50_th020.npz,done,0.6s,2026-10-25T14:37:18Z
+15,50,30,case_r15_T50_th030.npz,done,0.6s,2026-10-25T14:37:19Z
+15,50,40,case_r15_T50_th040.npz,done,0.6s,2026-10-25T14:37:19Z
+15,50,50,case_r15_T50_th050.npz,done,0.6s,2026-10-25T14:37:20Z
+15,50,60,case_r15_T50_th060.npz,done,0.6s,2026-10-25T14:37:21Z
+15,50,70,case_r15_T50_th070.npz,done,0.7s,2026-10-25T14:37:21Z
+15,50,80,case_r15_T50_th080.npz,done,0.6s,2026-10-25T14:37:22Z
+15,50,90,case_r15_T50_th090.npz,done,0.6s,2026-10-25T14:37:23Z
+15,50,100,case_r15_T50_th100.npz,done,0.6s,2026-10-25T14:37:23Z
+15,50,110,case_r15_T50_th110.npz,done,0.6s,2026-10-25T14:37:24Z
+15,50,120,case_r15_T50_th120.npz,done,0.6s,2026-10-25T14:37:25Z
+15,50,130,case_r15_T50_th130.npz,done,0.6s,2026-10-25T14:37:25Z
+15,50,140,case_r15_T50_th140.npz,done,0.6s,2026-10-25T14:37:26Z
+15,50,150,case_r15_T50_th150.npz,done,0.6s,2026-10-25T14:37:26Z
+15,50,160,case_r15_T50_th160.npz,done,0.6s,2026-10-25T14:37:27Z
+15,50,170,case_r15_T50_th170.npz,done,0.6s,2026-10-25T14:37:28Z
+20,0,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:37:28Z
+20,0,10,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:37:28Z
+20,0,20,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:37:28Z
+20,0,30,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:37:28Z
+20,0,40,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:37:28Z
+20,0,50,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:37:28Z
+20,0,60,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:37:28Z
+20,0,70,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:37:28Z
+20,0,80,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:37:28Z
+20,0,90,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:37:28Z
+20,0,100,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:37:28Z
+20,0,110,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:37:28Z
+20,0,120,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:37:28Z
+20,0,130,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:37:28Z
+20,0,140,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:37:28Z
+20,0,150,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:37:28Z
+20,0,160,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:37:28Z
+20,0,170,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:37:28Z
+20,5,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:37:28Z
+20,5,10,case_r20_T05_th010.npz,done,0.7s,2026-10-25T14:37:28Z
+20,5,20,case_r20_T05_th020.npz,done,0.6s,2026-10-25T14:37:29Z
+20,5,30,case_r20_T05_th030.npz,done,0.7s,2026-10-25T14:37:30Z
+20,5,40,case_r20_T05_th040.npz,done,0.6s,2026-10-25T14:37:30Z
+20,5,50,case_r20_T05_th050.npz,done,0.6s,2026-10-25T14:37:31Z
+20,5,60,case_r20_T05_th060.npz,done,0.6s,2026-10-25T14:37:31Z
+20,5,70,case_r20_T05_th070.npz,done,0.6s,2026-10-25T14:37:32Z
+20,5,80,case_r20_T05_th080.npz,done,0.6s,2026-10-25T14:37:33Z
+20,5,90,case_r20_T05_th090.npz,done,0.6s,2026-10-25T14:37:33Z
+20,5,100,case_r20_T05_th100.npz,done,0.6s,2026-10-25T14:37:34Z
+20,5,110,case_r20_T05_th110.npz,done,0.6s,2026-10-25T14:37:35Z
+20,5,120,case_r20_T05_th120.npz,done,0.6s,2026-10-25T14:37:35Z
+20,5,130,case_r20_T05_th130.npz,done,0.6s,2026-10-25T14:37:36Z
+20,5,140,case_r20_T05_th140.npz,done,0.6s,2026-10-25T14:37:37Z
+20,5,150,case_r20_T05_th150.npz,done,0.6s,2026-10-25T14:37:37Z
+20,5,160,case_r20_T05_th160.npz,done,0.6s,2026-10-25T14:37:38Z
+20,5,170,case_r20_T05_th170.npz,done,0.6s,2026-10-25T14:37:38Z
+20,10,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:37:38Z
+20,10,10,case_r20_T10_th010.npz,done,0.6s,2026-10-25T14:37:39Z
+20,10,20,case_r20_T10_th020.npz,done,0.6s,2026-10-25T14:37:40Z
+20,10,30,case_r20_T10_th030.npz,done,0.6s,2026-10-25T14:37:40Z
+20,10,40,case_r20_T10_th040.npz,done,0.6s,2026-10-25T14:37:41Z
+20,10,50,case_r20_T10_th050.npz,done,0.6s,2026-10-25T14:37:42Z
+20,10,60,case_r20_T10_th060.npz,done,0.6s,2026-10-25T14:37:42Z
+20,10,70,case_r20_T10_th070.npz,done,0.6s,2026-10-25T14:37:43Z
+20,10,80,case_r20_T10_th080.npz,done,0.6s,2026-10-25T14:37:43Z
+20,10,90,case_r20_T10_th090.npz,done,0.6s,2026-10-25T14:37:44Z
+20,10,100,case_r20_T10_th100.npz,done,0.6s,2026-10-25T14:37:45Z
+20,10,110,case_r20_T10_th110.npz,done,0.6s,2026-10-25T14:37:45Z
+20,10,120,case_r20_T10_th120.npz,done,0.6s,2026-10-25T14:37:46Z
+20,10,130,case_r20_T10_th130.npz,done,0.6s,2026-10-25T14:37:47Z
+20,10,140,case_r20_T10_th140.npz,done,0.6s,2026-10-25T14:37:47Z
+20,10,150,case_r20_T10_th150.npz,done,0.6s,2026-10-25T14:37:48Z
+20,10,160,case_r20_T10_th160.npz,done,0.6s,2026-10-25T14:37:48Z
+20,10,170,case_r20_T10_th170.npz,done,0.6s,2026-10-25T14:37:49Z
+20,15,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:37:49Z
+20,15,10,case_r20_T15_th010.npz,done,0.6s,2026-10-25T14:37:50Z
+20,15,20,case_r20_T15_th020.npz,done,0.6s,2026-10-25T14:37:50Z
+20,15,30,case_r20_T15_th030.npz,done,0.6s,2026-10-25T14:37:51Z
+20,15,40,case_r20_T15_th040.npz,done,0.6s,2026-10-25T14:37:52Z
+20,15,50,case_r20_T15_th050.npz,done,0.6s,2026-10-25T14:37:52Z
+20,15,60,case_r20_T15_th060.npz,done,0.6s,2026-10-25T14:37:53Z
+20,15,70,case_r20_T15_th070.npz,done,0.6s,2026-10-25T14:37:53Z
+20,15,80,case_r20_T15_th080.npz,done,0.6s,2026-10-25T14:37:54Z
+20,15,90,case_r20_T15_th090.npz,done,0.6s,2026-10-25T14:37:55Z
+20,15,100,case_r20_T15_th100.npz,done,0.6s,2026-10-25T14:37:55Z
+20,15,110,case_r20_T15_th110.npz,done,0.6s,2026-10-25T14:37:56Z
+20,15,120,case_r20_T15_th120.npz,done,0.6s,2026-10-25T14:37:56Z
+20,15,130,case_r20_T15_th130.npz,done,0.6s,2026-10-25T14:37:57Z
+20,15,140,case_r20_T15_th140.npz,done,0.6s,2026-10-25T14:37:58Z
+20,15,150,case_r20_T15_th150.npz,done,0.6s,2026-10-25T14:37:58Z
+20,15,160,case_r20_T15_th160.npz,done,0.6s,2026-10-25T14:37:59Z
+20,15,170,case_r20_T15_th170.npz,done,0.6s,2026-10-25T14:38:00Z
+20,20,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:38:00Z
+20,20,10,case_r20_T20_th010.npz,done,0.6s,2026-10-25T14:38:00Z
+20,20,20,case_r20_T20_th020.npz,done,0.6s,2026-10-25T14:38:01Z
+20,20,30,case_r20_T20_th030.npz,done,0.6s,2026-10-25T14:38:01Z
+20,20,40,case_r20_T20_th040.npz,done,0.6s,2026-10-25T14:38:02Z
+20,20,50,case_r20_T20_th050.npz,done,0.6s,2026-10-25T14:38:03Z
+20,20,60,case_r20_T20_th060.npz,done,0.6s,2026-10-25T14:38:03Z
+20,20,70,case_r20_T20_th070.npz,done,0.6s,2026-10-25T14:38:04Z
+20,20,80,case_r20_T20_th080.npz,done,0.6s,2026-10-25T14:38:04Z
+20,20,90,case_r20_T20_th090.npz,done,0.6s,2026-10-25T14:38:05Z
+20,20,100,case_r20_T20_th100.npz,done,0.6s,2026-10-25T14:38:06Z
+20,20,110,case_r20_T20_th110.npz,done,0.6s,2026-10-25T14:38:06Z
+20,20,120,case_r20_T20_th120.npz,done,0.6s,2026-10-25T14:38:07Z
+20,20,130,case_r20_T20_th130.npz,done,0.6s,2026-10-25T14:38:08Z
+20,20,140,case_r20_T20_th140.npz,done,0.6s,2026-10-25T14:38:08Z
+20,20,150,case_r20_T20_th150.npz,done,0.6s,2026-10-25T14:38:09Z
+20,20,160,case_r20_T20_th160.npz,done,0.6s,2026-10-25T14:38:09Z
+20,20,170,case_r20_T20_th170.npz,done,0.6s,2026-10-25T14:38:10Z
+20,25,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:38:10Z
+20,25,10,case_r20_T25_th010.npz,done,0.6s,2026-10-25T14:38:11Z
+20,25,20,case_r20_T25_th020.npz,done,0.6s,2026-10-25T14:38:11Z
+20,25,30,case_r20_T25_th030.npz,done,0.6s,2026-10-25T14:38:12Z
+20,25,40,case_r20_T25_th040.npz,done,0.6s,2026-10-25T14:38:12Z
+20,25,50,case_r20_T25_th050.npz,done,0.6s,2026-10-25T14:38:13Z
+20,25,60,case_r20_T25_th060.npz,done,0.6s,2026-10-25T14:38:14Z
+20,25,70,case_r20_T25_th070.npz,done,0.6s,2026-10-25T14:38:14Z
+20,25,80,case_r20_T25_th080.npz,done,0.6s,2026-10-25T14:38:15Z
+20,25,90,case_r20_T25_th090.npz,done,0.6s,2026-10-25T14:38:16Z
+20,25,100,case_r20_T25_th100.npz,done,0.6s,2026-10-25T14:38:16Z
+20,25,110,case_r20_T25_th110.npz,done,0.6s,2026-10-25T14:38:17Z
+20,25,120,case_r20_T25_th120.npz,done,0.6s,2026-10-25T14:38:18Z
+20,25,130,case_r20_T25_th130.npz,done,0.6s,2026-10-25T14:38:18Z
+20,25,140,case_r20_T25_th140.npz,done,0.6s,2026-10-25T14:38:19Z
+20,25,150,case_r20_T25_th150.npz,done,0.6s,2026-10-25T14:38:19Z
+20,25,160,case_r20_T25_th160.npz,done,0.6s,2026-10-25T14:38:20Z
+20,25,170,case_r20_T25_th170.npz,done,0.6s,2026-10-25T14:38:21Z
+20,30,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:38:21Z
+20,30,10,case_r20_T30_th010.npz,done,0.6s,2026-10-25T14:38:21Z
+20,30,20,case_r20_T30_th020.npz,done,0.6s,2026-10-25T14:38:22Z
+20,30,30,case_r20_T30_th030.npz,done,0.6s,2026-10-25T14:38:22Z
+20,30,40,case_r20_T30_th040.npz,done,0.7s,2026-10-25T14:38:23Z
+20,30,50,case_r20_T30_th050.npz,done,0.6s,2026-10-25T14:38:24Z
+20,30,60,case_r20_T30_th060.npz,done,0.6s,2026-10-25T14:38:24Z
+20,30,70,case_r20_T30_th070.npz,done,0.6s,2026-10-25T14:38:25Z
+20,30,80,case_r20_T30_th080.npz,done,0.6s,2026-10-25T14:38:26Z
+20,30,90,case_r20_T30_th090.npz,done,0.6s,2026-10-25T14:38:26Z
+20,30,100,case_r20_T30_th100.npz,done,0.6s,2026-10-25T14:38:27Z
+20,30,110,case_r20_T30_th110.npz,done,0.6s,2026-10-25T14:38:27Z
+20,30,120,case_r20_T30_th120.npz,done,0.6s,2026-10-25T14:38:28Z
+20,30,130,case_r20_T30_th130.npz,done,0.7s,2026-10-25T14:38:29Z
+20,30,140,case_r20_T30_th140.npz,done,0.6s,2026-10-25T14:38:29Z
+20,30,150,case_r20_T30_th150.npz,done,0.6s,2026-10-25T14:38:30Z
+20,30,160,case_r20_T30_th160.npz,done,0.6s,2026-10-25T14:38:31Z
+20,30,170,case_r20_T30_th170.npz,done,0.6s,2026-10-25T14:38:31Z
+20,35,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:38:31Z
+20,35,10,case_r20_T35_th010.npz,done,0.6s,2026-10-25T14:38:32Z
+20,35,20,case_r20_T35_th020.npz,done,0.6s,2026-10-25T14:38:32Z
+20,35,30,case_r20_T35_th030.npz,done,0.6s,2026-10-25T14:38:33Z
+20,35,40,case_r20_T35_th040.npz,done,0.6s,2026-10-25T14:38:34Z
+20,35,50,case_r20_T35_th050.npz,done,0.6s,2026-10-25T14:38:34Z
+20,35,60,case_r20_T35_th060.npz,done,0.6s,2026-10-25T14:38:35Z
+20,35,70,case_r20_T35_th070.npz,done,0.6s,2026-10-25T14:38:35Z
+20,35,80,case_r20_T35_th080.npz,done,0.6s,2026-10-25T14:38:36Z
+20,35,90,case_r20_T35_th090.npz,done,0.6s,2026-10-25T14:38:37Z
+20,35,100,case_r20_T35_th100.npz,done,0.6s,2026-10-25T14:38:37Z
+20,35,110,case_r20_T35_th110.npz,done,0.6s,2026-10-25T14:38:38Z
+20,35,120,case_r20_T35_th120.npz,done,0.6s,2026-10-25T14:38:38Z
+20,35,130,case_r20_T35_th130.npz,done,0.6s,2026-10-25T14:38:39Z
+20,35,140,case_r20_T35_th140.npz,done,0.6s,2026-10-25T14:38:40Z
+20,35,150,case_r20_T35_th150.npz,done,0.6s,2026-10-25T14:38:40Z
+20,35,160,case_r20_T35_th160.npz,done,0.6s,2026-10-25T14:38:41Z
+20,35,170,case_r20_T35_th170.npz,done,0.6s,2026-10-25T14:38:42Z
+20,40,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:38:42Z
+20,40,10,case_r20_T40_th010.npz,done,0.6s,2026-10-25T14:38:42Z
+20,40,20,case_r20_T40_th020.npz,done,0.6s,2026-10-25T14:38:43Z
+20,40,30,case_r20_T40_th030.npz,done,0.6s,2026-10-25T14:38:43Z
+20,40,40,case_r20_T40_th040.npz,done,0.6s,2026-10-25T14:38:44Z
+20,40,50,case_r20_T40_th050.npz,done,0.6s,2026-10-25T14:38:45Z
+20,40,60,case_r20_T40_th060.npz,done,0.6s,2026-10-25T14:38:45Z
+20,40,70,case_r20_T40_th070.npz,done,0.6s,2026-10-25T14:38:46Z
+20,40,80,case_r20_T40_th080.npz,done,0.6s,2026-10-25T14:38:46Z
+20,40,90,case_r20_T40_th090.npz,done,0.6s,2026-10-25T14:38:47Z
+20,40,100,case_r20_T40_th100.npz,done,0.6s,2026-10-25T14:38:48Z
+20,40,110,case_r20_T40_th110.npz,done,0.6s,2026-10-25T14:38:48Z
+20,40,120,case_r20_T40_th120.npz,done,0.6s,2026-10-25T14:38:49Z
+20,40,130,case_r20_T40_th130.npz,done,0.6s,2026-10-25T14:38:50Z
+20,40,140,case_r20_T40_th140.npz,done,0.6s,2026-10-25T14:38:50Z
+20,40,150,case_r20_T40_th150.npz,done,0.6s,2026-10-25T14:38:51Z
+20,40,160,case_r20_T40_th160.npz,done,0.6s,2026-10-25T14:38:51Z
+20,40,170,case_r20_T40_th170.npz,done,0.6s,2026-10-25T14:38:52Z
+20,45,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:38:52Z
+20,45,10,case_r20_T45_th010.npz,done,0.6s,2026-10-25T14:38:53Z
+20,45,20,case_r20_T45_th020.npz,done,0.6s,2026-10-25T14:38:53Z
+20,45,30,case_r20_T45_th030.npz,done,0.6s,2026-10-25T14:38:54Z
+20,45,40,case_r20_T45_th040.npz,done,0.6s,2026-10-25T14:38:55Z
+20,45,50,case_r20_T45_th050.npz,done,0.6s,2026-10-25T14:38:55Z
+20,45,60,case_r20_T45_th060.npz,done,0.6s,2026-10-25T14:38:56Z
+20,45,70,case_r20_T45_th070.npz,done,0.6s,2026-10-25T14:38:56Z
+20,45,80,case_r20_T45_th080.npz,done,0.6s,2026-10-25T14:38:57Z
+20,45,90,case_r20_T45_th090.npz,done,0.6s,2026-10-25T14:38:58Z
+20,45,100,case_r20_T45_th100.npz,done,0.6s,2026-10-25T14:38:58Z
+20,45,110,case_r20_T45_th110.npz,done,0.6s,2026-10-25T14:38:59Z
+20,45,120,case_r20_T45_th120.npz,done,0.6s,2026-10-25T14:38:59Z
+20,45,130,case_r20_T45_th130.npz,done,0.6s,2026-10-25T14:39:00Z
+20,45,140,case_r20_T45_th140.npz,done,0.6s,2026-10-25T14:39:01Z
+20,45,150,case_r20_T45_th150.npz,done,0.6s,2026-10-25T14:39:01Z
+20,45,160,case_r20_T45_th160.npz,done,0.6s,2026-10-25T14:39:02Z
+20,45,170,case_r20_T45_th170.npz,done,0.6s,2026-10-25T14:39:02Z
+20,50,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:39:02Z
+20,50,10,case_r20_T50_th010.npz,done,0.6s,2026-10-25T14:39:03Z
+20,50,20,case_r20_T50_th020.npz,done,0.7s,2026-10-25T14:39:04Z
+20,50,30,case_r20_T50_th030.npz,done,0.6s,2026-10-25T14:39:04Z
+20,50,40,case_r20_T50_th040.npz,done,0.6s,2026-10-25T14:39:05Z
+20,50,50,case_r20_T50_th050.npz,done,0.6s,2026-10-25T14:39:06Z
+20,50,60,case_r20_T50_th060.npz,done,0.6s,2026-10-25T14:39:06Z
+20,50,70,case_r20_T50_th070.npz,done,0.6s,2026-10-25T14:39:07Z
+20,50,80,case_r20_T50_th080.npz,done,0.6s,2026-10-25T14:39:07Z
+20,50,90,case_r20_T50_th090.npz,done,0.6s,2026-10-25T14:39:08Z
+20,50,100,case_r20_T50_th100.npz,done,0.6s,2026-10-25T14:39:09Z
+20,50,110,case_r20_T50_th110.npz,done,0.6s,2026-10-25T14:39:09Z
+20,50,120,case_r20_T50_th120.npz,done,0.6s,2026-10-25T14:39:10Z
+20,50,130,case_r20_T50_th130.npz,done,0.6s,2026-10-25T14:39:10Z
+20,50,140,case_r20_T50_th140.npz,done,0.6s,2026-10-25T14:39:11Z
+20,50,150,case_r20_T50_th150.npz,done,0.6s,2026-10-25T14:39:12Z
+20,50,160,case_r20_T50_th160.npz,done,0.6s,2026-10-25T14:39:12Z
+20,50,170,case_r20_T50_th170.npz,done,0.6s,2026-10-25T14:39:13Z
+25,0,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:39:13Z
+25,0,10,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:39:13Z
+25,0,20,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:39:13Z
+25,0,30,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:39:13Z
+25,0,40,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:39:13Z
+25,0,50,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:39:13Z
+25,0,60,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:39:13Z
+25,0,70,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:39:13Z
+25,0,80,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:39:13Z
+25,0,90,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:39:13Z
+25,0,100,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:39:13Z
+25,0,110,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:39:13Z
+25,0,120,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:39:13Z
+25,0,130,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:39:13Z
+25,0,140,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:39:13Z
+25,0,150,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:39:13Z
+25,0,160,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:39:13Z
+25,0,170,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:39:13Z
+25,5,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:39:13Z
+25,5,10,case_r25_T05_th010.npz,done,0.6s,2026-10-25T14:39:14Z
+25,5,20,case_r25_T05_th020.npz,done,0.6s,2026-10-25T14:39:14Z
+25,5,30,case_r25_T05_th030.npz,done,0.6s,2026-10-25T14:39:15Z
+25,5,40,case_r25_T05_th040.npz,done,0.6s,2026-10-25T14:39:15Z
+25,5,50,case_r25_T05_th050.npz,done,0.6s,2026-10-25T14:39:16Z
+25,5,60,case_r25_T05_th060.npz,done,0.6s,2026-10-25T14:39:17Z
+25,5,70,case_r25_T05_th070.npz,done,0.6s,2026-10-25T14:39:17Z
+25,5,80,case_r25_T05_th080.npz,done,0.6s,2026-10-25T14:39:18Z
+25,5,90,case_r25_T05_th090.npz,done,0.7s,2026-10-25T14:39:19Z
+25,5,100,case_r25_T05_th100.npz,done,0.6s,2026-10-25T14:39:19Z
+25,5,110,case_r25_T05_th110.npz,done,0.6s,2026-10-25T14:39:20Z
+25,5,120,case_r25_T05_th120.npz,done,0.6s,2026-10-25T14:39:21Z
+25,5,130,case_r25_T05_th130.npz,done,0.6s,2026-10-25T14:39:21Z
+25,5,140,case_r25_T05_th140.npz,done,0.6s,2026-10-25T14:39:22Z
+25,5,150,case_r25_T05_th150.npz,done,0.6s,2026-10-25T14:39:23Z
+25,5,160,case_r25_T05_th160.npz,done,0.6s,2026-10-25T14:39:23Z
+25,5,170,case_r25_T05_th170.npz,done,0.6s,2026-10-25T14:39:24Z
+25,10,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:39:24Z
+25,10,10,case_r25_T10_th010.npz,done,0.6s,2026-10-25T14:39:24Z
+25,10,20,case_r25_T10_th020.npz,done,0.6s,2026-10-25T14:39:25Z
+25,10,30,case_r25_T10_th030.npz,done,0.6s,2026-10-25T14:39:26Z
+25,10,40,case_r25_T10_th040.npz,done,0.6s,2026-10-25T14:39:26Z
+25,10,50,case_r25_T10_th050.npz,done,0.6s,2026-10-25T14:39:27Z
+25,10,60,case_r25_T10_th060.npz,done,0.6s,2026-10-25T14:39:27Z
+25,10,70,case_r25_T10_th070.npz,done,0.6s,2026-10-25T14:39:28Z
+25,10,80,case_r25_T10_th080.npz,done,0.6s,2026-10-25T14:39:29Z
+25,10,90,case_r25_T10_th090.npz,done,0.7s,2026-10-25T14:39:29Z
+25,10,100,case_r25_T10_th100.npz,done,0.6s,2026-10-25T14:39:30Z
+25,10,110,case_r25_T10_th110.npz,done,0.6s,2026-10-25T14:39:31Z
+25,10,120,case_r25_T10_th120.npz,done,0.6s,2026-10-25T14:39:31Z
+25,10,130,case_r25_T10_th130.npz,done,0.6s,2026-10-25T14:39:32Z
+25,10,140,case_r25_T10_th140.npz,done,0.6s,2026-10-25T14:39:33Z
+25,10,150,case_r25_T10_th150.npz,done,0.6s,2026-10-25T14:39:33Z
+25,10,160,case_r25_T10_th160.npz,done,0.6s,2026-10-25T14:39:34Z
+25,10,170,case_r25_T10_th170.npz,done,0.6s,2026-10-25T14:39:34Z
+25,15,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:39:34Z
+25,15,10,case_r25_T15_th010.npz,done,0.6s,2026-10-25T14:39:35Z
+25,15,20,case_r25_T15_th020.npz,done,0.6s,2026-10-25T14:39:36Z
+25,15,30,case_r25_T15_th030.npz,done,0.6s,2026-10-25T14:39:36Z
+25,15,40,case_r25_T15_th040.npz,done,0.6s,2026-10-25T14:39:37Z
+25,15,50,case_r25_T15_th050.npz,done,0.6s,2026-10-25T14:39:38Z
+25,15,60,case_r25_T15_th060.npz,done,0.6s,2026-10-25T14:39:38Z
+25,15,70,case_r25_T15_th070.npz,done,0.6s,2026-10-25T14:39:39Z
+25,15,80,case_r25_T15_th080.npz,done,0.6s,2026-10-25T14:39:39Z
+25,15,90,case_r25_T15_th090.npz,done,0.6s,2026-10-25T14:39:40Z
+25,15,100,case_r25_T15_th100.npz,done,0.6s,2026-10-25T14:39:41Z
+25,15,110,case_r25_T15_th110.npz,done,0.6s,2026-10-25T14:39:41Z
+25,15,120,case_r25_T15_th120.npz,done,0.6s,2026-10-25T14:39:42Z
+25,15,130,case_r25_T15_th130.npz,done,0.6s,2026-10-25T14:39:43Z
+25,15,140,case_r25_T15_th140.npz,done,0.6s,2026-10-25T14:39:43Z
+25,15,150,case_r25_T15_th150.npz,done,0.6s,2026-10-25T14:39:44Z
+25,15,160,case_r25_T15_th160.npz,done,0.6s,2026-10-25T14:39:44Z
+25,15,170,case_r25_T15_th170.npz,done,0.6s,2026-10-25T14:39:45Z
+25,20,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:39:45Z
+25,20,10,case_r25_T20_th010.npz,done,0.6s,2026-10-25T14:39:46Z
+25,20,20,case_r25_T20_th020.npz,done,0.6s,2026-10-25T14:39:46Z
+25,20,30,case_r25_T20_th030.npz,done,0.6s,2026-10-25T14:39:47Z
+25,20,40,case_r25_T20_th040.npz,done,0.6s,2026-10-25T14:39:47Z
+25,20,50,case_r25_T20_th050.npz,done,0.6s,2026-10-25T14:39:48Z
+25,20,60,case_r25_T20_th060.npz,done,0.6s,2026-10-25T14:39:49Z
+25,20,70,case_r25_T20_th070.npz,done,0.6s,2026-10-25T14:39:49Z
+25,20,80,case_r25_T20_th080.npz,done,0.6s,2026-10-25T14:39:50Z
+25,20,90,case_r25_T20_th090.npz,done,0.6s,2026-10-25T14:39:51Z
+25,20,100,case_r25_T20_th100.npz,done,0.6s,2026-10-25T14:39:51Z
+25,20,110,case_r25_T20_th110.npz,done,0.6s,2026-10-25T14:39:52Z
+25,20,120,case_r25_T20_th120.npz,done,0.6s,2026-10-25T14:39:52Z
+25,20,130,case_r25_T20_th130.npz,done,0.6s,2026-10-25T14:39:53Z
+25,20,140,case_r25_T20_th140.npz,done,0.6s,2026-10-25T14:39:54Z
+25,20,150,case_r25_T20_th150.npz,done,0.6s,2026-10-25T14:39:54Z
+25,20,160,case_r25_T20_th160.npz,done,0.6s,2026-10-25T14:39:55Z
+25,20,170,case_r25_T20_th170.npz,done,0.6s,2026-10-25T14:39:56Z
+25,25,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:39:56Z
+25,25,10,case_r25_T25_th010.npz,done,0.6s,2026-10-25T14:39:56Z
+25,25,20,case_r25_T25_th020.npz,done,0.6s,2026-10-25T14:39:57Z
+25,25,30,case_r25_T25_th030.npz,done,0.6s,2026-10-25T14:39:57Z
+25,25,40,case_r25_T25_th040.npz,done,0.6s,2026-10-25T14:39:58Z
+25,25,50,case_r25_T25_th050.npz,done,0.6s,2026-10-25T14:39:59Z
+25,25,60,case_r25_T25_th060.npz,done,0.6s,2026-10-25T14:39:59Z
+25,25,70,case_r25_T25_th070.npz,done,0.6s,2026-10-25T14:40:00Z
+25,25,80,case_r25_T25_th080.npz,done,0.6s,2026-10-25T14:40:01Z
+25,25,90,case_r25_T25_th090.npz,done,0.6s,2026-10-25T14:40:01Z
+25,25,100,case_r25_T25_th100.npz,done,0.6s,2026-10-25T14:40:02Z
+25,25,110,case_r25_T25_th110.npz,done,0.6s,2026-10-25T14:40:02Z
+25,25,120,case_r25_T25_th120.npz,done,0.6s,2026-10-25T14:40:03Z
+25,25,130,case_r25_T25_th130.npz,done,0.6s,2026-10-25T14:40:04Z
+25,25,140,case_r25_T25_th140.npz,done,0.6s,2026-10-25T14:40:04Z
+25,25,150,case_r25_T25_th150.npz,done,0.6s,2026-10-25T14:40:05Z
+25,25,160,case_r25_T25_th160.npz,done,0.6s,2026-10-25T14:40:06Z
+25,25,170,case_r25_T25_th170.npz,done,0.6s,2026-10-25T14:40:06Z
+25,30,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:40:06Z
+25,30,10,case_r25_T30_th010.npz,done,0.6s,2026-10-25T14:40:07Z
+25,30,20,case_r25_T30_th020.npz,done,0.6s,2026-10-25T14:40:07Z
+25,30,30,case_r25_T30_th030.npz,done,0.6s,2026-10-25T14:40:08Z
+25,30,40,case_r25_T30_th040.npz,done,0.6s,2026-10-25T14:40:09Z
+25,30,50,case_r25_T30_th050.npz,done,0.6s,2026-10-25T14:40:09Z
+25,30,60,case_r25_T30_th060.npz,done,0.6s,2026-10-25T14:40:10Z
+25,30,70,case_r25_T30_th070.npz,done,0.6s,2026-10-25T14:40:10Z
+25,30,80,case_r25_T30_th080.npz,done,0.6s,2026-10-25T14:40:11Z
+25,30,90,case_r25_T30_th090.npz,done,0.6s,2026-10-25T14:40:12Z
+25,30,100,case_r25_T30_th100.npz,done,0.6s,2026-10-25T14:40:12Z
+25,30,110,case_r25_T30_th110.npz,done,0.6s,2026-10-25T14:40:13Z
+25,30,120,case_r25_T30_th120.npz,done,0.6s,2026-10-25T14:40:14Z
+25,30,130,case_r25_T30_th130.npz,done,0.6s,2026-10-25T14:40:14Z
+25,30,140,case_r25_T30_th140.npz,done,0.6s,2026-10-25T14:40:15Z
+25,30,150,case_r25_T30_th150.npz,done,0.6s,2026-10-25T14:40:15Z
+25,30,160,case_r25_T30_th160.npz,done,0.6s,2026-10-25T14:40:16Z
+25,30,170,case_r25_T30_th170.npz,done,0.6s,2026-10-25T14:40:17Z
+25,35,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:40:17Z
+25,35,10,case_r25_T35_th010.npz,done,0.6s,2026-10-25T14:40:17Z
+25,35,20,case_r25_T35_th020.npz,done,0.6s,2026-10-25T14:40:18Z
+25,35,30,case_r25_T35_th030.npz,done,0.6s,2026-10-25T14:40:19Z
+25,35,40,case_r25_T35_th040.npz,done,0.6s,2026-10-25T14:40:19Z
+25,35,50,case_r25_T35_th050.npz,done,0.6s,2026-10-25T14:40:20Z
+25,35,60,case_r25_T35_th060.npz,done,0.6s,2026-10-25T14:40:20Z
+25,35,70,case_r25_T35_th070.npz,done,0.6s,2026-10-25T14:40:21Z
+25,35,80,case_r25_T35_th080.npz,done,0.6s,2026-10-25T14:40:22Z
+25,35,90,case_r25_T35_th090.npz,done,0.6s,2026-10-25T14:40:22Z
+25,35,100,case_r25_T35_th100.npz,done,0.6s,2026-10-25T14:40:23Z
+25,35,110,case_r25_T35_th110.npz,done,0.6s,2026-10-25T14:40:24Z
+25,35,120,case_r25_T35_th120.npz,done,0.6s,2026-10-25T14:40:24Z
+25,35,130,case_r25_T35_th130.npz,done,0.6s,2026-10-25T14:40:25Z
+25,35,140,case_r25_T35_th140.npz,done,0.6s,2026-10-25T14:40:25Z
+25,35,150,case_r25_T35_th150.npz,done,0.6s,2026-10-25T14:40:26Z
+25,35,160,case_r25_T35_th160.npz,done,0.6s,2026-10-25T14:40:27Z
+25,35,170,case_r25_T35_th170.npz,done,0.6s,2026-10-25T14:40:27Z
+25,40,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:40:27Z
+25,40,10,case_r25_T40_th010.npz,done,0.6s,2026-10-25T14:40:28Z
+25,40,20,case_r25_T40_th020.npz,done,0.6s,2026-10-25T14:40:29Z
+25,40,30,case_r25_T40_th030.npz,done,0.6s,2026-10-25T14:40:29Z
+25,40,40,case_r25_T40_th040.npz,done,0.7s,2026-10-25T14:40:30Z
+25,40,50,case_r25_T40_th050.npz,done,0.6s,2026-10-25T14:40:30Z
+25,40,60,case_r25_T40_th060.npz,done,0.6s,2026-10-25T14:40:31Z
+25,40,70,case_r25_T40_th070.npz,done,0.6s,2026-10-25T14:40:32Z
+25,40,80,case_r25_T40_th080.npz,done,0.6s,2026-10-25T14:40:32Z
+25,40,90,case_r25_T40_th090.npz,done,0.6s,2026-10-25T14:40:33Z
+25,40,100,case_r25_T40_th100.npz,done,0.6s,2026-10-25T14:40:34Z
+25,40,110,case_r25_T40_th110.npz,done,0.6s,2026-10-25T14:40:34Z
+25,40,120,case_r25_T40_th120.npz,done,0.6s,2026-10-25T14:40:35Z
+25,40,130,case_r25_T40_th130.npz,done,0.6s,2026-10-25T14:40:35Z
+25,40,140,case_r25_T40_th140.npz,done,0.6s,2026-10-25T14:40:36Z
+25,40,150,case_r25_T40_th150.npz,done,0.6s,2026-10-25T14:40:37Z
+25,40,160,case_r25_T40_th160.npz,done,0.6s,2026-10-25T14:40:37Z
+25,40,170,case_r25_T40_th170.npz,done,0.6s,2026-10-25T14:40:38Z
+25,45,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:40:38Z
+25,45,10,case_r25_T45_th010.npz,done,0.6s,2026-10-25T14:40:39Z
+25,45,20,case_r25_T45_th020.npz,done,0.6s,2026-10-25T14:40:39Z
+25,45,30,case_r25_T45_th030.npz,done,0.6s,2026-10-25T14:40:40Z
+25,45,40,case_r25_T45_th040.npz,done,0.6s,2026-10-25T14:40:40Z
+25,45,50,case_r25_T45_th050.npz,done,0.6s,2026-10-25T14:40:41Z
+25,45,60,case_r25_T45_th060.npz,done,0.6s,2026-10-25T14:40:42Z
+25,45,70,case_r25_T45_th070.npz,done,0.6s,2026-10-25T14:40:42Z
+25,45,80,case_r25_T45_th080.npz,done,0.6s,2026-10-25T14:40:43Z
+25,45,90,case_r25_T45_th090.npz,done,0.6s,2026-10-25T14:40:43Z
+25,45,100,case_r25_T45_th100.npz,done,0.6s,2026-10-25T14:40:44Z
+25,45,110,case_r25_T45_th110.npz,done,0.6s,2026-10-25T14:40:45Z
+25,45,120,case_r25_T45_th120.npz,done,0.6s,2026-10-25T14:40:45Z
+25,45,130,case_r25_T45_th130.npz,done,0.6s,2026-10-25T14:40:46Z
+25,45,140,case_r25_T45_th140.npz,done,0.7s,2026-10-25T14:40:47Z
+25,45,150,case_r25_T45_th150.npz,done,0.7s,2026-10-25T14:40:47Z
+25,45,160,case_r25_T45_th160.npz,done,0.6s,2026-10-25T14:40:48Z
+25,45,170,case_r25_T45_th170.npz,done,0.6s,2026-10-25T14:40:49Z
+25,50,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:40:49Z
+25,50,10,case_r25_T50_th010.npz,done,0.6s,2026-10-25T14:40:49Z
+25,50,20,case_r25_T50_th020.npz,done,0.6s,2026-10-25T14:40:50Z
+25,50,30,case_r25_T50_th030.npz,done,0.6s,2026-10-25T14:40:50Z
+25,50,40,case_r25_T50_th040.npz,done,0.6s,2026-10-25T14:40:51Z
+25,50,50,case_r25_T50_th050.npz,done,0.6s,2026-10-25T14:40:52Z
+25,50,60,case_r25_T50_th060.npz,done,0.6s,2026-10-25T14:40:52Z
+25,50,70,case_r25_T50_th070.npz,done,0.6s,2026-10-25T14:40:53Z
+25,50,80,case_r25_T50_th080.npz,done,0.6s,2026-10-25T14:40:54Z
+25,50,90,case_r25_T50_th090.npz,done,0.6s,2026-10-25T14:40:54Z
+25,50,100,case_r25_T50_th100.npz,done,0.6s,2026-10-25T14:40:55Z
+25,50,110,case_r25_T50_th110.npz,done,0.6s,2026-10-25T14:40:55Z
+25,50,120,case_r25_T50_th120.npz,done,0.6s,2026-10-25T14:40:56Z
+25,50,130,case_r25_T50_th130.npz,done,0.6s,2026-10-25T14:40:57Z
+25,50,140,case_r25_T50_th140.npz,done,0.6s,2026-10-25T14:40:57Z
+25,50,150,case_r25_T50_th150.npz,done,0.6s,2026-10-25T14:40:58Z
+25,50,160,case_r25_T50_th160.npz,done,0.6s,2026-10-25T14:40:58Z
+25,50,170,case_r25_T50_th170.npz,done,0.6s,2026-10-25T14:40:59Z
+30,0,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:40:59Z
+30,0,10,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:40:59Z
+30,0,20,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:40:59Z
+30,0,30,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:40:59Z
+30,0,40,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:40:59Z
+30,0,50,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:40:59Z
+30,0,60,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:40:59Z
+30,0,70,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:40:59Z
+30,0,80,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:40:59Z
+30,0,90,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:40:59Z
+30,0,100,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:40:59Z
+30,0,110,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:40:59Z
+30,0,120,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:40:59Z
+30,0,130,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:40:59Z
+30,0,140,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:40:59Z
+30,0,150,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:40:59Z
+30,0,160,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:40:59Z
+30,0,170,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:40:59Z
+30,5,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:40:59Z
+30,5,10,case_r30_T05_th010.npz,done,0.6s,2026-10-25T14:41:00Z
+30,5,20,case_r30_T05_th020.npz,done,0.6s,2026-10-25T14:41:00Z
+30,5,30,case_r30_T05_th030.npz,done,0.6s,2026-10-25T14:41:01Z
+30,5,40,case_r30_T05_th040.npz,done,0.6s,2026-10-25T14:41:02Z
+30,5,50,case_r30_T05_th050.npz,done,0.6s,2026-10-25T14:41:02Z
+30,5,60,case_r30_T05_th060.npz,done,0.6s,2026-10-25T14:41:03Z
+30,5,70,case_r30_T05_th070.npz,done,0.6s,2026-10-25T14:41:03Z
+30,5,80,case_r30_T05_th080.npz,done,0.6s,2026-10-25T14:41:04Z
+30,5,90,case_r30_T05_th090.npz,done,0.6s,2026-10-25T14:41:05Z
+30,5,100,case_r30_T05_th100.npz,done,0.6s,2026-10-25T14:41:05Z
+30,5,110,case_r30_T05_th110.npz,done,0.6s,2026-10-25T14:41:06Z
+30,5,120,case_r30_T05_th120.npz,done,0.6s,2026-10-25T14:41:07Z
+30,5,130,case_r30_T05_th130.npz,done,0.6s,2026-10-25T14:41:07Z
+30,5,140,case_r30_T05_th140.npz,done,0.6s,2026-10-25T14:41:08Z
+30,5,150,case_r30_T05_th150.npz,done,0.6s,2026-10-25T14:41:08Z
+30,5,160,case_r30_T05_th160.npz,done,0.6s,2026-10-25T14:41:09Z
+30,5,170,case_r30_T05_th170.npz,done,0.6s,2026-10-25T14:41:10Z
+30,10,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:41:10Z
+30,10,10,case_r30_T10_th010.npz,done,0.6s,2026-10-25T14:41:10Z
+30,10,20,case_r30_T10_th020.npz,done,0.6s,2026-10-25T14:41:11Z
+30,10,30,case_r30_T10_th030.npz,done,0.6s,2026-10-25T14:41:11Z
+30,10,40,case_r30_T10_th040.npz,done,0.6s,2026-10-25T14:41:12Z
+30,10,50,case_r30_T10_th050.npz,done,0.6s,2026-10-25T14:41:13Z
+30,10,60,case_r30_T10_th060.npz,done,0.6s,2026-10-25T14:41:13Z
+30,10,70,case_r30_T10_th070.npz,done,0.7s,2026-10-25T14:41:14Z
+30,10,80,case_r30_T10_th080.npz,done,0.6s,2026-10-25T14:41:15Z
+30,10,90,case_r30_T10_th090.npz,done,0.6s,2026-10-25T14:41:15Z
+30,10,100,case_r30_T10_th100.npz,done,0.6s,2026-10-25T14:41:16Z
+30,10,110,case_r30_T10_th110.npz,done,0.6s,2026-10-25T14:41:16Z
+30,10,120,case_r30_T10_th120.npz,done,0.6s,2026-10-25T14:41:17Z
+30,10,130,case_r30_T10_th130.npz,done,0.6s,2026-10-25T14:41:18Z
+30,10,140,case_r30_T10_th140.npz,done,0.6s,2026-10-25T14:41:18Z
+30,10,150,case_r30_T10_th150.npz,done,0.6s,2026-10-25T14:41:19Z
+30,10,160,case_r30_T10_th160.npz,done,0.6s,2026-10-25T14:41:20Z
+30,10,170,case_r30_T10_th170.npz,done,0.6s,2026-10-25T14:41:20Z
+30,15,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:41:20Z
+30,15,10,case_r30_T15_th010.npz,done,0.6s,2026-10-25T14:41:21Z
+30,15,20,case_r30_T15_th020.npz,done,0.6s,2026-10-25T14:41:21Z
+30,15,30,case_r30_T15_th030.npz,done,0.6s,2026-10-25T14:41:22Z
+30,15,40,case_r30_T15_th040.npz,done,0.6s,2026-10-25T14:41:23Z
+30,15,50,case_r30_T15_th050.npz,done,0.6s,2026-10-25T14:41:23Z
+30,15,60,case_r30_T15_th060.npz,done,0.6s,2026-10-25T14:41:24Z
+30,15,70,case_r30_T15_th070.npz,done,0.6s,2026-10-25T14:41:25Z
+30,15,80,case_r30_T15_th080.npz,done,0.6s,2026-10-25T14:41:25Z
+30,15,90,case_r30_T15_th090.npz,done,0.6s,2026-10-25T14:41:26Z
+30,15,100,case_r30_T15_th100.npz,done,0.6s,2026-10-25T14:41:26Z
+30,15,110,case_r30_T15_th110.npz,done,0.6s,2026-10-25T14:41:27Z
+30,15,120,case_r30_T15_th120.npz,done,0.6s,2026-10-25T14:41:28Z
+30,15,130,case_r30_T15_th130.npz,done,0.6s,2026-10-25T14:41:28Z
+30,15,140,case_r30_T15_th140.npz,done,0.6s,2026-10-25T14:41:29Z
+30,15,150,case_r30_T15_th150.npz,done,0.6s,2026-10-25T14:41:30Z
+30,15,160,case_r30_T15_th160.npz,done,0.7s,2026-10-25T14:41:30Z
+30,15,170,case_r30_T15_th170.npz,done,0.6s,2026-10-25T14:41:31Z
+30,20,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:41:31Z
+30,20,10,case_r30_T20_th010.npz,done,0.6s,2026-10-25T14:41:31Z
+30,20,20,case_r30_T20_th020.npz,done,0.6s,2026-10-25T14:41:32Z
+30,20,30,case_r30_T20_th030.npz,done,0.6s,2026-10-25T14:41:33Z
+30,20,40,case_r30_T20_th040.npz,done,0.6s,2026-10-25T14:41:33Z
+30,20,50,case_r30_T20_th050.npz,done,0.6s,2026-10-25T14:41:34Z
+30,20,60,case_r30_T20_th060.npz,done,0.6s,2026-10-25T14:41:35Z
+30,20,70,case_r30_T20_th070.npz,done,0.6s,2026-10-25T14:41:35Z
+30,20,80,case_r30_T20_th080.npz,done,0.6s,2026-10-25T14:41:36Z
+30,20,90,case_r30_T20_th090.npz,done,0.6s,2026-10-25T14:41:36Z
+30,20,100,case_r30_T20_th100.npz,done,0.6s,2026-10-25T14:41:37Z
+30,20,110,case_r30_T20_th110.npz,done,0.6s,2026-10-25T14:41:38Z
+30,20,120,case_r30_T20_th120.npz,done,0.6s,2026-10-25T14:41:38Z
+30,20,130,case_r30_T20_th130.npz,done,0.6s,2026-10-25T14:41:39Z
+30,20,140,case_r30_T20_th140.npz,done,0.6s,2026-10-25T14:41:39Z
+30,20,150,case_r30_T20_th150.npz,done,0.6s,2026-10-25T14:41:40Z
+30,20,160,case_r30_T20_th160.npz,done,0.6s,2026-10-25T14:41:41Z
+30,20,170,case_r30_T20_th170.npz,done,0.6s,2026-10-25T14:41:41Z
+30,25,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:41:41Z
+30,25,10,case_r30_T25_th010.npz,done,0.6s,2026-10-25T14:41:42Z
+30,25,20,case_r30_T25_th020.npz,done,0.6s,2026-10-25T14:41:42Z
+30,25,30,case_r30_T25_th030.npz,done,0.6s,2026-10-25T14:41:43Z
+30,25,40,case_r30_T25_th040.npz,done,0.6s,2026-10-25T14:41:44Z
+30,25,50,case_r30_T25_th050.npz,done,0.7s,2026-10-25T14:41:44Z
+30,25,60,case_r30_T25_th060.npz,done,0.8s,2026-10-25T14:41:45Z
+30,25,70,case_r30_T25_th070.npz,done,0.7s,2026-10-25T14:41:46Z
+30,25,80,case_r30_T25_th080.npz,done,0.6s,2026-10-25T14:41:47Z
+30,25,90,case_r30_T25_th090.npz,done,0.6s,2026-10-25T14:41:47Z
+30,25,100,case_r30_T25_th100.npz,done,0.6s,2026-10-25T14:41:48Z
+30,25,110,case_r30_T25_th110.npz,done,0.6s,2026-10-25T14:41:48Z
+30,25,120,case_r30_T25_th120.npz,done,0.7s,2026-10-25T14:41:49Z
+30,25,130,case_r30_T25_th130.npz,done,0.6s,2026-10-25T14:41:50Z
+30,25,140,case_r30_T25_th140.npz,done,0.6s,2026-10-25T14:41:50Z
+30,25,150,case_r30_T25_th150.npz,done,0.6s,2026-10-25T14:41:51Z
+30,25,160,case_r30_T25_th160.npz,done,0.6s,2026-10-25T14:41:51Z
+30,25,170,case_r30_T25_th170.npz,done,0.6s,2026-10-25T14:41:52Z
+30,30,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:41:52Z
+30,30,10,case_r30_T30_th010.npz,done,0.6s,2026-10-25T14:41:53Z
+30,30,20,case_r30_T30_th020.npz,done,0.6s,2026-10-25T14:41:53Z
+30,30,30,case_r30_T30_th030.npz,done,0.6s,2026-10-25T14:41:54Z
+30,30,40,case_r30_T30_th040.npz,done,0.6s,2026-10-25T14:41:55Z
+30,30,50,case_r30_T30_th050.npz,done,0.6s,2026-10-25T14:41:55Z
+30,30,60,case_r30_T30_th060.npz,done,0.6s,2026-10-25T14:41:56Z
+30,30,70,case_r30_T30_th070.npz,done,0.6s,2026-10-25T14:41:56Z
+30,30,80,case_r30_T30_th080.npz,done,0.6s,2026-10-25T14:41:57Z
+30,30,90,case_r30_T30_th090.npz,done,0.6s,2026-10-25T14:41:58Z
+30,30,100,case_r30_T30_th100.npz,done,0.6s,2026-10-25T14:41:58Z
+30,30,110,case_r30_T30_th110.npz,done,0.7s,2026-10-25T14:41:59Z
+30,30,120,case_r30_T30_th120.npz,done,0.6s,2026-10-25T14:41:59Z
+30,30,130,case_r30_T30_th130.npz,done,0.6s,2026-10-25T14:42:00Z
+30,30,140,case_r30_T30_th140.npz,done,0.6s,2026-10-25T14:42:01Z
+30,30,150,case_r30_T30_th150.npz,done,0.6s,2026-10-25T14:42:01Z
+30,30,160,case_r30_T30_th160.npz,done,0.6s,2026-10-25T14:42:02Z
+30,30,170,case_r30_T30_th170.npz,done,0.7s,2026-10-25T14:42:03Z
+30,35,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:42:03Z
+30,35,10,case_r30_T35_th010.npz,done,0.6s,2026-10-25T14:42:03Z
+30,35,20,case_r30_T35_th020.npz,done,0.6s,2026-10-25T14:42:04Z
+30,35,30,case_r30_T35_th030.npz,done,0.6s,2026-10-25T14:42:05Z
+30,35,40,case_r30_T35_th040.npz,done,0.6s,2026-10-25T14:42:05Z
+30,35,50,case_r30_T35_th050.npz,done,0.6s,2026-10-25T14:42:06Z
+30,35,60,case_r30_T35_th060.npz,done,0.6s,2026-10-25T14:42:06Z
+30,35,70,case_r30_T35_th070.npz,done,0.6s,2026-10-25T14:42:07Z
+30,35,80,case_r30_T35_th080.npz,done,0.6s,2026-10-25T14:42:08Z
+30,35,90,case_r30_T35_th090.npz,done,0.6s,2026-10-25T14:42:08Z
+30,35,100,case_r30_T35_th100.npz,done,0.7s,2026-10-25T14:42:09Z
+30,35,110,case_r30_T35_th110.npz,done,0.7s,2026-10-25T14:42:10Z
+30,35,120,case_r30_T35_th120.npz,done,0.6s,2026-10-25T14:42:10Z
+30,35,130,case_r30_T35_th130.npz,done,0.6s,2026-10-25T14:42:11Z
+30,35,140,case_r30_T35_th140.npz,done,0.6s,2026-10-25T14:42:11Z
+30,35,150,case_r30_T35_th150.npz,done,0.6s,2026-10-25T14:42:12Z
+30,35,160,case_r30_T35_th160.npz,done,0.6s,2026-10-25T14:42:13Z
+30,35,170,case_r30_T35_th170.npz,done,0.6s,2026-10-25T14:42:13Z
+30,40,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:42:13Z
+30,40,10,case_r30_T40_th010.npz,done,0.6s,2026-10-25T14:42:14Z
+30,40,20,case_r30_T40_th020.npz,done,0.6s,2026-10-25T14:42:14Z
+30,40,30,case_r30_T40_th030.npz,done,0.6s,2026-10-25T14:42:15Z
+30,40,40,case_r30_T40_th040.npz,done,0.6s,2026-10-25T14:42:16Z
+30,40,50,case_r30_T40_th050.npz,done,0.6s,2026-10-25T14:42:16Z
+30,40,60,case_r30_T40_th060.npz,done,0.6s,2026-10-25T14:42:17Z
+30,40,70,case_r30_T40_th070.npz,done,0.6s,2026-10-25T14:42:18Z
+30,40,80,case_r30_T40_th080.npz,done,0.6s,2026-10-25T14:42:18Z
+30,40,90,case_r30_T40_th090.npz,done,0.7s,2026-10-25T14:42:19Z
+30,40,100,case_r30_T40_th100.npz,done,0.6s,2026-10-25T14:42:19Z
+30,40,110,case_r30_T40_th110.npz,done,0.6s,2026-10-25T14:42:20Z
+30,40,120,case_r30_T40_th120.npz,done,0.6s,2026-10-25T14:42:21Z
+30,40,130,case_r30_T40_th130.npz,done,0.6s,2026-10-25T14:42:21Z
+30,40,140,case_r30_T40_th140.npz,done,0.6s,2026-10-25T14:42:22Z
+30,40,150,case_r30_T40_th150.npz,done,0.8s,2026-10-25T14:42:23Z
+30,40,160,case_r30_T40_th160.npz,done,0.6s,2026-10-25T14:42:23Z
+30,40,170,case_r30_T40_th170.npz,done,0.6s,2026-10-25T14:42:24Z
+30,45,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:42:24Z
+30,45,10,case_r30_T45_th010.npz,done,0.7s,2026-10-25T14:42:25Z
+30,45,20,case_r30_T45_th020.npz,done,0.6s,2026-10-25T14:42:25Z
+30,45,30,case_r30_T45_th030.npz,done,0.6s,2026-10-25T14:42:26Z
+30,45,40,case_r30_T45_th040.npz,done,0.6s,2026-10-25T14:42:27Z
+30,45,50,case_r30_T45_th050.npz,done,0.6s,2026-10-25T14:42:27Z
+30,45,60,case_r30_T45_th060.npz,done,0.6s,2026-10-25T14:42:28Z
+30,45,70,case_r30_T45_th070.npz,done,0.6s,2026-10-25T14:42:28Z
+30,45,80,case_r30_T45_th080.npz,done,0.8s,2026-10-25T14:42:29Z
+30,45,90,case_r30_T45_th090.npz,done,0.7s,2026-10-25T14:42:30Z
+30,45,100,case_r30_T45_th100.npz,done,0.8s,2026-10-25T14:42:31Z
+30,45,110,case_r30_T45_th110.npz,done,0.7s,2026-10-25T14:42:31Z
+30,45,120,case_r30_T45_th120.npz,done,0.6s,2026-10-25T14:42:32Z
+30,45,130,case_r30_T45_th130.npz,done,0.6s,2026-10-25T14:42:33Z
+30,45,140,case_r30_T45_th140.npz,done,0.6s,2026-10-25T14:42:33Z
+30,45,150,case_r30_T45_th150.npz,done,0.6s,2026-10-25T14:42:34Z
+30,45,160,case_r30_T45_th160.npz,done,0.6s,2026-10-25T14:42:34Z
+30,45,170,case_r30_T45_th170.npz,done,0.6s,2026-10-25T14:42:35Z
+30,50,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:42:35Z
+30,50,10,case_r30_T50_th010.npz,done,0.6s,2026-10-25T14:42:36Z
+30,50,20,case_r30_T50_th020.npz,done,0.6s,2026-10-25T14:42:36Z
+30,50,30,case_r30_T50_th030.npz,done,0.6s,2026-10-25T14:42:37Z
+30,50,40,case_r30_T50_th040.npz,done,0.6s,2026-10-25T14:42:37Z
+30,50,50,case_r30_T50_th050.npz,done,0.6s,2026-10-25T14:42:38Z
+30,50,60,case_r30_T50_th060.npz,done,0.6s,2026-10-25T14:42:39Z
+30,50,70,case_r30_T50_th070.npz,done,0.6s,2026-10-25T14:42:39Z
+30,50,80,case_r30_T50_th080.npz,done,0.6s,2026-10-25T14:42:40Z
+30,50,90,case_r30_T50_th090.npz,done,0.6s,2026-10-25T14:42:41Z
+30,50,100,case_r30_T50_th100.npz,done,0.6s,2026-10-25T14:42:41Z
+30,50,110,case_r30_T50_th110.npz,done,0.6s,2026-10-25T14:42:42Z
+30,50,120,case_r30_T50_th120.npz,done,0.6s,2026-10-25T14:42:42Z
+30,50,130,case_r30_T50_th130.npz,done,0.6s,2026-10-25T14:42:43Z
+30,50,140,case_r30_T50_th140.npz,done,0.6s,2026-10-25T14:42:44Z
+30,50,150,case_r30_T50_th150.npz,done,0.6s,2026-10-25T14:42:44Z
+30,50,160,case_r30_T50_th160.npz,done,0.6s,2026-10-25T14:42:45Z
+30,50,170,case_r30_T50_th170.npz,done,0.6s,2026-10-25T14:42:45Z
+35,0,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:42:45Z
+35,0,10,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:42:45Z
+35,0,20,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:42:45Z
+35,0,30,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:42:45Z
+35,0,40,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:42:45Z
+35,0,50,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:42:45Z
+35,0,60,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:42:45Z
+35,0,70,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:42:45Z
+35,0,80,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:42:45Z
+35,0,90,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:42:45Z
+35,0,100,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:42:45Z
+35,0,110,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:42:45Z
+35,0,120,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:42:45Z
+35,0,130,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:42:45Z
+35,0,140,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:42:45Z
+35,0,150,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:42:45Z
+35,0,160,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:42:45Z
+35,0,170,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:42:45Z
+35,5,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:42:45Z
+35,5,10,case_r35_T05_th010.npz,done,0.7s,2026-10-25T14:42:46Z
+35,5,20,case_r35_T05_th020.npz,done,0.6s,2026-10-25T14:42:47Z
+35,5,30,case_r35_T05_th030.npz,done,0.6s,2026-10-25T14:42:47Z
+35,5,40,case_r35_T05_th040.npz,done,0.6s,2026-10-25T14:42:48Z
+35,5,50,case_r35_T05_th050.npz,done,0.6s,2026-10-25T14:42:49Z
+35,5,60,case_r35_T05_th060.npz,done,0.6s,2026-10-25T14:42:49Z
+35,5,70,case_r35_T05_th070.npz,done,0.6s,2026-10-25T14:42:50Z
+35,5,80,case_r35_T05_th080.npz,done,0.6s,2026-10-25T14:42:50Z
+35,5,90,case_r35_T05_th090.npz,done,0.6s,2026-10-25T14:42:51Z
+35,5,100,case_r35_T05_th100.npz,done,0.6s,2026-10-25T14:42:52Z
+35,5,110,case_r35_T05_th110.npz,done,0.6s,2026-10-25T14:42:52Z
+35,5,120,case_r35_T05_th120.npz,done,0.6s,2026-10-25T14:42:53Z
+35,5,130,case_r35_T05_th130.npz,done,0.6s,2026-10-25T14:42:53Z
+35,5,140,case_r35_T05_th140.npz,done,0.6s,2026-10-25T14:42:54Z
+35,5,150,case_r35_T05_th150.npz,done,0.6s,2026-10-25T14:42:55Z
+35,5,160,case_r35_T05_th160.npz,done,0.6s,2026-10-25T14:42:55Z
+35,5,170,case_r35_T05_th170.npz,done,0.6s,2026-10-25T14:42:56Z
+35,10,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:42:56Z
+35,10,10,case_r35_T10_th010.npz,done,0.6s,2026-10-25T14:42:56Z
+35,10,20,case_r35_T10_th020.npz,done,0.6s,2026-10-25T14:42:57Z
+35,10,30,case_r35_T10_th030.npz,done,0.6s,2026-10-25T14:42:58Z
+35,10,40,case_r35_T10_th040.npz,done,0.6s,2026-10-25T14:42:58Z
+35,10,50,case_r35_T10_th050.npz,done,0.7s,2026-10-25T14:42:59Z
+35,10,60,case_r35_T10_th060.npz,done,0.8s,2026-10-25T14:43:00Z
+35,10,70,case_r35_T10_th070.npz,done,0.6s,2026-10-25T14:43:00Z
+35,10,80,case_r35_T10_th080.npz,done,0.6s,2026-10-25T14:43:01Z
+35,10,90,case_r35_T10_th090.npz,done,0.6s,2026-10-25T14:43:02Z
+35,10,100,case_r35_T10_th100.npz,done,0.6s,2026-10-25T14:43:02Z
+35,10,110,case_r35_T10_th110.npz,done,0.6s,2026-10-25T14:43:03Z
+35,10,120,case_r35_T10_th120.npz,done,0.6s,2026-10-25T14:43:03Z
+35,10,130,case_r35_T10_th130.npz,done,0.6s,2026-10-25T14:43:04Z
+35,10,140,case_r35_T10_th140.npz,done,0.6s,2026-10-25T14:43:05Z
+35,10,150,case_r35_T10_th150.npz,done,0.6s,2026-10-25T14:43:05Z
+35,10,160,case_r35_T10_th160.npz,done,0.6s,2026-10-25T14:43:06Z
+35,10,170,case_r35_T10_th170.npz,done,0.6s,2026-10-25T14:43:06Z
+35,15,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:43:06Z
+35,15,10,case_r35_T15_th010.npz,done,0.6s,2026-10-25T14:43:07Z
+35,15,20,case_r35_T15_th020.npz,done,0.6s,2026-10-25T14:43:08Z
+35,15,30,case_r35_T15_th030.npz,done,0.6s,2026-10-25T14:43:08Z
+35,15,40,case_r35_T15_th040.npz,done,0.6s,2026-10-25T14:43:09Z
+35,15,50,case_r35_T15_th050.npz,done,0.6s,2026-10-25T14:43:10Z
+35,15,60,case_r35_T15_th060.npz,done,0.6s,2026-10-25T14:43:10Z
+35,15,70,case_r35_T15_th070.npz,done,0.6s,2026-10-25T14:43:11Z
+35,15,80,case_r35_T15_th080.npz,done,0.6s,2026-10-25T14:43:11Z
+35,15,90,case_r35_T15_th090.npz,done,0.6s,2026-10-25T14:43:12Z
+35,15,100,case_r35_T15_th100.npz,done,0.7s,2026-10-25T14:43:13Z
+35,15,110,case_r35_T15_th110.npz,done,0.6s,2026-10-25T14:43:13Z
+35,15,120,case_r35_T15_th120.npz,done,0.6s,2026-10-25T14:43:14Z
+35,15,130,case_r35_T15_th130.npz,done,0.6s,2026-10-25T14:43:14Z
+35,15,140,case_r35_T15_th140.npz,done,0.6s,2026-10-25T14:43:15Z
+35,15,150,case_r35_T15_th150.npz,done,0.7s,2026-10-25T14:43:16Z
+35,15,160,case_r35_T15_th160.npz,done,0.7s,2026-10-25T14:43:16Z
+35,15,170,case_r35_T15_th170.npz,done,0.6s,2026-10-25T14:43:17Z
+35,20,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:43:17Z
+35,20,10,case_r35_T20_th010.npz,done,0.6s,2026-10-25T14:43:18Z
+35,20,20,case_r35_T20_th020.npz,done,0.6s,2026-10-25T14:43:18Z
+35,20,30,case_r35_T20_th030.npz,done,0.6s,2026-10-25T14:43:19Z
+35,20,40,case_r35_T20_th040.npz,done,0.6s,2026-10-25T14:43:20Z
+35,20,50,case_r35_T20_th050.npz,done,0.6s,2026-10-25T14:43:20Z
+35,20,60,case_r35_T20_th060.npz,done,0.6s,2026-10-25T14:43:21Z
+35,20,70,case_r35_T20_th070.npz,done,0.6s,2026-10-25T14:43:21Z
+35,20,80,case_r35_T20_th080.npz,done,0.6s,2026-10-25T14:43:22Z
+35,20,90,case_r35_T20_th090.npz,done,0.6s,2026-10-25T14:43:23Z
+35,20,100,case_r35_T20_th100.npz,done,0.6s,2026-10-25T14:43:23Z
+35,20,110,case_r35_T20_th110.npz,done,0.6s,2026-10-25T14:43:24Z
+35,20,120,case_r35_T20_th120.npz,done,0.6s,2026-10-25T14:43:25Z
+35,20,130,case_r35_T20_th130.npz,done,0.6s,2026-10-25T14:43:25Z
+35,20,140,case_r35_T20_th140.npz,done,0.6s,2026-10-25T14:43:26Z
+35,20,150,case_r35_T20_th150.npz,done,0.6s,2026-10-25T14:43:26Z
+35,20,160,case_r35_T20_th160.npz,done,0.6s,2026-10-25T14:43:27Z
+35,20,170,case_r35_T20_th170.npz,done,0.6s,2026-10-25T14:43:28Z
+35,25,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:43:28Z
+35,25,10,case_r35_T25_th010.npz,done,0.6s,2026-10-25T14:43:28Z
+35,25,20,case_r35_T25_th020.npz,done,0.6s,2026-10-25T14:43:29Z
+35,25,30,case_r35_T25_th030.npz,done,0.6s,2026-10-25T14:43:29Z
+35,25,40,case_r35_T25_th040.npz,done,0.6s,2026-10-25T14:43:30Z
+35,25,50,case_r35_T25_th050.npz,done,0.6s,2026-10-25T14:43:31Z
+35,25,60,case_r35_T25_th060.npz,done,0.7s,2026-10-25T14:43:31Z
+35,25,70,case_r35_T25_th070.npz,done,0.6s,2026-10-25T14:43:32Z
+35,25,80,case_r35_T25_th080.npz,done,0.6s,2026-10-25T14:43:33Z
+35,25,90,case_r35_T25_th090.npz,done,0.6s,2026-10-25T14:43:33Z
+35,25,100,case_r35_T25_th100.npz,done,0.6s,2026-10-25T14:43:34Z
+35,25,110,case_r35_T25_th110.npz,done,0.6s,2026-10-25T14:43:34Z
+35,25,120,case_r35_T25_th120.npz,done,0.6s,2026-10-25T14:43:35Z
+35,25,130,case_r35_T25_th130.npz,done,0.6s,2026-10-25T14:43:36Z
+35,25,140,case_r35_T25_th140.npz,done,0.6s,2026-10-25T14:43:36Z
+35,25,150,case_r35_T25_th150.npz,done,0.6s,2026-10-25T14:43:37Z
+35,25,160,case_r35_T25_th160.npz,done,0.7s,2026-10-25T14:43:38Z
+35,25,170,case_r35_T25_th170.npz,done,0.7s,2026-10-25T14:43:38Z
+35,30,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:43:38Z
+35,30,10,case_r35_T30_th010.npz,done,0.6s,2026-10-25T14:43:39Z
+35,30,20,case_r35_T30_th020.npz,done,0.6s,2026-10-25T14:43:39Z
+35,30,30,case_r35_T30_th030.npz,done,0.6s,2026-10-25T14:43:40Z
+35,30,40,case_r35_T30_th040.npz,done,0.6s,2026-10-25T14:43:41Z
+35,30,50,case_r35_T30_th050.npz,done,0.6s,2026-10-25T14:43:41Z
+35,30,60,case_r35_T30_th060.npz,done,0.6s,2026-10-25T14:43:42Z
+35,30,70,case_r35_T30_th070.npz,done,0.6s,2026-10-25T14:43:42Z
+35,30,80,case_r35_T30_th080.npz,done,0.6s,2026-10-25T14:43:43Z
+35,30,90,case_r35_T30_th090.npz,done,0.6s,2026-10-25T14:43:44Z
+35,30,100,case_r35_T30_th100.npz,done,0.6s,2026-10-25T14:43:44Z
+35,30,110,case_r35_T30_th110.npz,done,0.6s,2026-10-25T14:43:45Z
+35,30,120,case_r35_T30_th120.npz,done,0.6s,2026-10-25T14:43:45Z
+35,30,130,case_r35_T30_th130.npz,done,0.6s,2026-10-25T14:43:46Z
+35,30,140,case_r35_T30_th140.npz,done,0.6s,2026-10-25T14:43:47Z
+35,30,150,case_r35_T30_th150.npz,done,0.6s,2026-10-25T14:43:47Z
+35,30,160,case_r35_T30_th160.npz,done,0.6s,2026-10-25T14:43:48Z
+35,30,170,case_r35_T30_th170.npz,done,0.7s,2026-10-25T14:43:49Z
+35,35,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:43:49Z
+35,35,10,case_r35_T35_th010.npz,done,0.7s,2026-10-25T14:43:49Z
+35,35,20,case_r35_T35_th020.npz,done,0.6s,2026-10-25T14:43:50Z
+35,35,30,case_r35_T35_th030.npz,done,0.6s,2026-10-25T14:43:51Z
+35,35,40,case_r35_T35_th040.npz,done,0.6s,2026-10-25T14:43:51Z
+35,35,50,case_r35_T35_th050.npz,done,0.6s,2026-10-25T14:43:52Z
+35,35,60,case_r35_T35_th060.npz,done,0.6s,2026-10-25T14:43:52Z
+35,35,70,case_r35_T35_th070.npz,done,0.6s,2026-10-25T14:43:53Z
+35,35,80,case_r35_T35_th080.npz,done,0.6s,2026-10-25T14:43:54Z
+35,35,90,case_r35_T35_th090.npz,done,0.8s,2026-10-25T14:43:54Z
+35,35,100,case_r35_T35_th100.npz,done,0.8s,2026-10-25T14:43:55Z
+35,35,110,case_r35_T35_th110.npz,done,0.6s,2026-10-25T14:43:56Z
+35,35,120,case_r35_T35_th120.npz,done,0.6s,2026-10-25T14:43:57Z
+35,35,130,case_r35_T35_th130.npz,done,0.6s,2026-10-25T14:43:57Z
+35,35,140,case_r35_T35_th140.npz,done,0.6s,2026-10-25T14:43:58Z
+35,35,150,case_r35_T35_th150.npz,done,0.6s,2026-10-25T14:43:58Z
+35,35,160,case_r35_T35_th160.npz,done,0.7s,2026-10-25T14:43:59Z
+35,35,170,case_r35_T35_th170.npz,done,0.6s,2026-10-25T14:44:00Z
+35,40,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:44:00Z
+35,40,10,case_r35_T40_th010.npz,done,0.6s,2026-10-25T14:44:00Z
+35,40,20,case_r35_T40_th020.npz,done,0.6s,2026-10-25T14:44:01Z
+35,40,30,case_r35_T40_th030.npz,done,0.6s,2026-10-25T14:44:02Z
+35,40,40,case_r35_T40_th040.npz,done,0.6s,2026-10-25T14:44:02Z
+35,40,50,case_r35_T40_th050.npz,done,0.6s,2026-10-25T14:44:03Z
+35,40,60,case_r35_T40_th060.npz,done,0.6s,2026-10-25T14:44:03Z
+35,40,70,case_r35_T40_th070.npz,done,0.6s,2026-10-25T14:44:04Z
+35,40,80,case_r35_T40_th080.npz,done,0.6s,2026-10-25T14:44:05Z
+35,40,90,case_r35_T40_th090.npz,done,0.6s,2026-10-25T14:44:05Z
+35,40,100,case_r35_T40_th100.npz,done,0.6s,2026-10-25T14:44:06Z
+35,40,110,case_r35_T40_th110.npz,done,0.6s,2026-10-25T14:44:07Z
+35,40,120,case_r35_T40_th120.npz,done,0.6s,2026-10-25T14:44:07Z
+35,40,130,case_r35_T40_th130.npz,done,0.6s,2026-10-25T14:44:08Z
+35,40,140,case_r35_T40_th140.npz,done,0.6s,2026-10-25T14:44:08Z
+35,40,150,case_r35_T40_th150.npz,done,0.6s,2026-10-25T14:44:09Z
+35,40,160,case_r35_T40_th160.npz,done,0.6s,2026-10-25T14:44:10Z
+35,40,170,case_r35_T40_th170.npz,done,0.6s,2026-10-25T14:44:10Z
+35,45,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:44:10Z
+35,45,10,case_r35_T45_th010.npz,done,0.6s,2026-10-25T14:44:11Z
+35,45,20,case_r35_T45_th020.npz,done,0.6s,2026-10-25T14:44:12Z
+35,45,30,case_r35_T45_th030.npz,done,0.6s,2026-10-25T14:44:12Z
+35,45,40,case_r35_T45_th040.npz,done,0.6s,2026-10-25T14:44:13Z
+35,45,50,case_r35_T45_th050.npz,done,0.6s,2026-10-25T14:44:13Z
+35,45,60,case_r35_T45_th060.npz,done,0.6s,2026-10-25T14:44:14Z
+35,45,70,case_r35_T45_th070.npz,done,0.6s,2026-10-25T14:44:15Z
+35,45,80,case_r35_T45_th080.npz,done,0.6s,2026-10-25T14:44:15Z
+35,45,90,case_r35_T45_th090.npz,done,0.6s,2026-10-25T14:44:16Z
+35,45,100,case_r35_T45_th100.npz,done,0.6s,2026-10-25T14:44:16Z
+35,45,110,case_r35_T45_th110.npz,done,0.6s,2026-10-25T14:44:17Z
+35,45,120,case_r35_T45_th120.npz,done,0.6s,2026-10-25T14:44:18Z
+35,45,130,case_r35_T45_th130.npz,done,0.6s,2026-10-25T14:44:18Z
+35,45,140,case_r35_T45_th140.npz,done,0.6s,2026-10-25T14:44:19Z
+35,45,150,case_r35_T45_th150.npz,done,0.6s,2026-10-25T14:44:20Z
+35,45,160,case_r35_T45_th160.npz,done,0.6s,2026-10-25T14:44:20Z
+35,45,170,case_r35_T45_th170.npz,done,0.6s,2026-10-25T14:44:21Z
+35,50,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:44:21Z
+35,50,10,case_r35_T50_th010.npz,done,0.6s,2026-10-25T14:44:21Z
+35,50,20,case_r35_T50_th020.npz,done,0.6s,2026-10-25T14:44:22Z
+35,50,30,case_r35_T50_th030.npz,done,0.6s,2026-10-25T14:44:23Z
+35,50,40,case_r35_T50_th040.npz,done,0.6s,2026-10-25T14:44:23Z
+35,50,50,case_r35_T50_th050.npz,done,0.7s,2026-10-25T14:44:24Z
+35,50,60,case_r35_T50_th060.npz,done,0.6s,2026-10-25T14:44:25Z
+35,50,70,case_r35_T50_th070.npz,done,0.6s,2026-10-25T14:44:25Z
+35,50,80,case_r35_T50_th080.npz,done,0.6s,2026-10-25T14:44:26Z
+35,50,90,case_r35_T50_th090.npz,done,0.6s,2026-10-25T14:44:26Z
+35,50,100,case_r35_T50_th100.npz,done,0.6s,2026-10-25T14:44:27Z
+35,50,110,case_r35_T50_th110.npz,done,0.6s,2026-10-25T14:44:28Z
+35,50,120,case_r35_T50_th120.npz,done,0.6s,2026-10-25T14:44:28Z
+35,50,130,case_r35_T50_th130.npz,done,0.6s,2026-10-25T14:44:29Z
+35,50,140,case_r35_T50_th140.npz,done,0.6s,2026-10-25T14:44:29Z
+35,50,150,case_r35_T50_th150.npz,done,0.6s,2026-10-25T14:44:30Z
+35,50,160,case_r35_T50_th160.npz,done,0.6s,2026-10-25T14:44:31Z
+35,50,170,case_r35_T50_th170.npz,done,0.6s,2026-10-25T14:44:31Z
+40,0,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:44:31Z
+40,0,10,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:44:31Z
+40,0,20,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:44:31Z
+40,0,30,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:44:31Z
+40,0,40,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:44:31Z
+40,0,50,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:44:31Z
+40,0,60,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:44:31Z
+40,0,70,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:44:31Z
+40,0,80,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:44:31Z
+40,0,90,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:44:31Z
+40,0,100,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:44:31Z
+40,0,110,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:44:31Z
+40,0,120,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:44:31Z
+40,0,130,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:44:31Z
+40,0,140,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:44:31Z
+40,0,150,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:44:31Z
+40,0,160,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:44:31Z
+40,0,170,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:44:31Z
+40,5,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:44:31Z
+40,5,10,case_r40_T05_th010.npz,done,0.8s,2026-10-25T14:44:32Z
+40,5,20,case_r40_T05_th020.npz,done,0.6s,2026-10-25T14:44:33Z
+40,5,30,case_r40_T05_th030.npz,done,0.6s,2026-10-25T14:44:33Z
+40,5,40,case_r40_T05_th040.npz,done,0.6s,2026-10-25T14:44:34Z
+40,5,50,case_r40_T05_th050.npz,done,0.6s,2026-10-25T14:44:35Z
+40,5,60,case_r40_T05_th060.npz,done,0.6s,2026-10-25T14:44:35Z
+40,5,70,case_r40_T05_th070.npz,done,0.6s,2026-10-25T14:44:36Z
+40,5,80,case_r40_T05_th080.npz,done,0.6s,2026-10-25T14:44:36Z
+40,5,90,case_r40_T05_th090.npz,done,0.6s,2026-10-25T14:44:37Z
+40,5,100,case_r40_T05_th100.npz,done,0.6s,2026-10-25T14:44:38Z
+40,5,110,case_r40_T05_th110.npz,done,0.6s,2026-10-25T14:44:38Z
+40,5,120,case_r40_T05_th120.npz,done,0.6s,2026-10-25T14:44:39Z
+40,5,130,case_r40_T05_th130.npz,done,0.6s,2026-10-25T14:44:40Z
+40,5,140,case_r40_T05_th140.npz,done,0.7s,2026-10-25T14:44:40Z
+40,5,150,case_r40_T05_th150.npz,done,0.8s,2026-10-25T14:44:41Z
+40,5,160,case_r40_T05_th160.npz,done,0.7s,2026-10-25T14:44:42Z
+40,5,170,case_r40_T05_th170.npz,done,0.7s,2026-10-25T14:44:42Z
+40,10,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:44:42Z
+40,10,10,case_r40_T10_th010.npz,done,0.6s,2026-10-25T14:44:43Z
+40,10,20,case_r40_T10_th020.npz,done,0.7s,2026-10-25T14:44:44Z
+40,10,30,case_r40_T10_th030.npz,done,0.6s,2026-10-25T14:44:44Z
+40,10,40,case_r40_T10_th040.npz,done,0.6s,2026-10-25T14:44:45Z
+40,10,50,case_r40_T10_th050.npz,done,0.6s,2026-10-25T14:44:46Z
+40,10,60,case_r40_T10_th060.npz,done,0.6s,2026-10-25T14:44:46Z
+40,10,70,case_r40_T10_th070.npz,done,0.6s,2026-10-25T14:44:47Z
+40,10,80,case_r40_T10_th080.npz,done,0.6s,2026-10-25T14:44:48Z
+40,10,90,case_r40_T10_th090.npz,done,0.6s,2026-10-25T14:44:48Z
+40,10,100,case_r40_T10_th100.npz,done,0.7s,2026-10-25T14:44:49Z
+40,10,110,case_r40_T10_th110.npz,done,0.6s,2026-10-25T14:44:49Z
+40,10,120,case_r40_T10_th120.npz,done,0.6s,2026-10-25T14:44:50Z
+40,10,130,case_r40_T10_th130.npz,done,0.6s,2026-10-25T14:44:51Z
+40,10,140,case_r40_T10_th140.npz,done,0.6s,2026-10-25T14:44:51Z
+40,10,150,case_r40_T10_th150.npz,done,0.6s,2026-10-25T14:44:52Z
+40,10,160,case_r40_T10_th160.npz,done,0.7s,2026-10-25T14:44:53Z
+40,10,170,case_r40_T10_th170.npz,done,0.7s,2026-10-25T14:44:53Z
+40,15,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:44:53Z
+40,15,10,case_r40_T15_th010.npz,done,0.7s,2026-10-25T14:44:54Z
+40,15,20,case_r40_T15_th020.npz,done,0.6s,2026-10-25T14:44:55Z
+40,15,30,case_r40_T15_th030.npz,done,0.6s,2026-10-25T14:44:55Z
+40,15,40,case_r40_T15_th040.npz,done,0.6s,2026-10-25T14:44:56Z
+40,15,50,case_r40_T15_th050.npz,done,0.6s,2026-10-25T14:44:57Z
+40,15,60,case_r40_T15_th060.npz,done,0.6s,2026-10-25T14:44:57Z
+40,15,70,case_r40_T15_th070.npz,done,0.6s,2026-10-25T14:44:58Z
+40,15,80,case_r40_T15_th080.npz,done,0.6s,2026-10-25T14:44:59Z
+40,15,90,case_r40_T15_th090.npz,done,0.7s,2026-10-25T14:44:59Z
+40,15,100,case_r40_T15_th100.npz,done,0.6s,2026-10-25T14:45:00Z
+40,15,110,case_r40_T15_th110.npz,done,0.6s,2026-10-25T14:45:00Z
+40,15,120,case_r40_T15_th120.npz,done,0.7s,2026-10-25T14:45:01Z
+40,15,130,case_r40_T15_th130.npz,done,0.8s,2026-10-25T14:45:02Z
+40,15,140,case_r40_T15_th140.npz,done,0.6s,2026-10-25T14:45:03Z
+40,15,150,case_r40_T15_th150.npz,done,0.6s,2026-10-25T14:45:03Z
+40,15,160,case_r40_T15_th160.npz,done,0.7s,2026-10-25T14:45:04Z
+40,15,170,case_r40_T15_th170.npz,done,0.6s,2026-10-25T14:45:05Z
+40,20,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:45:05Z
+40,20,10,case_r40_T20_th010.npz,done,0.6s,2026-10-25T14:45:05Z
+40,20,20,case_r40_T20_th020.npz,done,0.7s,2026-10-25T14:45:06Z
+40,20,30,case_r40_T20_th030.npz,done,0.6s,2026-10-25T14:45:06Z
+40,20,40,case_r40_T20_th040.npz,done,0.6s,2026-10-25T14:45:07Z
+40,20,50,case_r40_T20_th050.npz,done,0.6s,2026-10-25T14:45:08Z
+40,20,60,case_r40_T20_th060.npz,done,0.6s,2026-10-25T14:45:08Z
+40,20,70,case_r40_T20_th070.npz,done,0.6s,2026-10-25T14:45:09Z
+40,20,80,case_r40_T20_th080.npz,done,0.6s,2026-10-25T14:45:10Z
+40,20,90,case_r40_T20_th090.npz,done,0.6s,2026-10-25T14:45:10Z
+40,20,100,case_r40_T20_th100.npz,done,0.6s,2026-10-25T14:45:11Z
+40,20,110,case_r40_T20_th110.npz,done,0.6s,2026-10-25T14:45:11Z
+40,20,120,case_r40_T20_th120.npz,done,0.6s,2026-10-25T14:45:12Z
+40,20,130,case_r40_T20_th130.npz,done,0.6s,2026-10-25T14:45:13Z
+40,20,140,case_r40_T20_th140.npz,done,0.6s,2026-10-25T14:45:13Z
+40,20,150,case_r40_T20_th150.npz,done,0.6s,2026-10-25T14:45:14Z
+40,20,160,case_r40_T20_th160.npz,done,0.7s,2026-10-25T14:45:15Z
+40,20,170,case_r40_T20_th170.npz,done,0.6s,2026-10-25T14:45:15Z
+40,25,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:45:15Z
+40,25,10,case_r40_T25_th010.npz,done,0.6s,2026-10-25T14:45:16Z
+40,25,20,case_r40_T25_th020.npz,done,0.6s,2026-10-25T14:45:17Z
+40,25,30,case_r40_T25_th030.npz,done,0.6s,2026-10-25T14:45:17Z
+40,25,40,case_r40_T25_th040.npz,done,0.6s,2026-10-25T14:45:18Z
+40,25,50,case_r40_T25_th050.npz,done,0.6s,2026-10-25T14:45:18Z
+40,25,60,case_r40_T25_th060.npz,done,0.6s,2026-10-25T14:45:19Z
+40,25,70,case_r40_T25_th070.npz,done,0.6s,2026-10-25T14:45:20Z
+40,25,80,case_r40_T25_th080.npz,done,0.6s,2026-10-25T14:45:20Z
+40,25,90,case_r40_T25_th090.npz,done,0.6s,2026-10-25T14:45:21Z
+40,25,100,case_r40_T25_th100.npz,done,0.6s,2026-10-25T14:45:22Z
+40,25,110,case_r40_T25_th110.npz,done,0.6s,2026-10-25T14:45:22Z
+40,25,120,case_r40_T25_th120.npz,done,0.6s,2026-10-25T14:45:23Z
+40,25,130,case_r40_T25_th130.npz,done,0.6s,2026-10-25T14:45:23Z
+40,25,140,case_r40_T25_th140.npz,done,0.6s,2026-10-25T14:45:24Z
+40,25,150,case_r40_T25_th150.npz,done,0.6s,2026-10-25T14:45:25Z
+40,25,160,case_r40_T25_th160.npz,done,0.6s,2026-10-25T14:45:25Z
+40,25,170,case_r40_T25_th170.npz,done,0.7s,2026-10-25T14:45:26Z
+40,30,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:45:26Z
+40,30,10,case_r40_T30_th010.npz,done,0.6s,2026-10-25T14:45:27Z
+40,30,20,case_r40_T30_th020.npz,done,0.6s,2026-10-25T14:45:27Z
+40,30,30,case_r40_T30_th030.npz,done,0.6s,2026-10-25T14:45:28Z
+40,30,40,case_r40_T30_th040.npz,done,0.6s,2026-10-25T14:45:28Z
+40,30,50,case_r40_T30_th050.npz,done,0.6s,2026-10-25T14:45:29Z
+40,30,60,case_r40_T30_th060.npz,done,0.6s,2026-10-25T14:45:30Z
+40,30,70,case_r40_T30_th070.npz,done,0.6s,2026-10-25T14:45:30Z
+40,30,80,case_r40_T30_th080.npz,done,0.6s,2026-10-25T14:45:31Z
+40,30,90,case_r40_T30_th090.npz,done,0.6s,2026-10-25T14:45:32Z
+40,30,100,case_r40_T30_th100.npz,done,0.7s,2026-10-25T14:45:32Z
+40,30,110,case_r40_T30_th110.npz,done,0.6s,2026-10-25T14:45:33Z
+40,30,120,case_r40_T30_th120.npz,done,0.6s,2026-10-25T14:45:34Z
+40,30,130,case_r40_T30_th130.npz,done,0.6s,2026-10-25T14:45:34Z
+40,30,140,case_r40_T30_th140.npz,done,0.6s,2026-10-25T14:45:35Z
+40,30,150,case_r40_T30_th150.npz,done,0.6s,2026-10-25T14:45:35Z
+40,30,160,case_r40_T30_th160.npz,done,0.6s,2026-10-25T14:45:36Z
+40,30,170,case_r40_T30_th170.npz,done,0.6s,2026-10-25T14:45:37Z
+40,35,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:45:37Z
+40,35,10,case_r40_T35_th010.npz,done,0.6s,2026-10-25T14:45:37Z
+40,35,20,case_r40_T35_th020.npz,done,0.6s,2026-10-25T14:45:38Z
+40,35,30,case_r40_T35_th030.npz,done,0.6s,2026-10-25T14:45:38Z
+40,35,40,case_r40_T35_th040.npz,done,0.6s,2026-10-25T14:45:39Z
+40,35,50,case_r40_T35_th050.npz,done,0.6s,2026-10-25T14:45:40Z
+40,35,60,case_r40_T35_th060.npz,done,0.6s,2026-10-25T14:45:40Z
+40,35,70,case_r40_T35_th070.npz,done,0.6s,2026-10-25T14:45:41Z
+40,35,80,case_r40_T35_th080.npz,done,0.6s,2026-10-25T14:45:41Z
+40,35,90,case_r40_T35_th090.npz,done,0.6s,2026-10-25T14:45:42Z
+40,35,100,case_r40_T35_th100.npz,done,0.6s,2026-10-25T14:45:43Z
+40,35,110,case_r40_T35_th110.npz,done,0.6s,2026-10-25T14:45:43Z
+40,35,120,case_r40_T35_th120.npz,done,0.6s,2026-10-25T14:45:44Z
+40,35,130,case_r40_T35_th130.npz,done,0.6s,2026-10-25T14:45:44Z
+40,35,140,case_r40_T35_th140.npz,done,0.6s,2026-10-25T14:45:45Z
+40,35,150,case_r40_T35_th150.npz,done,0.6s,2026-10-25T14:45:46Z
+40,35,160,case_r40_T35_th160.npz,done,0.7s,2026-10-25T14:45:46Z
+40,35,170,case_r40_T35_th170.npz,done,0.6s,2026-10-25T14:45:47Z
+40,40,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:45:47Z
+40,40,10,case_r40_T40_th010.npz,done,0.6s,2026-10-25T14:45:48Z
+40,40,20,case_r40_T40_th020.npz,done,0.6s,2026-10-25T14:45:48Z
+40,40,30,case_r40_T40_th030.npz,done,0.6s,2026-10-25T14:45:49Z
+40,40,40,case_r40_T40_th040.npz,done,0.6s,2026-10-25T14:45:49Z
+40,40,50,case_r40_T40_th050.npz,done,0.6s,2026-10-25T14:45:50Z
+40,40,60,case_r40_T40_th060.npz,done,0.6s,2026-10-25T14:45:51Z
+40,40,70,case_r40_T40_th070.npz,done,0.6s,2026-10-25T14:45:51Z
+40,40,80,case_r40_T40_th080.npz,done,0.6s,2026-10-25T14:45:52Z
+40,40,90,case_r40_T40_th090.npz,done,0.6s,2026-10-25T14:45:52Z
+40,40,100,case_r40_T40_th100.npz,done,0.6s,2026-10-25T14:45:53Z
+40,40,110,case_r40_T40_th110.npz,done,0.6s,2026-10-25T14:45:54Z
+40,40,120,case_r40_T40_th120.npz,done,0.6s,2026-10-25T14:45:54Z
+40,40,130,case_r40_T40_th130.npz,done,0.6s,2026-10-25T14:45:55Z
+40,40,140,case_r40_T40_th140.npz,done,0.6s,2026-10-25T14:45:56Z
+40,40,150,case_r40_T40_th150.npz,done,0.6s,2026-10-25T14:45:56Z
+40,40,160,case_r40_T40_th160.npz,done,0.6s,2026-10-25T14:45:57Z
+40,40,170,case_r40_T40_th170.npz,done,0.6s,2026-10-25T14:45:57Z
+40,45,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:45:57Z
+40,45,10,case_r40_T45_th010.npz,done,0.6s,2026-10-25T14:45:58Z
+40,45,20,case_r40_T45_th020.npz,done,0.6s,2026-10-25T14:45:59Z
+40,45,30,case_r40_T45_th030.npz,done,0.6s,2026-10-25T14:45:59Z
+40,45,40,case_r40_T45_th040.npz,done,0.7s,2026-10-25T14:46:00Z
+40,45,50,case_r40_T45_th050.npz,done,0.6s,2026-10-25T14:46:01Z
+40,45,60,case_r40_T45_th060.npz,done,0.6s,2026-10-25T14:46:01Z
+40,45,70,case_r40_T45_th070.npz,done,0.6s,2026-10-25T14:46:02Z
+40,45,80,case_r40_T45_th080.npz,done,0.6s,2026-10-25T14:46:02Z
+40,45,90,case_r40_T45_th090.npz,done,0.6s,2026-10-25T14:46:03Z
+40,45,100,case_r40_T45_th100.npz,done,0.6s,2026-10-25T14:46:04Z
+40,45,110,case_r40_T45_th110.npz,done,0.6s,2026-10-25T14:46:04Z
+40,45,120,case_r40_T45_th120.npz,done,0.6s,2026-10-25T14:46:05Z
+40,45,130,case_r40_T45_th130.npz,done,0.6s,2026-10-25T14:46:05Z
+40,45,140,case_r40_T45_th140.npz,done,0.6s,2026-10-25T14:46:06Z
+40,45,150,case_r40_T45_th150.npz,done,0.6s,2026-10-25T14:46:07Z
+40,45,160,case_r40_T45_th160.npz,done,0.6s,2026-10-25T14:46:07Z
+40,45,170,case_r40_T45_th170.npz,done,0.6s,2026-10-25T14:46:08Z
+40,50,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:46:08Z
+40,50,10,case_r40_T50_th010.npz,done,0.6s,2026-10-25T14:46:08Z
+40,50,20,case_r40_T50_th020.npz,done,0.6s,2026-10-25T14:46:09Z
+40,50,30,case_r40_T50_th030.npz,done,0.6s,2026-10-25T14:46:10Z
+40,50,40,case_r40_T50_th040.npz,done,0.6s,2026-10-25T14:46:10Z
+40,50,50,case_r40_T50_th050.npz,done,0.6s,2026-10-25T14:46:11Z
+40,50,60,case_r40_T50_th060.npz,done,0.6s,2026-10-25T14:46:12Z
+40,50,70,case_r40_T50_th070.npz,done,0.6s,2026-10-25T14:46:12Z
+40,50,80,case_r40_T50_th080.npz,done,0.6s,2026-10-25T14:46:13Z
+40,50,90,case_r40_T50_th090.npz,done,0.6s,2026-10-25T14:46:13Z
+40,50,100,case_r40_T50_th100.npz,done,0.6s,2026-10-25T14:46:14Z
+40,50,110,case_r40_T50_th110.npz,done,0.6s,2026-10-25T14:46:15Z
+40,50,120,case_r40_T50_th120.npz,done,0.6s,2026-10-25T14:46:15Z
+40,50,130,case_r40_T50_th130.npz,done,0.6s,2026-10-25T14:46:16Z
+40,50,140,case_r40_T50_th140.npz,done,0.6s,2026-10-25T14:46:17Z
+40,50,150,case_r40_T50_th150.npz,done,0.6s,2026-10-25T14:46:17Z
+40,50,160,case_r40_T50_th160.npz,done,0.6s,2026-10-25T14:46:18Z
+40,50,170,case_r40_T50_th170.npz,done,0.6s,2026-10-25T14:46:18Z
+45,0,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:46:18Z
+45,0,10,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:46:18Z
+45,0,20,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:46:18Z
+45,0,30,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:46:18Z
+45,0,40,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:46:18Z
+45,0,50,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:46:18Z
+45,0,60,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:46:18Z
+45,0,70,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:46:18Z
+45,0,80,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:46:18Z
+45,0,90,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:46:18Z
+45,0,100,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:46:18Z
+45,0,110,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:46:18Z
+45,0,120,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:46:18Z
+45,0,130,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:46:18Z
+45,0,140,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:46:18Z
+45,0,150,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:46:18Z
+45,0,160,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:46:18Z
+45,0,170,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:46:18Z
+45,5,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:46:18Z
+45,5,10,case_r45_T05_th010.npz,done,0.6s,2026-10-25T14:46:19Z
+45,5,20,case_r45_T05_th020.npz,done,0.6s,2026-10-25T14:46:20Z
+45,5,30,case_r45_T05_th030.npz,done,0.6s,2026-10-25T14:46:20Z
+45,5,40,case_r45_T05_th040.npz,done,0.6s,2026-10-25T14:46:21Z
+45,5,50,case_r45_T05_th050.npz,done,0.6s,2026-10-25T14:46:21Z
+45,5,60,case_r45_T05_th060.npz,done,0.6s,2026-10-25T14:46:22Z
+45,5,70,case_r45_T05_th070.npz,done,0.6s,2026-10-25T14:46:23Z
+45,5,80,case_r45_T05_th080.npz,done,0.6s,2026-10-25T14:46:23Z
+45,5,90,case_r45_T05_th090.npz,done,0.7s,2026-10-25T14:46:24Z
+45,5,100,case_r45_T05_th100.npz,done,0.6s,2026-10-25T14:46:25Z
+45,5,110,case_r45_T05_th110.npz,done,0.6s,2026-10-25T14:46:25Z
+45,5,120,case_r45_T05_th120.npz,done,0.6s,2026-10-25T14:46:26Z
+45,5,130,case_r45_T05_th130.npz,done,0.6s,2026-10-25T14:46:26Z
+45,5,140,case_r45_T05_th140.npz,done,0.6s,2026-10-25T14:46:27Z
+45,5,150,case_r45_T05_th150.npz,done,0.6s,2026-10-25T14:46:28Z
+45,5,160,case_r45_T05_th160.npz,done,0.6s,2026-10-25T14:46:28Z
+45,5,170,case_r45_T05_th170.npz,done,0.6s,2026-10-25T14:46:29Z
+45,10,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:46:29Z
+45,10,10,case_r45_T10_th010.npz,done,0.6s,2026-10-25T14:46:30Z
+45,10,20,case_r45_T10_th020.npz,done,0.6s,2026-10-25T14:46:30Z
+45,10,30,case_r45_T10_th030.npz,done,0.6s,2026-10-25T14:46:31Z
+45,10,40,case_r45_T10_th040.npz,done,0.6s,2026-10-25T14:46:31Z
+45,10,50,case_r45_T10_th050.npz,done,0.6s,2026-10-25T14:46:32Z
+45,10,60,case_r45_T10_th060.npz,done,0.6s,2026-10-25T14:46:33Z
+45,10,70,case_r45_T10_th070.npz,done,0.6s,2026-10-25T14:46:33Z
+45,10,80,case_r45_T10_th080.npz,done,0.6s,2026-10-25T14:46:34Z
+45,10,90,case_r45_T10_th090.npz,done,0.6s,2026-10-25T14:46:34Z
+45,10,100,case_r45_T10_th100.npz,done,0.6s,2026-10-25T14:46:35Z
+45,10,110,case_r45_T10_th110.npz,done,0.6s,2026-10-25T14:46:36Z
+45,10,120,case_r45_T10_th120.npz,done,0.6s,2026-10-25T14:46:36Z
+45,10,130,case_r45_T10_th130.npz,done,0.6s,2026-10-25T14:46:37Z
+45,10,140,case_r45_T10_th140.npz,done,0.6s,2026-10-25T14:46:37Z
+45,10,150,case_r45_T10_th150.npz,done,0.6s,2026-10-25T14:46:38Z
+45,10,160,case_r45_T10_th160.npz,done,0.6s,2026-10-25T14:46:39Z
+45,10,170,case_r45_T10_th170.npz,done,0.6s,2026-10-25T14:46:39Z
+45,15,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:46:39Z
+45,15,10,case_r45_T15_th010.npz,done,0.6s,2026-10-25T14:46:40Z
+45,15,20,case_r45_T15_th020.npz,done,0.6s,2026-10-25T14:46:40Z
+45,15,30,case_r45_T15_th030.npz,done,0.6s,2026-10-25T14:46:41Z
+45,15,40,case_r45_T15_th040.npz,done,0.6s,2026-10-25T14:46:42Z
+45,15,50,case_r45_T15_th050.npz,done,0.6s,2026-10-25T14:46:42Z
+45,15,60,case_r45_T15_th060.npz,done,0.6s,2026-10-25T14:46:43Z
+45,15,70,case_r45_T15_th070.npz,done,0.6s,2026-10-25T14:46:43Z
+45,15,80,case_r45_T15_th080.npz,done,0.6s,2026-10-25T14:46:44Z
+45,15,90,case_r45_T15_th090.npz,done,0.6s,2026-10-25T14:46:45Z
+45,15,100,case_r45_T15_th100.npz,done,0.6s,2026-10-25T14:46:45Z
+45,15,110,case_r45_T15_th110.npz,done,0.6s,2026-10-25T14:46:46Z
+45,15,120,case_r45_T15_th120.npz,done,0.6s,2026-10-25T14:46:46Z
+45,15,130,case_r45_T15_th130.npz,done,0.6s,2026-10-25T14:46:47Z
+45,15,140,case_r45_T15_th140.npz,done,0.7s,2026-10-25T14:46:48Z
+45,15,150,case_r45_T15_th150.npz,done,0.6s,2026-10-25T14:46:48Z
+45,15,160,case_r45_T15_th160.npz,done,0.6s,2026-10-25T14:46:49Z
+45,15,170,case_r45_T15_th170.npz,done,0.6s,2026-10-25T14:46:50Z
+45,20,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:46:50Z
+45,20,10,case_r45_T20_th010.npz,done,0.6s,2026-10-25T14:46:50Z
+45,20,20,case_r45_T20_th020.npz,done,0.6s,2026-10-25T14:46:51Z
+45,20,30,case_r45_T20_th030.npz,done,0.6s,2026-10-25T14:46:52Z
+45,20,40,case_r45_T20_th040.npz,done,0.6s,2026-10-25T14:46:52Z
+45,20,50,case_r45_T20_th050.npz,done,0.6s,2026-10-25T14:46:53Z
+45,20,60,case_r45_T20_th060.npz,done,0.6s,2026-10-25T14:46:53Z
+45,20,70,case_r45_T20_th070.npz,done,0.6s,2026-10-25T14:46:54Z
+45,20,80,case_r45_T20_th080.npz,done,0.6s,2026-10-25T14:46:55Z
+45,20,90,case_r45_T20_th090.npz,done,0.6s,2026-10-25T14:46:55Z
+45,20,100,case_r45_T20_th100.npz,done,0.6s,2026-10-25T14:46:56Z
+45,20,110,case_r45_T20_th110.npz,done,0.6s,2026-10-25T14:46:56Z
+45,20,120,case_r45_T20_th120.npz,done,0.6s,2026-10-25T14:46:57Z
+45,20,130,case_r45_T20_th130.npz,done,0.6s,2026-10-25T14:46:58Z
+45,20,140,case_r45_T20_th140.npz,done,0.6s,2026-10-25T14:46:58Z
+45,20,150,case_r45_T20_th150.npz,done,0.6s,2026-10-25T14:46:59Z
+45,20,160,case_r45_T20_th160.npz,done,0.6s,2026-10-25T14:47:00Z
+45,20,170,case_r45_T20_th170.npz,done,0.6s,2026-10-25T14:47:00Z
+45,25,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:47:00Z
+45,25,10,case_r45_T25_th010.npz,done,0.7s,2026-10-25T14:47:01Z
+45,25,20,case_r45_T25_th020.npz,done,0.6s,2026-10-25T14:47:01Z
+45,25,30,case_r45_T25_th030.npz,done,0.6s,2026-10-25T14:47:02Z
+45,25,40,case_r45_T25_th040.npz,done,0.6s,2026-10-25T14:47:03Z
+45,25,50,case_r45_T25_th050.npz,done,0.6s,2026-10-25T14:47:03Z
+45,25,60,case_r45_T25_th060.npz,done,0.7s,2026-10-25T14:47:04Z
+45,25,70,case_r45_T25_th070.npz,done,0.6s,2026-10-25T14:47:05Z
+45,25,80,case_r45_T25_th080.npz,done,0.6s,2026-10-25T14:47:05Z
+45,25,90,case_r45_T25_th090.npz,done,0.6s,2026-10-25T14:47:06Z
+45,25,100,case_r45_T25_th100.npz,done,0.6s,2026-10-25T14:47:07Z
+45,25,110,case_r45_T25_th110.npz,done,0.6s,2026-10-25T14:47:07Z
+45,25,120,case_r45_T25_th120.npz,done,0.6s,2026-10-25T14:47:08Z
+45,25,130,case_r45_T25_th130.npz,done,0.6s,2026-10-25T14:47:08Z
+45,25,140,case_r45_T25_th140.npz,done,0.6s,2026-10-25T14:47:09Z
+45,25,150,case_r45_T25_th150.npz,done,0.6s,2026-10-25T14:47:10Z
+45,25,160,case_r45_T25_th160.npz,done,0.6s,2026-10-25T14:47:10Z
+45,25,170,case_r45_T25_th170.npz,done,0.6s,2026-10-25T14:47:11Z
+45,30,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:47:11Z
+45,30,10,case_r45_T30_th010.npz,done,0.6s,2026-10-25T14:47:12Z
+45,30,20,case_r45_T30_th020.npz,done,0.6s,2026-10-25T14:47:12Z
+45,30,30,case_r45_T30_th030.npz,done,0.6s,2026-10-25T14:47:13Z
+45,30,40,case_r45_T30_th040.npz,done,0.6s,2026-10-25T14:47:13Z
+45,30,50,case_r45_T30_th050.npz,done,0.6s,2026-10-25T14:47:14Z
+45,30,60,case_r45_T30_th060.npz,done,0.6s,2026-10-25T14:47:15Z
+45,30,70,case_r45_T30_th070.npz,done,0.6s,2026-10-25T14:47:15Z
+45,30,80,case_r45_T30_th080.npz,done,0.6s,2026-10-25T14:47:16Z
+45,30,90,case_r45_T30_th090.npz,done,0.6s,2026-10-25T14:47:17Z
+45,30,100,case_r45_T30_th100.npz,done,0.6s,2026-10-25T14:47:17Z
+45,30,110,case_r45_T30_th110.npz,done,0.6s,2026-10-25T14:47:18Z
+45,30,120,case_r45_T30_th120.npz,done,0.6s,2026-10-25T14:47:18Z
+45,30,130,case_r45_T30_th130.npz,done,0.7s,2026-10-25T14:47:19Z
+45,30,140,case_r45_T30_th140.npz,done,0.6s,2026-10-25T14:47:20Z
+45,30,150,case_r45_T30_th150.npz,done,0.6s,2026-10-25T14:47:20Z
+45,30,160,case_r45_T30_th160.npz,done,0.6s,2026-10-25T14:47:21Z
+45,30,170,case_r45_T30_th170.npz,done,0.6s,2026-10-25T14:47:21Z
+45,35,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:47:21Z
+45,35,10,case_r45_T35_th010.npz,done,0.6s,2026-10-25T14:47:22Z
+45,35,20,case_r45_T35_th020.npz,done,0.6s,2026-10-25T14:47:23Z
+45,35,30,case_r45_T35_th030.npz,done,0.6s,2026-10-25T14:47:23Z
+45,35,40,case_r45_T35_th040.npz,done,0.6s,2026-10-25T14:47:24Z
+45,35,50,case_r45_T35_th050.npz,done,0.6s,2026-10-25T14:47:25Z
+45,35,60,case_r45_T35_th060.npz,done,0.6s,2026-10-25T14:47:25Z
+45,35,70,case_r45_T35_th070.npz,done,0.7s,2026-10-25T14:47:26Z
+45,35,80,case_r45_T35_th080.npz,done,0.6s,2026-10-25T14:47:27Z
+45,35,90,case_r45_T35_th090.npz,done,0.6s,2026-10-25T14:47:27Z
+45,35,100,case_r45_T35_th100.npz,done,0.6s,2026-10-25T14:47:28Z
+45,35,110,case_r45_T35_th110.npz,done,0.6s,2026-10-25T14:47:28Z
+45,35,120,case_r45_T35_th120.npz,done,0.6s,2026-10-25T14:47:29Z
+45,35,130,case_r45_T35_th130.npz,done,0.6s,2026-10-25T14:47:30Z
+45,35,140,case_r45_T35_th140.npz,done,0.6s,2026-10-25T14:47:30Z
+45,35,150,case_r45_T35_th150.npz,done,0.6s,2026-10-25T14:47:31Z
+45,35,160,case_r45_T35_th160.npz,done,0.6s,2026-10-25T14:47:32Z
+45,35,170,case_r45_T35_th170.npz,done,0.6s,2026-10-25T14:47:32Z
+45,40,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:47:32Z
+45,40,10,case_r45_T40_th010.npz,done,0.6s,2026-10-25T14:47:33Z
+45,40,20,case_r45_T40_th020.npz,done,0.7s,2026-10-25T14:47:33Z
+45,40,30,case_r45_T40_th030.npz,done,0.7s,2026-10-25T14:47:34Z
+45,40,40,case_r45_T40_th040.npz,done,0.6s,2026-10-25T14:47:35Z
+45,40,50,case_r45_T40_th050.npz,done,0.6s,2026-10-25T14:47:35Z
+45,40,60,case_r45_T40_th060.npz,done,0.6s,2026-10-25T14:47:36Z
+45,40,70,case_r45_T40_th070.npz,done,0.6s,2026-10-25T14:47:37Z
+45,40,80,case_r45_T40_th080.npz,done,0.6s,2026-10-25T14:47:37Z
+45,40,90,case_r45_T40_th090.npz,done,0.6s,2026-10-25T14:47:38Z
+45,40,100,case_r45_T40_th100.npz,done,0.6s,2026-10-25T14:47:38Z
+45,40,110,case_r45_T40_th110.npz,done,0.6s,2026-10-25T14:47:39Z
+45,40,120,case_r45_T40_th120.npz,done,0.6s,2026-10-25T14:47:40Z
+45,40,130,case_r45_T40_th130.npz,done,0.6s,2026-10-25T14:47:40Z
+45,40,140,case_r45_T40_th140.npz,done,0.6s,2026-10-25T14:47:41Z
+45,40,150,case_r45_T40_th150.npz,done,0.6s,2026-10-25T14:47:42Z
+45,40,160,case_r45_T40_th160.npz,done,0.6s,2026-10-25T14:47:42Z
+45,40,170,case_r45_T40_th170.npz,done,0.6s,2026-10-25T14:47:43Z
+45,45,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:47:43Z
+45,45,10,case_r45_T45_th010.npz,done,0.6s,2026-10-25T14:47:43Z
+45,45,20,case_r45_T45_th020.npz,done,0.6s,2026-10-25T14:47:44Z
+45,45,30,case_r45_T45_th030.npz,done,0.6s,2026-10-25T14:47:45Z
+45,45,40,case_r45_T45_th040.npz,done,0.6s,2026-10-25T14:47:45Z
+45,45,50,case_r45_T45_th050.npz,done,0.6s,2026-10-25T14:47:46Z
+45,45,60,case_r45_T45_th060.npz,done,0.6s,2026-10-25T14:47:47Z
+45,45,70,case_r45_T45_th070.npz,done,0.6s,2026-10-25T14:47:47Z
+45,45,80,case_r45_T45_th080.npz,done,0.6s,2026-10-25T14:47:48Z
+45,45,90,case_r45_T45_th090.npz,done,0.6s,2026-10-25T14:47:48Z
+45,45,100,case_r45_T45_th100.npz,done,0.6s,2026-10-25T14:47:49Z
+45,45,110,case_r45_T45_th110.npz,done,0.6s,2026-10-25T14:47:50Z
+45,45,120,case_r45_T45_th120.npz,done,0.6s,2026-10-25T14:47:50Z
+45,45,130,case_r45_T45_th130.npz,done,0.6s,2026-10-25T14:47:51Z
+45,45,140,case_r45_T45_th140.npz,done,0.6s,2026-10-25T14:47:52Z
+45,45,150,case_r45_T45_th150.npz,done,0.6s,2026-10-25T14:47:52Z
+45,45,160,case_r45_T45_th160.npz,done,0.6s,2026-10-25T14:47:53Z
+45,45,170,case_r45_T45_th170.npz,done,0.6s,2026-10-25T14:47:53Z
+45,50,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:47:53Z
+45,50,10,case_r45_T50_th010.npz,done,0.6s,2026-10-25T14:47:54Z
+45,50,20,case_r45_T50_th020.npz,done,0.6s,2026-10-25T14:47:55Z
+45,50,30,case_r45_T50_th030.npz,done,0.6s,2026-10-25T14:47:55Z
+45,50,40,case_r45_T50_th040.npz,done,0.6s,2026-10-25T14:47:56Z
+45,50,50,case_r45_T50_th050.npz,done,0.6s,2026-10-25T14:47:57Z
+45,50,60,case_r45_T50_th060.npz,done,0.6s,2026-10-25T14:47:57Z
+45,50,70,case_r45_T50_th070.npz,done,0.6s,2026-10-25T14:47:58Z
+45,50,80,case_r45_T50_th080.npz,done,0.6s,2026-10-25T14:47:58Z
+45,50,90,case_r45_T50_th090.npz,done,0.6s,2026-10-25T14:47:59Z
+45,50,100,case_r45_T50_th100.npz,done,0.6s,2026-10-25T14:48:00Z
+45,50,110,case_r45_T50_th110.npz,done,0.6s,2026-10-25T14:48:00Z
+45,50,120,case_r45_T50_th120.npz,done,0.6s,2026-10-25T14:48:01Z
+45,50,130,case_r45_T50_th130.npz,done,0.6s,2026-10-25T14:48:02Z
+45,50,140,case_r45_T50_th140.npz,done,0.6s,2026-10-25T14:48:02Z
+45,50,150,case_r45_T50_th150.npz,done,0.6s,2026-10-25T14:48:03Z
+45,50,160,case_r45_T50_th160.npz,done,0.6s,2026-10-25T14:48:03Z
+45,50,170,case_r45_T50_th170.npz,done,0.6s,2026-10-25T14:48:04Z
+50,0,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:48:04Z
+50,0,10,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:48:04Z
+50,0,20,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:48:04Z
+50,0,30,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:48:04Z
+50,0,40,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:48:04Z
+50,0,50,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:48:04Z
+50,0,60,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:48:04Z
+50,0,70,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:48:04Z
+50,0,80,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:48:04Z
+50,0,90,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:48:04Z
+50,0,100,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:48:04Z
+50,0,110,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:48:04Z
+50,0,120,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:48:04Z
+50,0,130,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:48:04Z
+50,0,140,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:48:04Z
+50,0,150,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:48:04Z
+50,0,160,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:48:04Z
+50,0,170,,skipped_singular,"Te=0 -> T=0K, chem_pot singular (pre=0); team to decide floor/exclude",2026-10-25T14:48:04Z
+50,5,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:48:04Z
+50,5,10,case_r50_T05_th010.npz,done,0.6s,2026-10-25T14:48:05Z
+50,5,20,case_r50_T05_th020.npz,done,0.6s,2026-10-25T14:48:05Z
+50,5,30,case_r50_T05_th030.npz,done,0.6s,2026-10-25T14:48:06Z
+50,5,40,case_r50_T05_th040.npz,done,0.6s,2026-10-25T14:48:07Z
+50,5,50,case_r50_T05_th050.npz,done,0.6s,2026-10-25T14:48:07Z
+50,5,60,case_r50_T05_th060.npz,done,0.6s,2026-10-25T14:48:08Z
+50,5,70,case_r50_T05_th070.npz,done,0.6s,2026-10-25T14:48:09Z
+50,5,80,case_r50_T05_th080.npz,done,0.6s,2026-10-25T14:48:09Z
+50,5,90,case_r50_T05_th090.npz,done,0.6s,2026-10-25T14:48:10Z
+50,5,100,case_r50_T05_th100.npz,done,0.6s,2026-10-25T14:48:10Z
+50,5,110,case_r50_T05_th110.npz,done,0.6s,2026-10-25T14:48:11Z
+50,5,120,case_r50_T05_th120.npz,done,0.6s,2026-10-25T14:48:12Z
+50,5,130,case_r50_T05_th130.npz,done,0.6s,2026-10-25T14:48:12Z
+50,5,140,case_r50_T05_th140.npz,done,0.6s,2026-10-25T14:48:13Z
+50,5,150,case_r50_T05_th150.npz,done,0.6s,2026-10-25T14:48:14Z
+50,5,160,case_r50_T05_th160.npz,done,0.6s,2026-10-25T14:48:14Z
+50,5,170,case_r50_T05_th170.npz,done,0.6s,2026-10-25T14:48:15Z
+50,10,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:48:15Z
+50,10,10,case_r50_T10_th010.npz,done,0.6s,2026-10-25T14:48:16Z
+50,10,20,case_r50_T10_th020.npz,done,0.6s,2026-10-25T14:48:16Z
+50,10,30,case_r50_T10_th030.npz,done,0.6s,2026-10-25T14:48:17Z
+50,10,40,case_r50_T10_th040.npz,done,0.6s,2026-10-25T14:48:17Z
+50,10,50,case_r50_T10_th050.npz,done,0.6s,2026-10-25T14:48:18Z
+50,10,60,case_r50_T10_th060.npz,done,0.6s,2026-10-25T14:48:19Z
+50,10,70,case_r50_T10_th070.npz,done,0.8s,2026-10-25T14:48:20Z
+50,10,80,case_r50_T10_th080.npz,done,0.7s,2026-10-25T14:48:20Z
+50,10,90,case_r50_T10_th090.npz,done,0.6s,2026-10-25T14:48:21Z
+50,10,100,case_r50_T10_th100.npz,done,0.6s,2026-10-25T14:48:21Z
+50,10,110,case_r50_T10_th110.npz,done,0.6s,2026-10-25T14:48:22Z
+50,10,120,case_r50_T10_th120.npz,done,0.6s,2026-10-25T14:48:23Z
+50,10,130,case_r50_T10_th130.npz,done,0.6s,2026-10-25T14:48:23Z
+50,10,140,case_r50_T10_th140.npz,done,0.7s,2026-10-25T14:48:24Z
+50,10,150,case_r50_T10_th150.npz,done,0.6s,2026-10-25T14:48:25Z
+50,10,160,case_r50_T10_th160.npz,done,0.6s,2026-10-25T14:48:25Z
+50,10,170,case_r50_T10_th170.npz,done,0.7s,2026-10-25T14:48:26Z
+50,15,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:48:26Z
+50,15,10,case_r50_T15_th010.npz,done,0.6s,2026-10-25T14:48:26Z
+50,15,20,case_r50_T15_th020.npz,done,0.6s,2026-10-25T14:48:27Z
+50,15,30,case_r50_T15_th030.npz,done,0.6s,2026-10-25T14:48:28Z
+50,15,40,case_r50_T15_th040.npz,done,0.6s,2026-10-25T14:48:28Z
+50,15,50,case_r50_T15_th050.npz,done,0.7s,2026-10-25T14:48:29Z
+50,15,60,case_r50_T15_th060.npz,done,0.6s,2026-10-25T14:48:30Z
+50,15,70,case_r50_T15_th070.npz,done,0.6s,2026-10-25T14:48:30Z
+50,15,80,case_r50_T15_th080.npz,done,0.6s,2026-10-25T14:48:31Z
+50,15,90,case_r50_T15_th090.npz,done,0.6s,2026-10-25T14:48:32Z
+50,15,100,case_r50_T15_th100.npz,done,0.6s,2026-10-25T14:48:32Z
+50,15,110,case_r50_T15_th110.npz,done,0.6s,2026-10-25T14:48:33Z
+50,15,120,case_r50_T15_th120.npz,done,0.7s,2026-10-25T14:48:33Z
+50,15,130,case_r50_T15_th130.npz,done,0.6s,2026-10-25T14:48:34Z
+50,15,140,case_r50_T15_th140.npz,done,0.6s,2026-10-25T14:48:35Z
+50,15,150,case_r50_T15_th150.npz,done,0.6s,2026-10-25T14:48:35Z
+50,15,160,case_r50_T15_th160.npz,done,0.6s,2026-10-25T14:48:36Z
+50,15,170,case_r50_T15_th170.npz,done,0.6s,2026-10-25T14:48:37Z
+50,20,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:48:37Z
+50,20,10,case_r50_T20_th010.npz,done,0.6s,2026-10-25T14:48:37Z
+50,20,20,case_r50_T20_th020.npz,done,0.6s,2026-10-25T14:48:38Z
+50,20,30,case_r50_T20_th030.npz,done,0.6s,2026-10-25T14:48:38Z
+50,20,40,case_r50_T20_th040.npz,done,0.6s,2026-10-25T14:48:39Z
+50,20,50,case_r50_T20_th050.npz,done,0.6s,2026-10-25T14:48:40Z
+50,20,60,case_r50_T20_th060.npz,done,0.6s,2026-10-25T14:48:40Z
+50,20,70,case_r50_T20_th070.npz,done,0.6s,2026-10-25T14:48:41Z
+50,20,80,case_r50_T20_th080.npz,done,0.6s,2026-10-25T14:48:42Z
+50,20,90,case_r50_T20_th090.npz,done,0.6s,2026-10-25T14:48:42Z
+50,20,100,case_r50_T20_th100.npz,done,0.6s,2026-10-25T14:48:43Z
+50,20,110,case_r50_T20_th110.npz,done,0.6s,2026-10-25T14:48:44Z
+50,20,120,case_r50_T20_th120.npz,done,0.6s,2026-10-25T14:48:44Z
+50,20,130,case_r50_T20_th130.npz,done,0.6s,2026-10-25T14:48:45Z
+50,20,140,case_r50_T20_th140.npz,done,0.6s,2026-10-25T14:48:45Z
+50,20,150,case_r50_T20_th150.npz,done,0.6s,2026-10-25T14:48:46Z
+50,20,160,case_r50_T20_th160.npz,done,0.6s,2026-10-25T14:48:47Z
+50,20,170,case_r50_T20_th170.npz,done,0.6s,2026-10-25T14:48:47Z
+50,25,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:48:47Z
+50,25,10,case_r50_T25_th010.npz,done,0.6s,2026-10-25T14:48:48Z
+50,25,20,case_r50_T25_th020.npz,done,0.6s,2026-10-25T14:48:49Z
+50,25,30,case_r50_T25_th030.npz,done,0.6s,2026-10-25T14:48:49Z
+50,25,40,case_r50_T25_th040.npz,done,0.8s,2026-10-25T14:48:50Z
+50,25,50,case_r50_T25_th050.npz,done,0.8s,2026-10-25T14:48:51Z
+50,25,60,case_r50_T25_th060.npz,done,0.8s,2026-10-25T14:48:52Z
+50,25,70,case_r50_T25_th070.npz,done,0.8s,2026-10-25T14:48:53Z
+50,25,80,case_r50_T25_th080.npz,done,0.8s,2026-10-25T14:48:53Z
+50,25,90,case_r50_T25_th090.npz,done,0.8s,2026-10-25T14:48:54Z
+50,25,100,case_r50_T25_th100.npz,done,0.8s,2026-10-25T14:48:55Z
+50,25,110,case_r50_T25_th110.npz,done,0.6s,2026-10-25T14:48:56Z
+50,25,120,case_r50_T25_th120.npz,done,0.6s,2026-10-25T14:48:56Z
+50,25,130,case_r50_T25_th130.npz,done,0.6s,2026-10-25T14:48:57Z
+50,25,140,case_r50_T25_th140.npz,done,0.6s,2026-10-25T14:48:57Z
+50,25,150,case_r50_T25_th150.npz,done,0.6s,2026-10-25T14:48:58Z
+50,25,160,case_r50_T25_th160.npz,done,0.6s,2026-10-25T14:48:59Z
+50,25,170,case_r50_T25_th170.npz,done,0.6s,2026-10-25T14:48:59Z
+50,30,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:48:59Z
+50,30,10,case_r50_T30_th010.npz,done,0.6s,2026-10-25T14:49:00Z
+50,30,20,case_r50_T30_th020.npz,done,0.6s,2026-10-25T14:49:01Z
+50,30,30,case_r50_T30_th030.npz,done,0.6s,2026-10-25T14:49:01Z
+50,30,40,case_r50_T30_th040.npz,done,0.6s,2026-10-25T14:49:02Z
+50,30,50,case_r50_T30_th050.npz,done,0.6s,2026-10-25T14:49:02Z
+50,30,60,case_r50_T30_th060.npz,done,0.6s,2026-10-25T14:49:03Z
+50,30,70,case_r50_T30_th070.npz,done,0.6s,2026-10-25T14:49:04Z
+50,30,80,case_r50_T30_th080.npz,done,0.6s,2026-10-25T14:49:04Z
+50,30,90,case_r50_T30_th090.npz,done,0.6s,2026-10-25T14:49:05Z
+50,30,100,case_r50_T30_th100.npz,done,0.6s,2026-10-25T14:49:05Z
+50,30,110,case_r50_T30_th110.npz,done,0.6s,2026-10-25T14:49:06Z
+50,30,120,case_r50_T30_th120.npz,done,0.6s,2026-10-25T14:49:07Z
+50,30,130,case_r50_T30_th130.npz,done,0.6s,2026-10-25T14:49:07Z
+50,30,140,case_r50_T30_th140.npz,done,0.6s,2026-10-25T14:49:08Z
+50,30,150,case_r50_T30_th150.npz,done,0.6s,2026-10-25T14:49:09Z
+50,30,160,case_r50_T30_th160.npz,done,0.6s,2026-10-25T14:49:09Z
+50,30,170,case_r50_T30_th170.npz,done,0.6s,2026-10-25T14:49:10Z
+50,35,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:49:10Z
+50,35,10,case_r50_T35_th010.npz,done,0.6s,2026-10-25T14:49:10Z
+50,35,20,case_r50_T35_th020.npz,done,0.6s,2026-10-25T14:49:11Z
+50,35,30,case_r50_T35_th030.npz,done,0.6s,2026-10-25T14:49:12Z
+50,35,40,case_r50_T35_th040.npz,done,0.6s,2026-10-25T14:49:12Z
+50,35,50,case_r50_T35_th050.npz,done,0.6s,2026-10-25T14:49:13Z
+50,35,60,case_r50_T35_th060.npz,done,0.6s,2026-10-25T14:49:13Z
+50,35,70,case_r50_T35_th070.npz,done,0.6s,2026-10-25T14:49:14Z
+50,35,80,case_r50_T35_th080.npz,done,0.6s,2026-10-25T14:49:15Z
+50,35,90,case_r50_T35_th090.npz,done,0.6s,2026-10-25T14:49:15Z
+50,35,100,case_r50_T35_th100.npz,done,0.6s,2026-10-25T14:49:16Z
+50,35,110,case_r50_T35_th110.npz,done,0.6s,2026-10-25T14:49:16Z
+50,35,120,case_r50_T35_th120.npz,done,0.6s,2026-10-25T14:49:17Z
+50,35,130,case_r50_T35_th130.npz,done,0.6s,2026-10-25T14:49:18Z
+50,35,140,case_r50_T35_th140.npz,done,0.6s,2026-10-25T14:49:18Z
+50,35,150,case_r50_T35_th150.npz,done,0.6s,2026-10-25T14:49:19Z
+50,35,160,case_r50_T35_th160.npz,done,0.6s,2026-10-25T14:49:19Z
+50,35,170,case_r50_T35_th170.npz,done,0.6s,2026-10-25T14:49:20Z
+50,40,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:49:20Z
+50,40,10,case_r50_T40_th010.npz,done,0.6s,2026-10-25T14:49:21Z
+50,40,20,case_r50_T40_th020.npz,done,0.6s,2026-10-25T14:49:21Z
+50,40,30,case_r50_T40_th030.npz,done,0.6s,2026-10-25T14:49:22Z
+50,40,40,case_r50_T40_th040.npz,done,0.6s,2026-10-25T14:49:22Z
+50,40,50,case_r50_T40_th050.npz,done,0.6s,2026-10-25T14:49:23Z
+50,40,60,case_r50_T40_th060.npz,done,0.7s,2026-10-25T14:49:24Z
+50,40,70,case_r50_T40_th070.npz,done,0.6s,2026-10-25T14:49:24Z
+50,40,80,case_r50_T40_th080.npz,done,0.6s,2026-10-25T14:49:25Z
+50,40,90,case_r50_T40_th090.npz,done,0.6s,2026-10-25T14:49:26Z
+50,40,100,case_r50_T40_th100.npz,done,0.6s,2026-10-25T14:49:26Z
+50,40,110,case_r50_T40_th110.npz,done,0.6s,2026-10-25T14:49:27Z
+50,40,120,case_r50_T40_th120.npz,done,0.6s,2026-10-25T14:49:28Z
+50,40,130,case_r50_T40_th130.npz,done,0.6s,2026-10-25T14:49:28Z
+50,40,140,case_r50_T40_th140.npz,done,0.7s,2026-10-25T14:49:29Z
+50,40,150,case_r50_T40_th150.npz,done,0.6s,2026-10-25T14:49:30Z
+50,40,160,case_r50_T40_th160.npz,done,0.6s,2026-10-25T14:49:30Z
+50,40,170,case_r50_T40_th170.npz,done,0.6s,2026-10-25T14:49:31Z
+50,45,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:49:31Z
+50,45,10,case_r50_T45_th010.npz,done,0.7s,2026-10-25T14:49:32Z
+50,45,20,case_r50_T45_th020.npz,done,0.6s,2026-10-25T14:49:32Z
+50,45,30,case_r50_T45_th030.npz,done,0.6s,2026-10-25T14:49:33Z
+50,45,40,case_r50_T45_th040.npz,done,0.6s,2026-10-25T14:49:33Z
+50,45,50,case_r50_T45_th050.npz,done,0.7s,2026-10-25T14:49:34Z
+50,45,60,case_r50_T45_th060.npz,done,0.6s,2026-10-25T14:49:35Z
+50,45,70,case_r50_T45_th070.npz,done,0.6s,2026-10-25T14:49:35Z
+50,45,80,case_r50_T45_th080.npz,done,0.6s,2026-10-25T14:49:36Z
+50,45,90,case_r50_T45_th090.npz,done,0.6s,2026-10-25T14:49:37Z
+50,45,100,case_r50_T45_th100.npz,done,0.6s,2026-10-25T14:49:37Z
+50,45,110,case_r50_T45_th110.npz,done,0.6s,2026-10-25T14:49:38Z
+50,45,120,case_r50_T45_th120.npz,done,0.6s,2026-10-25T14:49:38Z
+50,45,130,case_r50_T45_th130.npz,done,0.6s,2026-10-25T14:49:39Z
+50,45,140,case_r50_T45_th140.npz,done,0.6s,2026-10-25T14:49:40Z
+50,45,150,case_r50_T45_th150.npz,done,0.6s,2026-10-25T14:49:40Z
+50,45,160,case_r50_T45_th160.npz,done,0.6s,2026-10-25T14:49:41Z
+50,45,170,case_r50_T45_th170.npz,done,0.6s,2026-10-25T14:49:42Z
+50,50,0,,skipped_singular,"theta=0 -> k=0, epsilon_RPA 1/k^2 singular",2026-10-25T14:49:42Z
+50,50,10,case_r50_T50_th010.npz,done,0.6s,2026-10-25T14:49:42Z
+50,50,20,case_r50_T50_th020.npz,done,0.6s,2026-10-25T14:49:43Z
+50,50,30,case_r50_T50_th030.npz,done,0.6s,2026-10-25T14:49:43Z
+50,50,40,case_r50_T50_th040.npz,done,0.6s,2026-10-25T14:49:44Z
+50,50,50,case_r50_T50_th050.npz,done,0.6s,2026-10-25T14:49:45Z
+50,50,60,case_r50_T50_th060.npz,done,0.6s,2026-10-25T14:49:45Z
+50,50,70,case_r50_T50_th070.npz,done,0.6s,2026-10-25T14:49:46Z
+50,50,80,case_r50_T50_th080.npz,done,0.6s,2026-10-25T14:49:46Z
+50,50,90,case_r50_T50_th090.npz,done,0.6s,2026-10-25T14:49:47Z
+50,50,100,case_r50_T50_th100.npz,done,0.6s,2026-10-25T14:49:48Z
+50,50,110,case_r50_T50_th110.npz,done,0.6s,2026-10-25T14:49:48Z
+50,50,120,case_r50_T50_th120.npz,done,0.6s,2026-10-25T14:49:49Z
+50,50,130,case_r50_T50_th130.npz,done,0.6s,2026-10-25T14:49:49Z
+50,50,140,case_r50_T50_th140.npz,done,0.6s,2026-10-25T14:49:50Z
+50,50,150,case_r50_T50_th150.npz,done,0.6s,2026-10-25T14:49:51Z
+50,50,160,case_r50_T50_th160.npz,done,0.6s,2026-10-25T14:49:51Z
+50,50,170,case_r50_T50_th170.npz,done,0.6s,2026-10-25T14:49:52Z
