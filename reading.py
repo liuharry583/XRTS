@@ -1,7 +1,3 @@
-import os
-import matplotlib
-
-matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
 from data_reading import load_case
@@ -15,6 +11,4 @@ plt.ylabel("S(k,ω) (arb. units)")
 plt.title("db_v1 demo: rho=10 g/cm³, θ=160°")
 plt.legend()
 plt.tight_layout()
-out = os.path.join(os.path.dirname(os.path.abspath(__file__)), "db_v1_读取演示.png")
-plt.savefig(out, dpi=110)
-print(f"\n演示图已存：{out}")
+plt.show()
