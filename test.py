@@ -1,16 +1,26 @@
-from draft2 import plot_spectrum, compute
+from dataclasses import replace
 from matplotlib import pyplot as plt
+import draft as pc
 
-if __name__ == "__main__":
-    theta_deg = 80
-    E_lo, E_hi = -1, 1
-    E, w, S, S_tot, k = compute(theta_deg, E_lo, E_hi, method="integral")
-    plt.figure()
-    plt.plot(E, S_tot, "k-", lw=1.2)
-    plt.axvline(0, color="gray", ls="--", lw=0.8)
-    plt.xlabel("Photon energy shift (eV)")
-    plt.ylabel("S(k,ω) (arb. units)")
-    plt.title(f"θ={theta_deg}°")
-    plt.xlim(E_lo, E_hi)
-    plt.ylim(0, None)
-    plt.show()
+base = pc.PhysicsConfig(
+    E0_keV=2.96,
+    ZA=4.0,
+    Zf=2.0,
+    Te_eV=10.0,
+    ne=6.0e29,
+    NU_MODE="const",
+    NU_FRAC=0.0,
+    SII_MODE="arkhipov",
+    INSTRUMENT_FWHM_eV=12.0,  # 等效原标准差 5 eV
+)
+
+plt.figure()
+E, omega, free, total, k = pc.compute(
+    40.0, -100.0, 100.0, nw=2000, method="auto", config=base
+)
+plt.plot(E, total)
+
+plt.xlabel("Energy [eV]")
+plt.ylabel("Dynamic structure factor S(k, ω)")
+plt.title(f"ZA={base.ZA}, Zf={base.Zf}, ne={base.ne:.2e} m^-3")
+plt.show()
