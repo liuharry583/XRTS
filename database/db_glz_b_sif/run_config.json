@@ -1,0 +1,50 @@
+{
+  "run_signature": "1d7a3f782eb17a8f9955c29758de5f4f1842450cbca049d34836b06900375c2b",
+  "schema_version": 1,
+  "base_physics": {
+    "E0_keV": 2.96,
+    "ZA": 4.0,
+    "Zf": 2.2,
+    "ELECTRON_METHOD": "integral",
+    "NU_MODE": "const",
+    "nu_rad_s": 500000000000000.0,
+    "SII_MODE": "dh",
+    "USE_CHIHARA_ION": true
+  },
+  "theta_deg": 40.0,
+  "E_lo": -70.0,
+  "E_hi": 50.0,
+  "nw": 1200,
+  "source_step_requested_eV": null,
+  "sif": {
+    "path": "C:\\Users\\HP\\Documents\\Harry\\XRTS\\sif_0.txt",
+    "sha256": "5c4efb210fe5bfb1a7133fa90a7f083c65fc1b9ee7dce883677400e3872e4cb5",
+    "input_axis": "energy-loss",
+    "convolution_axis": "photon-shift",
+    "energy_unit": "eV",
+    "negative_policy": "clip",
+    "negative_points": 17,
+    "minimum_input_intensity": -0.00358644847742,
+    "duplicate_points": 2,
+    "area_before_normalization": 24.577863954836495,
+    "area_normalized": true,
+    "peak_energy_eV": 0.000447140751263,
+    "support_eV": [
+      -47.5793674833,
+      37.7177791817
+    ],
+    "outside_support": "zero",
+    "baseline_subtracted": false,
+    "smoothing": false,
+    "recentered": false
+  },
+  "code_sha256": {
+    "physical_core.py": "d932176eedf12468814bc4494df688077dad121b8a1927873c6cae032da6808b",
+    "draft_sif.py": "1e3d9057a42caad46499ac1a7be0eca0abfe1fe6838f736077f1316d3b258bd8",
+    "sif_response.py": "f60fc9faba34b15d66c0948c806b19fd75d4373929b05de7ec0c3165691313e2",
+    "run_glz_sif.py": "6768401d48a2146d470507125bf4cdf5016bbaa8a124d7e5fdc8cd303ca1b3b5"
+  },
+  "normalization_a": "total peak = 1; components share total scale",
+  "normalization_b": "raw free peak = 1; broadened free normalized AFTER convolution to its own peak = 1",
+  "gaussian_fwhm_used": false
+}

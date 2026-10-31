@@ -1,0 +1,4 @@
+﻿file,status,error,peak_before,peak_after,valid_points,npts
+case_T01_N00.npz,ok,,1.0,0.22114035553113304,347,1200
+case_T01_N01.npz,ok,,1.0,0.15233153839579006,347,1200
+case_T01_N02.npz,ok,,1.0,0.12639175818280157,347,1200

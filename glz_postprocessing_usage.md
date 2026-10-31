@@ -1,5 +1,10 @@
 # Glenzer 双库后处理
 
+> 本文件下述命令保留原来的 **8.7 eV 高斯** 流程。
+> 改用根目录 `sif_0.txt` 时请阅读 `measured_sif_usage.md`：
+> `run_glz_sif.py` 重建使用实验 SIF 的双库；`broaden_glz_free_sif.py` 可只处理旧 B 库。
+> 新 A 库的弹性项随实测 SIF 形状变化，不应再套用此处的高斯扣峰脚本。
+
 在项目根目录运行（Windows）：
 
 ```powershell

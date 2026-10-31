@@ -1,7 +1,7 @@
 from dataclasses import replace
 from matplotlib import pyplot as plt
 import numpy as np
-import draft as pc
+import draft_sif as pc
 
 cfg = pc.PhysicsConfig(
     Te_eV=12.0,
@@ -13,7 +13,6 @@ cfg = pc.PhysicsConfig(
     NU_MODE="const",
     nu_rad_s=5.0e14,
     SII_MODE="dh",
-    INSTRUMENT_FWHM_eV=8.7,
 )
 E, w, S_free, S_tot, k = pc.compute(
     40.0, -70.0, 45.0, nw=1800, config=cfg, normalize=True
@@ -21,10 +20,12 @@ E, w, S_free, S_tot, k = pc.compute(
 # 仿原文的 finite-k 处理：对 θ = 25…55 取 5 个角度各算一次再平均（我试跑就是这么做的）
 # 画 Glenzer 式横轴：光子能量 keV = 2.96 - (损失 eV)/1000，其中损失 = -E
 
-data = np.loadtxt("./RTS_calculating/exp_data.txt")
+data = np.loadtxt("exp_elastic_1.txt")
 
 plt.figure(figsize=(8, 6))
-plt.plot(E, S_tot)
+plt.plot(E, S_tot, label="Calculated S_tot")
+plt.plot(data[:, 0], data[:, 1], label="Experimental data")
+plt.legend()
 
 plt.xlabel("Energy [eV]")
 plt.ylabel("Dynamic structure factor S(k, ω)")

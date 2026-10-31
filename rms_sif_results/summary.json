@@ -1,0 +1,359 @@
+{
+  "created_utc": "2026-10-31T03:57:46.676435+00:00",
+  "script_sha256": "0f2e8b7586e139c6ece69ebfa6e2822153e58f3e90c5f1152d0a4882c8c61415",
+  "numpy_version": "2.3.5",
+  "matplotlib_version": "3.11.2",
+  "rms_definition": "sqrt(mean((theory_interpolated_to_experiment - experiment)**2))",
+  "weighting": "equal weight per retained row after duplicate handling",
+  "energy_axis": "photon shift (eV); energy loss is negative",
+  "interpolation": "linear; no extrapolation; both bracketing points must have rms_valid_mask=True",
+  "normalization": "stored intensities unchanged on both sides",
+  "fitted_nuisance_parameters": [],
+  "physics": {
+    "E0_keV": 2.96,
+    "theta_deg": 40.0,
+    "ZA": 4.0,
+    "Zf": 2.2,
+    "NU_MODE": "const",
+    "SII_MODE": "dh",
+    "nu_rad_s": 500000000000000.0,
+    "NU_FRAC": 0.0,
+    "actual_nu_rad_s": 500000000000000.0,
+    "ELECTRON_METHOD": "integral",
+    "USE_CHIHARA_ION": true,
+    "instrument_model": "measured-SIF",
+    "gaussian_fwhm_used": false,
+    "sif_sha256": "5c4efb210fe5bfb1a7133fa90a7f083c65fc1b9ee7dce883677400e3872e4cb5",
+    "sif_input_axis": "energy-loss",
+    "sif_convolution_axis": "photon-shift"
+  },
+  "database_provenance": {
+    "a": {
+      "path": "C:\\Users\\HP\\Documents\\Harry\\XRTS\\database\\db_glz_a_sif",
+      "files": 1209,
+      "sorted_filenames_and_file_hashes_sha256": "15b4ffbcc5108b9bb026703b8f693523698ecb795044a51074abfd4d87d1d3d1",
+      "run_config_sha256": "844c0802e0ade3ad137f8cd344ca972921512a34f9391ed82d22c36c9fbae871",
+      "run_signatures": [
+        "dd9086d89858e6be2c83336dd2f5e08c1843119b836b6633f3e0c52bf7bd386a"
+      ],
+      "source_step_eV_range": [
+        0.10008340283569642,
+        0.10008340283569642
+      ]
+    },
+    "b": {
+      "path": "C:\\Users\\HP\\Documents\\Harry\\XRTS\\database\\db_glz_b_sif",
+      "files": 1209,
+      "sorted_filenames_and_file_hashes_sha256": "a33d377480e4af46256504309d6ef86229465848ac06c8b82dbf5b2c1ea3734c",
+      "run_config_sha256": "17103958efb266b901e65e0338c86950987e198192a442740e4327d6f72fa98d",
+      "run_signatures": [
+        "1d7a3f782eb17a8f9955c29758de5f4f1842450cbca049d34836b06900375c2b"
+      ],
+      "source_step_eV_range": [
+        0.10008340283569642,
+        0.10008340283569642
+      ]
+    }
+  },
+  "plot_note": "Contours interpolate between scanned grid points; color scales are independent. No confidence intervals.",
+  "groups": [
+    {
+      "path": "C:\\Users\\HP\\Documents\\Harry\\XRTS\\exp_elastic_1_negative.txt",
+      "sha256": "f0a836e994ffefe3dc079c148960ce0eb32824889c78a53a7b222074aa4d7b0a",
+      "raw_rows": 1205,
+      "unique_energies": 727,
+      "duplicate_rows": 478,
+      "duplicate_policy": "mean",
+      "raw_energy_range_eV": [
+        -57.5819060889,
+        39.5768750343
+      ],
+      "raw_intensity_range": [
+        -0.0797314976708,
+        1.0
+      ],
+      "group": "total",
+      "database": "C:\\Users\\HP\\Documents\\Harry\\XRTS\\database\\db_glz_a_sif",
+      "field": "S_tot",
+      "requested_energy_range_eV": [
+        null,
+        null
+      ],
+      "points_in_requested_window": 727,
+      "removed_outside_common_theory_support": 0,
+      "used_points": 727,
+      "used_energy_range_eV": [
+        -57.5819060889,
+        39.5768750343
+      ],
+      "used_intensity_range": [
+        -0.0797314976708,
+        1.0
+      ],
+      "grid_points": 1209,
+      "best": {
+        "Te_eV": 5.0,
+        "ne_m3": 3.5e+29,
+        "ne_cm3": 3.4999999999999995e+23,
+        "rms": 0.11805035307088063,
+        "file": "C:\\Users\\HP\\Documents\\Harry\\XRTS\\database\\db_glz_a_sif\\case_T05_N05.npz",
+        "on_grid_boundary": false,
+        "tied_grid_minima": 1
+      },
+      "best_case_metadata": {
+        "Te_eV": 5.0,
+        "ne": 3.5e+29,
+        "Zf": 2.2,
+        "ZA": 4.0,
+        "E0_keV": 2.96,
+        "NU_MODE": "const",
+        "SII_MODE": "dh",
+        "NU_FRAC": 0.0,
+        "USE_CHIHARA_ION": true,
+        "nu_rad_s": 500000000000000.0,
+        "ELECTRON_METHOD": "integral",
+        "theta_deg": 40.0,
+        "E_lo": -70.0,
+        "E_hi": 50.0,
+        "nw": 1200,
+        "k": 10260934642.67124,
+        "j": 5,
+        "run_signature": "dd9086d89858e6be2c83336dd2f5e08c1843119b836b6633f3e0c52bf7bd386a",
+        "sif": {
+          "path": "C:\\Users\\HP\\Documents\\Harry\\XRTS\\sif_0.txt",
+          "sha256": "5c4efb210fe5bfb1a7133fa90a7f083c65fc1b9ee7dce883677400e3872e4cb5",
+          "input_axis": "energy-loss",
+          "convolution_axis": "photon-shift",
+          "energy_unit": "eV",
+          "negative_policy": "clip",
+          "negative_points": 17,
+          "minimum_input_intensity": -0.00358644847742,
+          "duplicate_points": 2,
+          "area_before_normalization": 24.577863954836495,
+          "area_normalized": true,
+          "peak_energy_eV": 0.000447140751263,
+          "support_eV": [
+            -47.5793674833,
+            37.7177791817
+          ],
+          "outside_support": "zero",
+          "baseline_subtracted": false,
+          "smoothing": false,
+          "recentered": false
+        },
+        "instrument_model": "measured-SIF",
+        "gaussian_fwhm_used": false,
+        "actual_nu_rad_s": 500000000000000.0,
+        "normalize": true,
+        "free_raw_peak_before_normalization": 2.5954445869527562e-17,
+        "total_peak_before_normalization": 3.0142312925035295e-17,
+        "source_step_eV": 0.10008340283569642,
+        "source_range_eV": [
+          -107.93160967472895,
+          97.83986655546289
+        ],
+        "note_a": "total peak = 1; components share total scale",
+        "note_b": "raw free peak = 1; broadened free shares raw scale"
+      }
+    },
+    {
+      "path": "C:\\Users\\HP\\Documents\\Harry\\XRTS\\exp_noelastic_1_negative.txt",
+      "sha256": "8997c16012a59f41d78055334253a3fc18443af67e112a3ce0155de72d530e27",
+      "raw_rows": 1205,
+      "unique_energies": 727,
+      "duplicate_rows": 478,
+      "duplicate_policy": "mean",
+      "raw_energy_range_eV": [
+        -57.5819060889,
+        39.5768750343
+      ],
+      "raw_intensity_range": [
+        -0.164933339718,
+        0.60861750625
+      ],
+      "group": "inelastic_total",
+      "database": "C:\\Users\\HP\\Documents\\Harry\\XRTS\\database\\db_glz_a_sif",
+      "field": "S_inelastic",
+      "requested_energy_range_eV": [
+        null,
+        null
+      ],
+      "points_in_requested_window": 727,
+      "removed_outside_common_theory_support": 0,
+      "used_points": 727,
+      "used_energy_range_eV": [
+        -57.5819060889,
+        39.5768750343
+      ],
+      "used_intensity_range": [
+        -0.164933339718,
+        0.60861750625
+      ],
+      "grid_points": 1209,
+      "best": {
+        "Te_eV": 5.0,
+        "ne_m3": 3.5e+29,
+        "ne_cm3": 3.4999999999999995e+23,
+        "rms": 0.11306679396041044,
+        "file": "C:\\Users\\HP\\Documents\\Harry\\XRTS\\database\\db_glz_a_sif\\case_T05_N05.npz",
+        "on_grid_boundary": false,
+        "tied_grid_minima": 1
+      },
+      "best_case_metadata": {
+        "Te_eV": 5.0,
+        "ne": 3.5e+29,
+        "Zf": 2.2,
+        "ZA": 4.0,
+        "E0_keV": 2.96,
+        "NU_MODE": "const",
+        "SII_MODE": "dh",
+        "NU_FRAC": 0.0,
+        "USE_CHIHARA_ION": true,
+        "nu_rad_s": 500000000000000.0,
+        "ELECTRON_METHOD": "integral",
+        "theta_deg": 40.0,
+        "E_lo": -70.0,
+        "E_hi": 50.0,
+        "nw": 1200,
+        "k": 10260934642.67124,
+        "j": 5,
+        "run_signature": "dd9086d89858e6be2c83336dd2f5e08c1843119b836b6633f3e0c52bf7bd386a",
+        "sif": {
+          "path": "C:\\Users\\HP\\Documents\\Harry\\XRTS\\sif_0.txt",
+          "sha256": "5c4efb210fe5bfb1a7133fa90a7f083c65fc1b9ee7dce883677400e3872e4cb5",
+          "input_axis": "energy-loss",
+          "convolution_axis": "photon-shift",
+          "energy_unit": "eV",
+          "negative_policy": "clip",
+          "negative_points": 17,
+          "minimum_input_intensity": -0.00358644847742,
+          "duplicate_points": 2,
+          "area_before_normalization": 24.577863954836495,
+          "area_normalized": true,
+          "peak_energy_eV": 0.000447140751263,
+          "support_eV": [
+            -47.5793674833,
+            37.7177791817
+          ],
+          "outside_support": "zero",
+          "baseline_subtracted": false,
+          "smoothing": false,
+          "recentered": false
+        },
+        "instrument_model": "measured-SIF",
+        "gaussian_fwhm_used": false,
+        "actual_nu_rad_s": 500000000000000.0,
+        "normalize": true,
+        "free_raw_peak_before_normalization": 2.5954445869527562e-17,
+        "total_peak_before_normalization": 3.0142312925035295e-17,
+        "source_step_eV": 0.10008340283569642,
+        "source_range_eV": [
+          -107.93160967472895,
+          97.83986655546289
+        ],
+        "note_a": "total peak = 1; components share total scale",
+        "note_b": "raw free peak = 1; broadened free shares raw scale"
+      }
+    },
+    {
+      "path": "C:\\Users\\HP\\Documents\\Harry\\XRTS\\exp_noelastic_2_negative.txt",
+      "sha256": "9702c70c0b77992199764ec0b8b3b8d3d9f8a0a9a2a23b47994bc7b6cae46a69",
+      "raw_rows": 1205,
+      "unique_energies": 727,
+      "duplicate_rows": 478,
+      "duplicate_policy": "mean",
+      "raw_energy_range_eV": [
+        -57.5819060889,
+        39.5768750343
+      ],
+      "raw_intensity_range": [
+        -0.270996703929,
+        1.0
+      ],
+      "group": "inelastic_peak",
+      "database": "C:\\Users\\HP\\Documents\\Harry\\XRTS\\database\\db_glz_b_sif",
+      "field": "S_free_broadened",
+      "requested_energy_range_eV": [
+        null,
+        null
+      ],
+      "points_in_requested_window": 727,
+      "removed_outside_common_theory_support": 0,
+      "used_points": 727,
+      "used_energy_range_eV": [
+        -57.5819060889,
+        39.5768750343
+      ],
+      "used_intensity_range": [
+        -0.270996703929,
+        1.0
+      ],
+      "grid_points": 1209,
+      "best": {
+        "Te_eV": 10.0,
+        "ne_m3": 3e+29,
+        "ne_cm3": 3e+23,
+        "rms": 0.17138726651496441,
+        "file": "C:\\Users\\HP\\Documents\\Harry\\XRTS\\database\\db_glz_b_sif\\case_T10_N04.npz",
+        "on_grid_boundary": false,
+        "tied_grid_minima": 1
+      },
+      "best_case_metadata": {
+        "Te_eV": 10.0,
+        "ne": 3e+29,
+        "Zf": 2.2,
+        "ZA": 4.0,
+        "E0_keV": 2.96,
+        "NU_MODE": "const",
+        "SII_MODE": "dh",
+        "NU_FRAC": 0.0,
+        "USE_CHIHARA_ION": true,
+        "nu_rad_s": 500000000000000.0,
+        "ELECTRON_METHOD": "integral",
+        "theta_deg": 40.0,
+        "E_lo": -70.0,
+        "E_hi": 50.0,
+        "nw": 1200,
+        "k": 10260934642.67124,
+        "j": 4,
+        "run_signature": "1d7a3f782eb17a8f9955c29758de5f4f1842450cbca049d34836b06900375c2b",
+        "sif": {
+          "path": "C:\\Users\\HP\\Documents\\Harry\\XRTS\\sif_0.txt",
+          "sha256": "5c4efb210fe5bfb1a7133fa90a7f083c65fc1b9ee7dce883677400e3872e4cb5",
+          "input_axis": "energy-loss",
+          "convolution_axis": "photon-shift",
+          "energy_unit": "eV",
+          "negative_policy": "clip",
+          "negative_points": 17,
+          "minimum_input_intensity": -0.00358644847742,
+          "duplicate_points": 2,
+          "area_before_normalization": 24.577863954836495,
+          "area_normalized": true,
+          "peak_energy_eV": 0.000447140751263,
+          "support_eV": [
+            -47.5793674833,
+            37.7177791817
+          ],
+          "outside_support": "zero",
+          "baseline_subtracted": false,
+          "smoothing": false,
+          "recentered": false
+        },
+        "instrument_model": "measured-SIF",
+        "gaussian_fwhm_used": false,
+        "actual_nu_rad_s": 500000000000000.0,
+        "normalize": true,
+        "free_raw_peak_before_normalization": 1.0647503158577907e-17,
+        "free_broadened_peak_before_normalization": 5.88821975644202e-18,
+        "total_peak_before_normalization": 6.256158978110835e-17,
+        "source_step_eV": 0.10008340283569642,
+        "source_range_eV": [
+          -107.93160967472895,
+          97.83986655546289
+        ],
+        "note_a": "total peak = 1; components share total scale",
+        "note_b": "raw free peak = 1; broadened free normalized AFTER convolution to its own peak = 1"
+      }
+    }
+  ]
+}

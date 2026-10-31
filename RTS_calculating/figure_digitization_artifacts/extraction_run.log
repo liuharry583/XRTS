@@ -1,8 +1,0 @@
-X mapping: x = -0.133333333333*col + 67.7333333333
-Y mapping: y = -0.00397614314115*row + 3.13320079523
-wrote 1205 rows -> exp_0.txt
-[green] comparison -> compare_extract_exp.png
-[green] points=1205, x∈[-57.3333,39.8667], y∈[-0.190855,2.46918]
-wrote 643 rows -> sif_0.txt
-[blue] comparison -> compare_extract_sif.png
-[blue] points=643, x∈[-47.4667,37.8667], y∈[0.00198807,2.36382]

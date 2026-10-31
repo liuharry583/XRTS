@@ -1,0 +1,7 @@
+﻿Te_eV,ne_m-3,j,status,file_a,file_b,npts,sec,error
+12,3e+29,4,ok,.validation\measured_sif_smoke\loss_axis\db_glz_a_sif\case_T12_N04.npz,.validation\measured_sif_smoke\loss_axis\db_glz_b_sif\case_T12_N04.npz,1200,3.797,
+1,1e+29,0,ok,.validation\measured_sif_smoke\loss_axis\db_glz_a_sif\case_T01_N00.npz,.validation\measured_sif_smoke\loss_axis\db_glz_b_sif\case_T01_N00.npz,1200,3.953,
+1,1.9999999999999998e+30,38,ok,.validation\measured_sif_smoke\loss_axis\db_glz_a_sif\case_T01_N38.npz,.validation\measured_sif_smoke\loss_axis\db_glz_b_sif\case_T01_N38.npz,1199,3.687,
+31,1e+29,0,ok,.validation\measured_sif_smoke\loss_axis\db_glz_a_sif\case_T31_N00.npz,.validation\measured_sif_smoke\loss_axis\db_glz_b_sif\case_T31_N00.npz,1200,3.985,
+31,1.9999999999999998e+30,38,ok,.validation\measured_sif_smoke\loss_axis\db_glz_a_sif\case_T31_N38.npz,.validation\measured_sif_smoke\loss_axis\db_glz_b_sif\case_T31_N38.npz,1199,4.39,
+12,3e+29,4,skipped,.validation\measured_sif_smoke\loss_axis\db_glz_a_sif\case_T12_N04.npz,.validation\measured_sif_smoke\loss_axis\db_glz_b_sif\case_T12_N04.npz,1200,0.016,

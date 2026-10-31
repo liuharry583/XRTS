@@ -1,0 +1,4 @@
+﻿group,field,Te_eV,ne_m3,ne_cm3,RMS,N_points,on_grid_boundary
+total,S_tot,5.0,3.5e+29,3.4999999999999995e+23,0.11805035307088063,727,False
+inelastic_total,S_inelastic,5.0,3.5e+29,3.4999999999999995e+23,0.11306679396041044,727,False
+inelastic_peak,S_free_broadened,10.0,3e+29,3e+23,0.17138726651496441,727,False
